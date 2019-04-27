@@ -1,6 +1,6 @@
 from PIL import Image
-from scipy.stats import skew, kurtosis, laplace
-from scipy.optimize import curve_fit, minimize
+from scipy.stats import skew, kurtosis,laplace
+from scipy.optimize import curve_fit,minimize
 from scipy.special import factorial, loggamma
 from matplotlib.backends.backend_pdf import PdfPages
 import numpy as np
@@ -22,15 +22,10 @@ def getGreen(greenVal):
 def getBlue(blueVal):
     return '#%02x%02x%02x' % (0, 0, blueVal)
 
-
-def func_laplace(x, loc, scale):
-    return np.exp(-abs(x - loc) / scale) / (2. * scale)
-
-
-def func_gaussian(x, mu, sigma):
-    return 1 / (sigma * np.sqrt(2 * np.pi)) * np.exp(- (x - mu) ** 2 / (2 * sigma ** 2))
-
-
+def func_laplace(x,loc,scale):
+    return    np.exp(-abs(x - loc) / scale) / (2. * scale)
+def func_gaussian(x,mu,sigma):
+    return    1 / (sigma * np.sqrt(2 * np.pi)) * np.exp(- (x - mu) ** 2 / (2 * sigma ** 2))
 def func_poisson(k, lamb):
     return (lamb ** k / factorial(k)) * np.exp(-lamb)
 
@@ -42,8 +37,8 @@ def Solve():
     np.seterr(divide='ignore', invalid='ignore')
     if not sys.warnoptions:
         import warnings
-        warnings.simplefilter("ignore")  # ignore some warnings from system
-    cnt = 0  # count how many images had taken
+        warnings.simplefilter("ignore") #ignore some warnings from system
+    cnt=0 #count how many images had taken
     for filename in glob.glob('D:/10semester/Progonov/Лабораторные работы/mirflickr/*.jpg'):
         photo = Image.open(filename)
         photo = photo.convert('RGB')
@@ -105,7 +100,7 @@ def Solve():
             TempSum += x ** 2 * GreenDict[x]
         TempSum /= (width * height)
         D = TempSum - stt.mean(Green) ** 2
-        testt = D
+        testt=D
         g.write('The Variance of Green channel is :  {}\n\n'.format(D))
         # =====================================================
         # for Blue channel
@@ -128,18 +123,18 @@ def Solve():
         histogram = photo.histogram()
         # Take only the Red counts
         l1 = histogram[0:256]
-        summ = sum(l1)
-        l1[:] = [x / summ for x in l1]
+        summ=sum(l1)
+        l1[:]=[x/summ for x in l1]
 
         # Take only the Green counts
         l2 = histogram[256:512]
-        summ = sum(l2)
-        l2[:] = [x / summ for x in l2]
+        summ=sum(l2)
+        l2[:]=[x/summ for x in l2]
 
         # Take only the Blue counts
         l3 = histogram[512:768]
-        summ = sum(l3)
-        l3[:] = [x / summ for x in l3]
+        summ=sum(l3)
+        l3[:]=[x/summ for x in l3]
 
         fig = plt.figure(figsize=(15, 8))
 
@@ -164,12 +159,12 @@ def Solve():
         for i in range(0, 256):
             ax3.bar(i, l3[i], color=getBlue(i), edgecolor=getBlue(i), alpha=0.3)
 
-        # =============================================
-        x = np.linspace(0, 255, 256)
-        # Red channel
+        #=============================================
+        x=np.linspace(0,255,256)
+        #Red channel
         # fit histogram with gaussian ditribution
         popt, pcov = curve_fit(func_gaussian, x, l1)
-        ax1.plot(x, func_gaussian(x, *popt), 'r-')
+        ax1.plot(x, func_gaussian(x, *popt), 'r-', label='fit:')
 
         # fit histogram with laplace distribution
         popt, pcov = curve_fit(func_laplace, x, l1)
@@ -178,27 +173,27 @@ def Solve():
         # fit histogram with poisson distribution
 
         popt, pcov = curve_fit(func_poisson, x, l1)
-        # ax1.plot(x, func_poisson(x, popt), 'r-', lw=2)
+        #ax1.plot(x, func_poisson(x, popt), 'r-', lw=2)
 
         ax1.legend(('Gaussian distribution', 'Laplace distribution'), loc='upper right')
 
-        # Green channel
-        # fit histogram with gaussian ditribution
+        #Green channel
+        #fit histogram with gaussian ditribution
         popt, pcov = curve_fit(func_gaussian, x, l2)
-        ax2.plot(x, func_gaussian(x, *popt), 'r-')
+        ax2.plot(x, func_gaussian(x, *popt), 'r-', label='fit: a=%5.3f, b=%5.3f' % tuple(popt))
 
-        # fit histogram with laplace distribution
+        #fit histogram with laplace distribution
         popt, pcov = curve_fit(func_laplace, x, l2)
-        ax2.plot(x, func_laplace(x, *popt), 'r-', linestyle="--", label='fit:')
+        ax2.plot(x, func_laplace(x, *popt), 'r-',linestyle = "--",label = 'fit:')
 
         # fit histogram with poisson distribution
 
         popt, pcov = curve_fit(func_poisson, x, l2)
-        # ax2.plot(x, func_poisson(x,popt), 'r-', lw=2)
+        #ax2.plot(x, func_poisson(x,popt), 'r-', lw=2)
 
-        ax2.legend(('Gaussian distribution', 'Laplace distribution'), loc='upper right')
+        ax2.legend(('Gaussian distribution', 'Laplace distribution'),loc='upper right')
 
-        # Blue channel
+        #Blue channel
         # fit histogram with gaussian ditribution
         popt, pcov = curve_fit(func_gaussian, x, l3)
         ax3.plot(x, func_gaussian(x, *popt), 'r-', label='fit1')
@@ -210,19 +205,17 @@ def Solve():
         # fit histogram with poisson distribution
 
         popt, pcov = curve_fit(func_poisson, x, l3)
-        ax3.plot(x, func_poisson(x, *popt), 'r-', lw=2, linestyle=':')
+        ax3.plot(x, func_poisson(x,*popt), 'r-', lw=2, linestyle = ':')
 
-        ax3.legend(('Gaussian distribution', 'Laplace distribution', 'Poisson distribution'), loc='upper right')
+        ax3.legend(('Gaussian distribution', 'Laplace distribution','Poisson distribution'),loc = 'upper right')
 
         pp.savefig()
         plt.close('all')
         photo.close()
         g.write('=================================================\n\n')
-        cnt += 1
-        if cnt >= 1:
+        cnt+=1
+        if cnt>=1:
             break
     pp.close()
     g.close()
-
-
 Solve()
