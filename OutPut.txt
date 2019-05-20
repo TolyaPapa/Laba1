@@ -10,15 +10,15 @@ Lower and Upper quantile of Red channel are : 53.0 168.0
 Mean value is : 111.615384
 Skewness and Kurtosis are : 0.4704551499087828 -0.917433489037006
 Average value of Red channel is : 111.615384
-The Variance of Red channel is :  4791.827414532545
+The Variance of Red channel is  : 4791.846581918871
 
 Sum of Green channel is : 26384977 
 Median of Green channel is : 91.0
 Lower and Upper quantile of Green channel are : 51.0 154.0
 Mean value is : 105.539908
 Skewness and Kurtosis are : 0.5556011113349705 -0.666691069623143
-Average value of Red channel is : 105.539908
-The Variance of Green channel is :  4387.722247351536
+Average value of Green channel is : 105.539908
+The Variance of Green channel is  : 4387.739798310729
 
 Sum of Blue channel is : 23326535
 Median of Blue channel is : 77.0
@@ -26,7 +26,7 @@ Lower and Upper quantile of Blue channel are : 40.0 139.0
 Mean value is : 93.30614
 Skewness and Kurtosis are : 0.6946958297730965 -0.47469675972776404
 Average value of Blue channel is : 93.30614
-The Variance of Blue channel is :  4180.4746263004
+The Variance of Blue channel is  : 4180.491348265793
 
 Fitted errors for Red channel:
 
@@ -66,15 +66,15 @@ Lower and Upper quantile of Red channel are : 87.0 184.0
 Mean value is : 132.3924804804805
 Skewness and Kurtosis are : -0.30336125232758815 -0.7717839088528295
 Average value of Red channel is : 132.3924804804805
-The Variance of Red channel is :  4021.177694808175
+The Variance of Red channel is  : 4021.201846170617
 
 Sum of Green channel is : 21234256 
 Median of Green channel is : 132.0
 Lower and Upper quantile of Green channel are : 79.0 181.0
 Mean value is : 127.53306906906907
 Skewness and Kurtosis are : -0.2155639554409157 -0.8948220610415234
-Average value of Red channel is : 127.53306906906907
-The Variance of Green channel is :  4285.053603133367
+Average value of Green channel is : 127.53306906906907
+The Variance of Green channel is  : 4285.079339345616
 
 Sum of Blue channel is : 21567486
 Median of Blue channel is : 134.0
@@ -82,7 +82,7 @@ Lower and Upper quantile of Blue channel are : 78.0 185.0
 Mean value is : 129.53445045045046
 Skewness and Kurtosis are : -0.18033191757668543 -0.9637171663255573
 Average value of Blue channel is : 129.53445045045046
-The Variance of Blue channel is :  4524.749557911204
+The Variance of Blue channel is  : 4524.776733747447
 
 Fitted errors for Red channel:
 
@@ -122,15 +122,15 @@ Lower and Upper quantile of Red channel are : 105.0 172.0
 Mean value is : 137.91538554216868
 Skewness and Kurtosis are : -0.18490146464586807 -0.5339971045293876
 Average value of Red channel is : 137.91538554216868
-The Variance of Red channel is :  2158.250069309186
+The Variance of Red channel is  : 2158.263070893953
 
 Sum of Green channel is : 25484126 
 Median of Green channel is : 153.0
 Lower and Upper quantile of Green channel are : 116.0 194.0
 Mean value is : 153.5188313253012
 Skewness and Kurtosis are : -0.12218089565255784 -0.6815319167599374
-Average value of Red channel is : 153.5188313253012
-The Variance of Green channel is :  2629.03981405589
+Average value of Green channel is : 153.5188313253012
+The Variance of Green channel is  : 2629.0556517405353
 
 Sum of Blue channel is : 10521072
 Median of Blue channel is : 44.0
@@ -138,7 +138,7 @@ Lower and Upper quantile of Blue channel are : 39.0 84.0
 Mean value is : 63.37995180722891
 Skewness and Kurtosis are : 1.5580536366663336 2.2746021617563175
 Average value of Blue channel is : 63.37995180722891
-The Variance of Blue channel is :  1397.812901684425
+The Variance of Blue channel is  : 1397.8213222947998
 
 Fitted errors for Red channel:
 
@@ -178,15 +178,15 @@ Lower and Upper quantile of Red channel are : 64.0 178.0
 Mean value is : 127.48058858858859
 Skewness and Kurtosis are : 0.04386840969229834 -0.9701160651671623
 Average value of Red channel is : 127.48058858858859
-The Variance of Red channel is :  4514.225431004914
+The Variance of Red channel is  : 4514.252543632804
 
 Sum of Green channel is : 19677653 
 Median of Green channel is : 123.0
 Lower and Upper quantile of Green channel are : 66.0 164.0
 Mean value is : 118.1841021021021
 Skewness and Kurtosis are : -0.03979893263122847 -0.8304745723948392
-Average value of Red channel is : 118.1841021021021
-The Variance of Green channel is :  3276.2391454550416
+Average value of Green channel is : 118.1841021021021
+The Variance of Green channel is  : 3276.2588226852067
 
 Sum of Blue channel is : 18923059
 Median of Blue channel is : 120.0
@@ -194,7 +194,7 @@ Lower and Upper quantile of Blue channel are : 71.0 156.0
 Mean value is : 113.652006006006
 Skewness and Kurtosis are : -0.2955165812572446 -0.8773564930086879
 Average value of Blue channel is : 113.652006006006
-The Variance of Blue channel is :  2460.1866299098747
+The Variance of Blue channel is  : 2460.2014058942937
 
 Fitted errors for Red channel:
 
@@ -234,15 +234,15 @@ Lower and Upper quantile of Red channel are : 36.0 75.0
 Mean value is : 67.69420666666667
 Skewness and Kurtosis are : 1.9180421282197426 3.138834829564601
 Average value of Red channel is : 67.69420666666667
-The Variance of Red channel is :  3305.9015637706216
+The Variance of Red channel is  : 3305.9236032613107
 
 Sum of Green channel is : 8397846 
 Median of Green channel is : 38.0
 Lower and Upper quantile of Green channel are : 26.0 63.0
 Mean value is : 55.98564
 Skewness and Kurtosis are : 2.2013232768464874 4.683996325650117
-Average value of Red channel is : 55.98564
-The Variance of Green channel is :  2784.083620457067
+Average value of Green channel is : 55.98564
+The Variance of Green channel is  : 2784.1021811382743
 
 Sum of Blue channel is : 5965613
 Median of Blue channel is : 32.0
@@ -250,7 +250,7 @@ Lower and Upper quantile of Blue channel are : 7.0 47.0
 Mean value is : 39.77075333333333
 Skewness and Kurtosis are : 2.6219449249805735 7.592731118235989
 Average value of Blue channel is : 39.77075333333333
-The Variance of Blue channel is :  2381.019652632489
+The Variance of Blue channel is  : 2381.0355262026633
 
 Fitted errors for Red channel:
 
@@ -290,15 +290,15 @@ Lower and Upper quantile of Red channel are : 115.0 162.0
 Mean value is : 126.82532507739938
 Skewness and Kurtosis are : -0.9921741217832568 -0.025399870984870176
 Average value of Red channel is : 126.82532507739938
-The Variance of Red channel is :  3456.7530056992764
+The Variance of Red channel is  : 3456.774409875191
 
 Sum of Green channel is : 19227381 
 Median of Green channel is : 148.0
 Lower and Upper quantile of Green channel are : 72.0 160.0
 Mean value is : 119.0549907120743
 Skewness and Kurtosis are : -0.8738488412211585 -0.6251277053617224
-Average value of Red channel is : 119.0549907120743
-The Variance of Green channel is :  3803.0404001701936
+Average value of Green channel is : 119.0549907120743
+The Variance of Green channel is  : 3803.063948553775
 
 Sum of Blue channel is : 19199389
 Median of Blue channel is : 148.0
@@ -306,7 +306,7 @@ Lower and Upper quantile of Blue channel are : 72.0 160.0
 Mean value is : 118.88166563467492
 Skewness and Kurtosis are : -0.8734304274303024 -0.6303732643896098
 Average value of Blue channel is : 118.88166563467492
-The Variance of Blue channel is :  3807.3082075042985
+The Variance of Blue channel is  : 3807.3317823140965
 
 Fitted errors for Red channel:
 
@@ -346,15 +346,15 @@ Lower and Upper quantile of Red channel are : 43.0 140.0
 Mean value is : 94.91518933333333
 Skewness and Kurtosis are : 0.16493035088505975 -0.3599914278373033
 Average value of Red channel is : 94.91518933333333
-The Variance of Red channel is :  3518.194044484153
+The Variance of Red channel is  : 3518.212808285797
 
 Sum of Green channel is : 8821676 
 Median of Green channel is : 43.0
 Lower and Upper quantile of Green channel are : 19.0 60.0
 Mean value is : 47.048938666666665
 Skewness and Kurtosis are : 2.9244339911905253 10.431066520542918
-Average value of Red channel is : 47.048938666666665
-The Variance of Green channel is :  2146.1751623402383
+Average value of Green channel is : 47.048938666666665
+The Variance of Green channel is  : 2146.186608668818
 
 Sum of Blue channel is : 5191557
 Median of Blue channel is : 16.0
@@ -362,7 +362,7 @@ Lower and Upper quantile of Blue channel are : 10.0 26.0
 Mean value is : 27.688304
 Skewness and Kurtosis are : 3.990118821578587 15.738342913126349
 Average value of Blue channel is : 27.688304
-The Variance of Blue channel is :  2175.675789603584
+The Variance of Blue channel is  : 2175.6873932696817
 
 Fitted errors for Red channel:
 
@@ -402,15 +402,15 @@ Lower and Upper quantile of Red channel are : 202.0 250.0
 Mean value is : 213.05978552278822
 Skewness and Kurtosis are : -2.048855537307841 4.813653314108565
 Average value of Red channel is : 213.05978552278822
-The Variance of Red channel is :  2148.829176361498
+The Variance of Red channel is  : 2148.8406982955453
 
 Sum of Green channel is : 34376411 
 Median of Green channel is : 182.0
 Lower and Upper quantile of Green channel are : 161.0 225.0
 Mean value is : 184.32391957104556
 Skewness and Kurtosis are : -0.7601544355777102 0.7894233139341842
-Average value of Red channel is : 184.32391957104556
-The Variance of Green channel is :  2862.061537237503
+Average value of Green channel is : 184.32391957104556
+The Variance of Green channel is  : 2862.076883494247
 
 Sum of Blue channel is : 22919396
 Median of Blue channel is : 102.0
@@ -418,7 +418,7 @@ Lower and Upper quantile of Blue channel are : 81.0 153.0
 Mean value is : 122.89220375335121
 Skewness and Kurtosis are : 0.6710206744497024 -0.6202433319095024
 Average value of Blue channel is : 122.89220375335121
-The Variance of Blue channel is :  4683.454149406203
+The Variance of Blue channel is  : 4683.479261895546
 
 Fitted errors for Red channel:
 
@@ -458,15 +458,15 @@ Lower and Upper quantile of Red channel are : 39.0 98.0
 Mean value is : 68.76508266666667
 Skewness and Kurtosis are : -0.21609299253267308 -0.8819746914734745
 Average value of Red channel is : 68.76508266666667
-The Variance of Red channel is :  1254.048797846499
+The Variance of Red channel is  : 1254.0554861424257
 
 Sum of Green channel is : 7180818 
 Median of Green channel is : 33.0
 Lower and Upper quantile of Green channel are : 18.0 60.0
 Mean value is : 38.297696
 Skewness and Kurtosis are : 0.395869951905699 -1.1185776650125203
-Average value of Red channel is : 38.297696
-The Variance of Green channel is :  540.1192810915838
+Average value of Green channel is : 38.297696
+The Variance of Green channel is  : 540.1221617431133
 
 Sum of Blue channel is : 3157245
 Median of Blue channel is : 13.0
@@ -474,7 +474,7 @@ Lower and Upper quantile of Blue channel are : 7.0 25.0
 Mean value is : 16.83864
 Skewness and Kurtosis are : 1.0623308948322097 0.8781294281176582
 Average value of Blue channel is : 16.83864
-The Variance of Blue channel is :  174.04358961706663
+The Variance of Blue channel is  : 174.04451785449524
 
 Fitted errors for Red channel:
 
@@ -514,15 +514,15 @@ Lower and Upper quantile of Red channel are : 63.0 137.0
 Mean value is : 105.245728
 Skewness and Kurtosis are : 0.9950783607116738 0.05540556431077137
 Average value of Red channel is : 105.245728
-The Variance of Red channel is :  3692.725153750016
+The Variance of Red channel is  : 3692.7448483892076
 
 Sum of Green channel is : 18311572 
 Median of Green channel is : 82.0
 Lower and Upper quantile of Green channel are : 55.0 123.0
 Mean value is : 97.66171733333333
 Skewness and Kurtosis are : 1.0515320532433 0.27417792040942635
-Average value of Red channel is : 97.66171733333333
-The Variance of Green channel is :  3693.3613515040997
+Average value of Green channel is : 97.66171733333333
+The Variance of Green channel is  : 3693.3810495363637
 
 Sum of Blue channel is : 16707286
 Median of Blue channel is : 75.0
@@ -530,7 +530,7 @@ Lower and Upper quantile of Blue channel are : 47.0 116.0
 Mean value is : 89.10552533333333
 Skewness and Kurtosis are : 1.0022055401896852 0.12565890259143098
 Average value of Blue channel is : 89.10552533333333
-The Variance of Blue channel is :  3228.5000110706915
+The Variance of Blue channel is  : 3228.5172298292505
 
 Fitted errors for Red channel:
 
@@ -570,15 +570,15 @@ Lower and Upper quantile of Red channel are : 2.0 202.0
 Mean value is : 99.07880838323354
 Skewness and Kurtosis are : 0.23793379303134338 -1.6960144752406938
 Average value of Red channel is : 99.07880838323354
-The Variance of Red channel is :  9359.39399881957
+The Variance of Red channel is  : 9359.450043430608
 
 Sum of Green channel is : 16694253 
 Median of Green channel is : 83.0
 Lower and Upper quantile of Green channel are : 15.0 186.0
 Mean value is : 99.9655868263473
 Skewness and Kurtosis are : 0.22479546844481776 -1.523936931864368
-Average value of Red channel is : 99.9655868263473
-The Variance of Green channel is :  7148.511648068808
+Average value of Green channel is : 99.9655868263473
+The Variance of Green channel is  : 7148.554453784101
 
 Sum of Blue channel is : 23362498
 Median of Blue channel is : 177.0
@@ -586,7 +586,7 @@ Lower and Upper quantile of Blue channel are : 42.0 208.0
 Mean value is : 139.8951976047904
 Skewness and Kurtosis are : -0.5992848642017458 -1.2129704337100977
 Average value of Blue channel is : 139.8951976047904
-The Variance of Blue channel is :  7499.711387715444
+The Variance of Blue channel is  : 7499.756296435781
 
 Fitted errors for Red channel:
 
@@ -626,15 +626,15 @@ Lower and Upper quantile of Red channel are : 68.0 140.0
 Mean value is : 108.04884266666667
 Skewness and Kurtosis are : 0.20584795277211082 -0.8567703906536575
 Average value of Red channel is : 108.04884266666667
-The Variance of Red channel is :  2840.6107450605778
+The Variance of Red channel is  : 2840.6258950653532
 
 Sum of Green channel is : 19253411 
 Median of Green channel is : 91.0
 Lower and Upper quantile of Green channel are : 55.0 142.0
 Mean value is : 102.68485866666667
 Skewness and Kurtosis are : 0.3838458702616726 -1.0403107042469157
-Average value of Red channel is : 102.68485866666667
-The Variance of Green channel is :  3180.001629940023
+Average value of Green channel is : 102.68485866666667
+The Variance of Green channel is  : 3180.0185900391716
 
 Sum of Blue channel is : 15328025
 Median of Blue channel is : 57.0
@@ -642,7 +642,7 @@ Lower and Upper quantile of Blue channel are : 37.0 118.0
 Mean value is : 81.74946666666666
 Skewness and Kurtosis are : 0.5966602661736565 -1.0483233634862705
 Average value of Blue channel is : 81.74946666666666
-The Variance of Blue channel is :  2898.0761717155556
+The Variance of Blue channel is  : 2898.0916282042394
 
 Fitted errors for Red channel:
 
@@ -682,15 +682,15 @@ Lower and Upper quantile of Red channel are : 26.0 203.0
 Mean value is : 125.70203012048192
 Skewness and Kurtosis are : -0.20978261631254275 -1.656207202166966
 Average value of Red channel is : 125.70203012048192
-The Variance of Red channel is :  7255.975593468973
+The Variance of Red channel is  : 7256.019304428638
 
 Sum of Green channel is : 16884770 
 Median of Green channel is : 106.0
 Lower and Upper quantile of Green channel are : 20.0 169.0
 Mean value is : 101.71548192771084
 Skewness and Kurtosis are : 0.1122590340245303 -1.6017595280169568
-Average value of Red channel is : 101.71548192771084
-The Variance of Green channel is :  5841.600001273771
+Average value of Green channel is : 101.71548192771084
+The Variance of Green channel is  : 5841.635191847215
 
 Sum of Blue channel is : 14163328
 Median of Blue channel is : 76.0
@@ -698,7 +698,7 @@ Lower and Upper quantile of Blue channel are : 17.0 146.0
 Mean value is : 85.32125301204819
 Skewness and Kurtosis are : 0.2685328164760074 -1.4979776817378632
 Average value of Blue channel is : 85.32125301204819
-The Variance of Blue channel is :  4571.620206140805
+The Variance of Blue channel is  : 4571.647746187468
 
 Fitted errors for Red channel:
 
@@ -738,15 +738,15 @@ Lower and Upper quantile of Red channel are : 7.0 14.0
 Mean value is : 22.81580487804878
 Skewness and Kurtosis are : 3.8994143809475372 14.52211898423031
 Average value of Red channel is : 22.81580487804878
-The Variance of Red channel is :  2098.2151592650634
+The Variance of Red channel is  : 2098.229781075385
 
 Sum of Green channel is : 2068250 
 Median of Green channel is : 5.0
 Lower and Upper quantile of Green channel are : 2.0 8.0
 Mean value is : 14.412891986062718
 Skewness and Kurtosis are : 4.589356391152844 21.4332903259209
-Average value of Red channel is : 14.412891986062718
-The Variance of Green channel is :  1498.1542588838033
+Average value of Green channel is : 14.412891986062718
+The Variance of Green channel is  : 1498.164699055922
 
 Sum of Blue channel is : 2652519
 Median of Blue channel is : 11.0
@@ -754,7 +754,7 @@ Lower and Upper quantile of Blue channel are : 8.0 15.0
 Mean value is : 18.484452961672474
 Skewness and Kurtosis are : 5.137118617759724 27.76556882397195
 Average value of Blue channel is : 18.484452961672474
-The Variance of Blue channel is :  1108.1396955718292
+The Variance of Blue channel is  : 1108.1474178534868
 
 Fitted errors for Red channel:
 
@@ -794,15 +794,15 @@ Lower and Upper quantile of Red channel are : 45.0 111.0
 Mean value is : 88.59738790035587
 Skewness and Kurtosis are : 0.9479175688731077 0.5894971752605231
 Average value of Red channel is : 88.59738790035587
-The Variance of Red channel is :  4201.276287838858
+The Variance of Red channel is  : 4201.30619037402
 
 Sum of Green channel is : 18612330 
 Median of Green channel is : 153.0
 Lower and Upper quantile of Green channel are : 83.0 183.0
 Mean value is : 132.47209964412812
 Skewness and Kurtosis are : -0.5263549577116474 -0.681429556076854
-Average value of Red channel is : 132.47209964412812
-The Variance of Green channel is :  4874.51962726409
+Average value of Green channel is : 132.47209964412812
+The Variance of Green channel is  : 4874.554321600901
 
 Sum of Blue channel is : 22165497
 Median of Blue channel is : 200.0
@@ -810,7 +810,7 @@ Lower and Upper quantile of Blue channel are : 80.0 228.0
 Mean value is : 157.76154448398577
 Skewness and Kurtosis are : -0.7842996374205794 -0.9820673794350356
 Average value of Blue channel is : 157.76154448398577
-The Variance of Blue channel is :  7703.539644304958
+The Variance of Blue channel is  : 7703.594474158869
 
 Fitted errors for Red channel:
 
@@ -850,15 +850,15 @@ Lower and Upper quantile of Red channel are : 83.0 137.0
 Mean value is : 111.07565333333334
 Skewness and Kurtosis are : 0.25445246059723386 0.6235709304105179
 Average value of Red channel is : 111.07565333333334
-The Variance of Red channel is :  1847.8797112398206
+The Variance of Red channel is  : 1847.8895666508445
 
 Sum of Green channel is : 18582950 
 Median of Green channel is : 95.0
 Lower and Upper quantile of Green channel are : 72.0 125.0
 Mean value is : 99.10906666666666
 Skewness and Kurtosis are : 0.6447354124274808 1.2804894780450349
-Average value of Red channel is : 99.10906666666666
-The Variance of Green channel is :  1723.1403497955562
+Average value of Green channel is : 99.10906666666666
+The Variance of Green channel is  : 1723.1495399264352
 
 Sum of Blue channel is : 17320979
 Median of Blue channel is : 88.0
@@ -866,7 +866,7 @@ Lower and Upper quantile of Blue channel are : 65.0 115.0
 Mean value is : 92.37855466666667
 Skewness and Kurtosis are : 0.8392075955992345 1.6382229140363895
 Average value of Blue channel is : 92.37855466666667
-The Variance of Blue channel is :  1691.6752190310108
+The Variance of Blue channel is  : 1691.6842413469653
 
 Fitted errors for Red channel:
 
@@ -906,15 +906,15 @@ Lower and Upper quantile of Red channel are : 119.0 173.0
 Mean value is : 142.47586727688787
 Skewness and Kurtosis are : -0.4454269200155727 -0.0834530757564429
 Average value of Red channel is : 142.47586727688787
-The Variance of Red channel is :  2754.931266581927
+The Variance of Red channel is  : 2754.943875020714
 
 Sum of Green channel is : 21872372 
 Median of Green channel is : 88.0
 Lower and Upper quantile of Green channel are : 63.0 127.0
 Mean value is : 100.10238901601831
 Skewness and Kurtosis are : 0.7022671519660975 -0.29821532385574345
-Average value of Red channel is : 100.10238901601831
-The Variance of Green channel is :  3089.4144775877976
+Average value of Green channel is : 100.10238901601831
+The Variance of Green channel is  : 3089.4286168492013
 
 Sum of Blue channel is : 12630960
 Median of Blue channel is : 36.0
@@ -922,7 +922,7 @@ Lower and Upper quantile of Blue channel are : 22.0 79.0
 Mean value is : 57.80759725400458
 Skewness and Kurtosis are : 1.3021454917557729 0.5923858592814759
 Average value of Blue channel is : 57.80759725400458
-The Variance of Blue channel is :  2764.0776905654843
+The Variance of Blue channel is  : 2764.090340864527
 
 Fitted errors for Red channel:
 
@@ -962,15 +962,15 @@ Lower and Upper quantile of Red channel are : 67.0 154.0
 Mean value is : 113.81170133333333
 Skewness and Kurtosis are : 0.2454676351941629 -0.4757851254456469
 Average value of Red channel is : 113.81170133333333
-The Variance of Red channel is :  3929.276852945466
+The Variance of Red channel is  : 3929.2978092004473
 
 Sum of Green channel is : 21587874 
 Median of Green channel is : 110.0
 Lower and Upper quantile of Green channel are : 64.0 158.0
 Mean value is : 115.135328
 Skewness and Kurtosis are : 0.30403112888070133 -0.5990178943573223
-Average value of Red channel is : 115.135328
-The Variance of Green channel is :  4339.56772366575
+Average value of Green channel is : 115.135328
+The Variance of Green channel is  : 4339.59086815038
 
 Sum of Blue channel is : 21508906
 Median of Blue channel is : 109.0
@@ -978,7 +978,7 @@ Lower and Upper quantile of Blue channel are : 62.0 154.0
 Mean value is : 114.71416533333333
 Skewness and Kurtosis are : 0.4703840956949125 -0.5525444507146022
 Average value of Blue channel is : 114.71416533333333
-The Variance of Blue channel is :  3782.755258543333
+The Variance of Blue channel is  : 3782.775433345643
 
 Fitted errors for Red channel:
 
@@ -1018,15 +1018,15 @@ Lower and Upper quantile of Red channel are : 71.0 177.0
 Mean value is : 122.69224
 Skewness and Kurtosis are : -0.02496765548488378 -1.0601861058404358
 Average value of Red channel is : 122.69224
-The Variance of Red channel is :  4108.268019782399
+The Variance of Red channel is  : 4108.28993066203
 
 Sum of Green channel is : 19079524 
 Median of Green channel is : 94.0
 Lower and Upper quantile of Green channel are : 52.0 151.0
 Mean value is : 101.75746133333334
 Skewness and Kurtosis are : 0.24529147853731362 -1.0144274572093193
-Average value of Red channel is : 101.75746133333334
-The Variance of Green channel is :  3762.2180496618366
+Average value of Green channel is : 101.75746133333334
+The Variance of Green channel is  : 3762.2381149317844
 
 Sum of Blue channel is : 14154350
 Median of Blue channel is : 56.0
@@ -1034,7 +1034,7 @@ Lower and Upper quantile of Blue channel are : 12.0 120.0
 Mean value is : 75.48986666666667
 Skewness and Kurtosis are : 0.7836419947029702 -0.5852533735560055
 Average value of Blue channel is : 75.48986666666667
-The Variance of Blue channel is :  4919.9719879822205
+The Variance of Blue channel is  : 4919.998227972771
 
 Fitted errors for Red channel:
 
@@ -1074,15 +1074,15 @@ Lower and Upper quantile of Red channel are : 52.0 154.0
 Mean value is : 108.51943552311435
 Skewness and Kurtosis are : 0.3616116170034722 -0.7874805781060963
 Average value of Red channel is : 108.51943552311435
-The Variance of Red channel is :  4641.404113744626
+The Variance of Red channel is  : 4641.42669976263
 
 Sum of Green channel is : 21843604 
 Median of Green channel is : 104.0
 Lower and Upper quantile of Green channel are : 49.0 152.0
 Mean value is : 106.2949099756691
 Skewness and Kurtosis are : 0.3423250942126927 -0.7912082727715077
-Average value of Red channel is : 106.2949099756691
-The Variance of Green channel is :  4490.0094465977345
+Average value of Green channel is : 106.2949099756691
+The Variance of Green channel is  : 4490.031295898445
 
 Sum of Blue channel is : 20360259
 Median of Blue channel is : 97.0
@@ -1090,7 +1090,7 @@ Lower and Upper quantile of Blue channel are : 41.0 142.0
 Mean value is : 99.07668613138686
 Skewness and Kurtosis are : 0.3958969084929573 -0.6631947038809329
 Average value of Blue channel is : 99.07668613138686
-The Variance of Blue channel is :  4294.819311451363
+The Variance of Blue channel is  : 4294.840210917112
 
 Fitted errors for Red channel:
 
@@ -1130,15 +1130,15 @@ Lower and Upper quantile of Red channel are : 128.0 154.0
 Mean value is : 141.06875733333334
 Skewness and Kurtosis are : -0.5832371971990473 3.299256781770393
 Average value of Red channel is : 141.06875733333334
-The Variance of Red channel is :  549.3201044291127
+The Variance of Red channel is  : 549.3230341519617
 
 Sum of Green channel is : 24091565 
 Median of Green channel is : 129.0
 Lower and Upper quantile of Green channel are : 115.0 143.0
 Mean value is : 128.48834666666667
 Skewness and Kurtosis are : -0.49151493072513447 3.0103509150346
-Average value of Red channel is : 128.48834666666667
-The Variance of Green channel is :  645.4985575331557
+Average value of Green channel is : 128.48834666666667
+The Variance of Green channel is  : 645.50200021049
 
 Sum of Blue channel is : 21073302
 Median of Blue channel is : 112.0
@@ -1146,7 +1146,7 @@ Lower and Upper quantile of Blue channel are : 98.0 127.0
 Mean value is : 112.390944
 Skewness and Kurtosis are : -0.07154536497235708 2.628687030919001
 Average value of Blue channel is : 112.390944
-The Variance of Blue channel is :  697.7832054555292
+The Variance of Blue channel is  : 697.7869269858079
 
 Fitted errors for Red channel:
 
@@ -1186,15 +1186,15 @@ Lower and Upper quantile of Red channel are : 4.0 52.0
 Mean value is : 45.21077477477478
 Skewness and Kurtosis are : 1.8112656460348062 2.0730086268019505
 Average value of Red channel is : 45.21077477477478
-The Variance of Red channel is :  4719.8924628832065
+The Variance of Red channel is  : 4719.920810755944
 
 Sum of Green channel is : 5309236 
 Median of Green channel is : 12.0
 Lower and Upper quantile of Green channel are : 5.0 34.0
 Mean value is : 31.8873033033033
 Skewness and Kurtosis are : 2.6860427536421976 7.131159154452265
-Average value of Red channel is : 31.8873033033033
-The Variance of Green channel is :  2395.7541342893887
+Average value of Green channel is : 31.8873033033033
+The Variance of Green channel is  : 2395.7685232895283
 
 Sum of Blue channel is : 2655521
 Median of Blue channel is : 5.0
@@ -1202,7 +1202,7 @@ Lower and Upper quantile of Blue channel are : 3.0 12.0
 Mean value is : 15.949075075075076
 Skewness and Kurtosis are : 4.293925615242271 19.543447334778403
 Average value of Blue channel is : 15.949075075075076
-The Variance of Blue channel is :  1300.6824216670364
+The Variance of Blue channel is  : 1300.6902336203914
 
 Fitted errors for Red channel:
 
@@ -1242,15 +1242,15 @@ Lower and Upper quantile of Red channel are : 119.0 226.0
 Mean value is : 159.5348948948949
 Skewness and Kurtosis are : -0.42171750080566467 -0.6244895656177398
 Average value of Red channel is : 159.5348948948949
-The Variance of Red channel is :  4703.266259823788
+The Variance of Red channel is  : 4703.29450783885
 
 Sum of Green channel is : 22498423 
 Median of Green channel is : 139.0
 Lower and Upper quantile of Green channel are : 100.0 191.0
 Mean value is : 135.12566366366366
 Skewness and Kurtosis are : -0.43188627744134056 -0.6140928431066226
-Average value of Red channel is : 135.12566366366366
-The Variance of Green channel is :  3390.199553988983
+Average value of Green channel is : 135.12566366366366
+The Variance of Green channel is  : 3390.2199156701554
 
 Sum of Blue channel is : 25274046
 Median of Blue channel is : 149.0
@@ -1258,7 +1258,7 @@ Lower and Upper quantile of Blue channel are : 105.0 219.0
 Mean value is : 151.79607207207206
 Skewness and Kurtosis are : -0.0781785655899295 -0.8751643725748837
 Average value of Blue channel is : 151.79607207207206
-The Variance of Blue channel is :  5198.273536523335
+The Variance of Blue channel is  : 5198.304757572929
 
 Fitted errors for Red channel:
 
@@ -1298,15 +1298,15 @@ Lower and Upper quantile of Red channel are : 8.0 124.0
 Mean value is : 64.88271331828443
 Skewness and Kurtosis are : 0.8681404961658442 -0.8407760860722
 Average value of Red channel is : 64.88271331828443
-The Variance of Red channel is :  4973.732993269958
+The Variance of Red channel is  : 4973.755448147828
 
 Sum of Green channel is : 14371521 
 Median of Green channel is : 26.0
 Lower and Upper quantile of Green channel are : 8.0 124.0
 Mean value is : 64.88271331828443
 Skewness and Kurtosis are : 0.8681404961658442 -0.8407760860722
-Average value of Red channel is : 64.88271331828443
-The Variance of Green channel is :  4973.732993269958
+Average value of Green channel is : 64.88271331828443
+The Variance of Green channel is  : 4973.755448147828
 
 Sum of Blue channel is : 14371497
 Median of Blue channel is : 26.0
@@ -1314,7 +1314,7 @@ Lower and Upper quantile of Blue channel are : 8.0 124.0
 Mean value is : 64.88260496613995
 Skewness and Kurtosis are : 0.8681459450430221 -0.8407650499793737
 Average value of Blue channel is : 64.88260496613995
-The Variance of Blue channel is :  4973.725581837178
+The Variance of Blue channel is  : 4973.748036681585
 
 Fitted errors for Red channel:
 
@@ -1354,15 +1354,15 @@ Lower and Upper quantile of Red channel are : 92.0 218.0
 Mean value is : 150.62597333333332
 Skewness and Kurtosis are : -0.40088775081598965 -1.142133767861733
 Average value of Red channel is : 150.62597333333332
-The Variance of Red channel is :  4828.5146320526255
+The Variance of Red channel is  : 4828.540384268005
 
 Sum of Green channel is : 22517108 
 Median of Green channel is : 117.0
 Lower and Upper quantile of Green channel are : 49.0 207.0
 Mean value is : 120.09124266666667
 Skewness and Kurtosis are : 0.14688519752868323 -1.4133438799437088
-Average value of Red channel is : 120.09124266666667
-The Variance of Green channel is :  5638.104922775778
+Average value of Green channel is : 120.09124266666667
+The Variance of Green channel is  : 5638.134992829075
 
 Sum of Blue channel is : 21440458
 Median of Blue channel is : 108.0
@@ -1370,7 +1370,7 @@ Lower and Upper quantile of Blue channel are : 44.0 197.0
 Mean value is : 114.34910933333333
 Skewness and Kurtosis are : 0.24563906090417723 -1.3732109189958879
 Average value of Blue channel is : 114.34910933333333
-The Variance of Blue channel is :  5264.516213340046
+The Variance of Blue channel is  : 5264.544290909597
 
 Fitted errors for Red channel:
 
@@ -1410,15 +1410,15 @@ Lower and Upper quantile of Red channel are : 83.0 221.0
 Mean value is : 157.2264662576687
 Skewness and Kurtosis are : -0.39217274709265687 -1.1747789909237962
 Average value of Red channel is : 157.2264662576687
-The Variance of Red channel is :  5579.874406285671
+The Variance of Red channel is  : 5579.908638854008
 
 Sum of Green channel is : 18548022 
 Median of Green channel is : 119.0
 Lower and Upper quantile of Green channel are : 56.0 156.0
 Mean value is : 113.79154601226993
 Skewness and Kurtosis are : 0.1170308904439507 -0.7224227441575946
-Average value of Red channel is : 113.79154601226993
-The Variance of Green channel is :  3865.012620554633
+Average value of Green channel is : 113.79154601226993
+The Variance of Green channel is  : 3865.0363324339714
 
 Sum of Blue channel is : 8596364
 Median of Blue channel is : 35.0
@@ -1426,7 +1426,7 @@ Lower and Upper quantile of Blue channel are : 14.0 70.0
 Mean value is : 52.73842944785276
 Skewness and Kurtosis are : 1.631776508680417 2.318633806723674
 Average value of Blue channel is : 52.73842944785276
-The Variance of Blue channel is :  2940.7120471039184
+The Variance of Blue channel is  : 2940.730088392804
 
 Fitted errors for Red channel:
 
@@ -1466,15 +1466,15 @@ Lower and Upper quantile of Red channel are : 57.0 228.0
 Mean value is : 139.278872
 Skewness and Kurtosis are : 0.07643928663691078 -1.791557157400442
 Average value of Red channel is : 139.278872
-The Variance of Red channel is :  6461.301198407615
+The Variance of Red channel is  : 6461.327043715791
 
 Sum of Green channel is : 32413840 
 Median of Green channel is : 110.0
 Lower and Upper quantile of Green channel are : 45.0 220.0
 Mean value is : 129.65536
 Skewness and Kurtosis are : 0.03541645361183667 -1.7515636578640188
-Average value of Red channel is : 129.65536
-The Variance of Green channel is :  6972.401495270402
+Average value of Green channel is : 129.65536
+The Variance of Green channel is  : 6972.42938498794
 
 Sum of Blue channel is : 27905701
 Median of Blue channel is : 91.0
@@ -1482,7 +1482,7 @@ Lower and Upper quantile of Blue channel are : 27.0 203.0
 Mean value is : 111.622804
 Skewness and Kurtosis are : 0.07537670489715798 -1.7179027737967867
 Average value of Blue channel is : 111.622804
-The Variance of Blue channel is :  6981.944319177583
+The Variance of Blue channel is  : 6981.972247066572
 
 Fitted errors for Red channel:
 
@@ -1522,15 +1522,15 @@ Lower and Upper quantile of Red channel are : 65.0 236.0
 Mean value is : 138.88752657004832
 Skewness and Kurtosis are : 0.09615661832617206 -1.422346843386175
 Average value of Red channel is : 138.88752657004832
-The Variance of Red channel is :  6594.599224123685
+The Variance of Red channel is  : 6594.662940673841
 
 Sum of Green channel is : 13329063 
 Median of Green channel is : 112.0
 Lower and Upper quantile of Green channel are : 63.0 210.0
 Mean value is : 128.78321739130436
 Skewness and Kurtosis are : 0.3453323619324398 -1.2413071629343524
-Average value of Red channel is : 128.78321739130436
-The Variance of Green channel is :  6459.23801979332
+Average value of Green channel is : 128.78321739130436
+The Variance of Green channel is  : 6459.300428493113
 
 Sum of Blue channel is : 11133664
 Median of Blue channel is : 78.0
@@ -1538,7 +1538,7 @@ Lower and Upper quantile of Blue channel are : 36.0 186.0
 Mean value is : 107.57163285024154
 Skewness and Kurtosis are : 0.6366717368670555 -1.115983534530479
 Average value of Blue channel is : 107.57163285024154
-The Variance of Blue channel is :  7763.738704483558
+The Variance of Blue channel is  : 7763.813717176478
 
 Fitted errors for Red channel:
 
@@ -1578,15 +1578,15 @@ Lower and Upper quantile of Red channel are : 44.0 213.0
 Mean value is : 129.01900327868853
 Skewness and Kurtosis are : -0.21237201380015322 -1.4472566872568606
 Average value of Red channel is : 129.01900327868853
-The Variance of Red channel is :  7658.001461826218
+The Variance of Red channel is  : 7658.051678558537
 
 Sum of Green channel is : 18936575 
 Median of Green channel is : 121.0
 Lower and Upper quantile of Green channel are : 75.0 177.0
 Mean value is : 124.17426229508197
 Skewness and Kurtosis are : 0.01682447152373645 -1.280344293877328
-Average value of Red channel is : 124.17426229508197
-The Variance of Green channel is :  2922.332419537759
+Average value of Green channel is : 124.17426229508197
+The Variance of Green channel is  : 2922.3515824989554
 
 Sum of Blue channel is : 19859583
 Median of Blue channel is : 156.0
@@ -1594,7 +1594,7 @@ Lower and Upper quantile of Blue channel are : 104.0 183.0
 Mean value is : 130.2267737704918
 Skewness and Kurtosis are : -0.9589407310041599 -0.6311653696429125
 Average value of Blue channel is : 130.2267737704918
-The Variance of Blue channel is :  4755.197117919313
+The Variance of Blue channel is  : 4755.228299744228
 
 Fitted errors for Red channel:
 
@@ -1634,15 +1634,15 @@ Lower and Upper quantile of Red channel are : 0.0 3.0
 Mean value is : 5.314507692307692
 Skewness and Kurtosis are : 7.0752610645939695 59.92002956698815
 Average value of Red channel is : 5.314507692307692
-The Variance of Red channel is :  357.14182850122285
+The Variance of Red channel is  : 357.1436600071716
 
 Sum of Green channel is : 1421586 
 Median of Green channel is : 0.0
 Lower and Upper quantile of Green channel are : 0.0 2.0
 Mean value is : 7.290184615384615
 Skewness and Kurtosis are : 5.434629223550458 34.50727828368364
-Average value of Red channel is : 7.290184615384615
-The Variance of Green channel is :  673.2042851966863
+Average value of Green channel is : 7.290184615384615
+The Variance of Green channel is  : 673.2077375440584
 
 Sum of Blue channel is : 6847611
 Median of Blue channel is : 31.0
@@ -1650,7 +1650,7 @@ Lower and Upper quantile of Blue channel are : 28.0 32.0
 Mean value is : 35.11595384615384
 Skewness and Kurtosis are : 5.406203107048373 35.84091160985161
 Average value of Blue channel is : 35.11595384615384
-The Variance of Blue channel is :  551.3052367568444
+The Variance of Blue channel is  : 551.308063977685
 
 Fitted errors for Red channel:
 
@@ -1690,15 +1690,15 @@ Lower and Upper quantile of Red channel are : 81.0 218.0
 Mean value is : 147.42176119402984
 Skewness and Kurtosis are : -0.4091048213363365 -1.1699563932878845
 Average value of Red channel is : 147.42176119402984
-The Variance of Red channel is :  5793.246266748945
+The Variance of Red channel is  : 5793.280853500306
 
 Sum of Green channel is : 21341919 
 Median of Green channel is : 134.0
 Lower and Upper quantile of Green channel are : 76.0 183.0
 Mean value is : 127.41444179104478
 Skewness and Kurtosis are : -0.21959899250402057 -1.0846834044998674
-Average value of Red channel is : 127.41444179104478
-The Variance of Green channel is :  4337.380017106312
+Average value of Green channel is : 127.41444179104478
+The Variance of Green channel is  : 4337.405912066983
 
 Sum of Blue channel is : 21037678
 Median of Blue channel is : 127.0
@@ -1706,7 +1706,7 @@ Lower and Upper quantile of Blue channel are : 64.0 192.0
 Mean value is : 125.5980776119403
 Skewness and Kurtosis are : -0.07902753692369432 -1.2663800079061003
 Average value of Blue channel is : 125.5980776119403
-The Variance of Blue channel is :  5354.807903170096
+The Variance of Blue channel is  : 5354.839872363364
 
 Fitted errors for Red channel:
 
@@ -1746,15 +1746,15 @@ Lower and Upper quantile of Red channel are : 54.0 162.0
 Mean value is : 108.37828228228229
 Skewness and Kurtosis are : 0.04568697826058647 -1.105544444968213
 Average value of Red channel is : 108.37828228228229
-The Variance of Red channel is :  4040.969094707103
+The Variance of Red channel is  : 4040.9933649375234
 
 Sum of Green channel is : 17094214 
 Median of Green channel is : 101.0
 Lower and Upper quantile of Green channel are : 54.0 151.0
 Mean value is : 102.66795195195195
 Skewness and Kurtosis are : 0.12001490976208169 -0.9119293569764024
-Average value of Red channel is : 102.66795195195195
-The Variance of Green channel is :  3600.482140490183
+Average value of Green channel is : 102.66795195195195
+The Variance of Green channel is  : 3600.503765137422
 
 Sum of Blue channel is : 16230646
 Median of Blue channel is : 95.0
@@ -1762,7 +1762,7 @@ Lower and Upper quantile of Blue channel are : 58.0 129.0
 Mean value is : 97.48135735735735
 Skewness and Kurtosis are : 0.40554467189906895 -0.2375429715047912
 Average value of Blue channel is : 97.48135735735735
-The Variance of Blue channel is :  3223.696307106531
+The Variance of Blue channel is  : 3223.715668762198
 
 Fitted errors for Red channel:
 
@@ -1802,15 +1802,15 @@ Lower and Upper quantile of Red channel are : 0.0 60.0
 Mean value is : 41.927148571428575
 Skewness and Kurtosis are : 1.5644727264518894 1.4034921842129915
 Average value of Red channel is : 41.927148571428575
-The Variance of Red channel is :  3676.4838755264973
+The Variance of Red channel is  : 3676.504884125836
 
 Sum of Green channel is : 5190247 
 Median of Green channel is : 9.0
 Lower and Upper quantile of Green channel are : 0.0 35.0
 Mean value is : 29.658554285714285
 Skewness and Kurtosis are : 2.1031955147651633 4.154997320485083
-Average value of Red channel is : 29.658554285714285
-The Variance of Green channel is :  2091.7469405384813
+Average value of Green channel is : 29.658554285714285
+The Variance of Green channel is  : 2091.7588934464443
 
 Sum of Blue channel is : 2816542
 Median of Blue channel is : 3.0
@@ -1818,7 +1818,7 @@ Lower and Upper quantile of Blue channel are : 0.0 13.0
 Mean value is : 16.094525714285716
 Skewness and Kurtosis are : 2.8642829325529546 8.913054230200137
 Average value of Blue channel is : 16.094525714285716
-The Variance of Blue channel is :  1020.6534306036244
+The Variance of Blue channel is  : 1020.65926294227
 
 Fitted errors for Red channel:
 
@@ -1858,15 +1858,15 @@ Lower and Upper quantile of Red channel are : 63.0 232.0
 Mean value is : 151.67099104477612
 Skewness and Kurtosis are : -0.43846396176129876 -1.4462370710429329
 Average value of Red channel is : 151.67099104477612
-The Variance of Red channel is :  7147.415985943204
+The Variance of Red channel is  : 7147.458657338173
 
 Sum of Green channel is : 27742617 
 Median of Green channel is : 192.0
 Lower and Upper quantile of Green channel are : 119.0 222.0
 Mean value is : 165.62756417910447
 Skewness and Kurtosis are : -0.8073743897273021 -0.6331511154124816
-Average value of Red channel is : 165.62756417910447
-The Variance of Green channel is :  4191.248867678722
+Average value of Green channel is : 165.62756417910447
+The Variance of Green channel is  : 4191.273890209404
 
 Sum of Blue channel is : 29032505
 Median of Blue channel is : 201.0
@@ -1874,7 +1874,7 @@ Lower and Upper quantile of Blue channel are : 140.0 221.0
 Mean value is : 173.3283880597015
 Skewness and Kurtosis are : -1.0657407583231275 -0.02718233876810494
 Average value of Blue channel is : 173.3283880597015
-The Variance of Blue channel is :  3644.9010030732934
+The Variance of Blue channel is  : 3644.9227638062084
 
 Fitted errors for Red channel:
 
@@ -1914,15 +1914,15 @@ Lower and Upper quantile of Red channel are : 100.0 206.0
 Mean value is : 144.1783142857143
 Skewness and Kurtosis are : -0.4823667330274673 -0.8197308653113033
 Average value of Red channel is : 144.1783142857143
-The Variance of Red channel is :  4149.279021158367
+The Variance of Red channel is  : 4149.30273145969
 
 Sum of Green channel is : 21291769 
 Median of Green channel is : 122.0
 Lower and Upper quantile of Green channel are : 60.0 197.0
 Mean value is : 121.66725142857143
 Skewness and Kurtosis are : 0.03632195168946164 -1.2589819083131384
-Average value of Red channel is : 121.66725142857143
-The Variance of Green channel is :  4777.827752673924
+Average value of Green channel is : 121.66725142857143
+The Variance of Green channel is  : 4777.855054702811
 
 Sum of Blue channel is : 19593756
 Median of Blue channel is : 107.0
@@ -1930,7 +1930,7 @@ Lower and Upper quantile of Blue channel are : 38.0 197.0
 Mean value is : 111.96432
 Skewness and Kurtosis are : 0.0879518006510229 -1.452323668266071
 Average value of Blue channel is : 111.96432
-The Variance of Blue channel is :  5923.309869794741
+The Variance of Blue channel is  : 5923.343717473128
 
 Fitted errors for Red channel:
 
@@ -1970,15 +1970,15 @@ Lower and Upper quantile of Red channel are : 119.0 190.0
 Mean value is : 151.85472672672674
 Skewness and Kurtosis are : -0.4137481452111149 -0.22139911379646993
 Average value of Red channel is : 151.85472672672674
-The Variance of Red channel is :  3590.92373651691
+The Variance of Red channel is  : 3590.9453037559747
 
 Sum of Green channel is : 18625765 
 Median of Green channel is : 109.0
 Lower and Upper quantile of Green channel are : 71.0 149.0
 Mean value is : 111.86645645645646
 Skewness and Kurtosis are : 0.23388718636477 -0.49236730929644024
-Average value of Red channel is : 111.86645645645646
-The Variance of Green channel is :  3378.0923823381927
+Average value of Green channel is : 111.86645645645646
+The Variance of Green channel is  : 3378.1126713031867
 
 Sum of Blue channel is : 13175511
 Median of Blue channel is : 73.0
@@ -1986,7 +1986,7 @@ Lower and Upper quantile of Blue channel are : 43.0 111.0
 Mean value is : 79.1321981981982
 Skewness and Kurtosis are : 0.5929902567426688 0.04601951751062172
 Average value of Blue channel is : 79.1321981981982
-The Variance of Blue channel is :  2622.2700011138713
+The Variance of Blue channel is  : 2622.285750577838
 
 Fitted errors for Red channel:
 
@@ -2026,15 +2026,15 @@ Lower and Upper quantile of Red channel are : 20.0 172.0
 Mean value is : 103.61857228915663
 Skewness and Kurtosis are : 0.13184807427668116 -1.3132062442890375
 Average value of Red channel is : 103.61857228915663
-The Variance of Red channel is :  6416.285217720675
+The Variance of Red channel is  : 6416.323870274113
 
 Sum of Green channel is : 14902922 
 Median of Green channel is : 88.0
 Lower and Upper quantile of Green channel are : 17.0 149.0
 Mean value is : 89.77663855421687
 Skewness and Kurtosis are : 0.24836096806050167 -1.1741716015268249
-Average value of Red channel is : 89.77663855421687
-The Variance of Green channel is :  5056.37660364044
+Average value of Green channel is : 89.77663855421687
+The Variance of Green channel is  : 5056.407063923959
 
 Sum of Blue channel is : 12667299
 Median of Blue channel is : 72.0
@@ -2042,7 +2042,7 @@ Lower and Upper quantile of Blue channel are : 13.0 125.0
 Mean value is : 76.30903012048192
 Skewness and Kurtosis are : 0.36789677787967123 -0.9554132950866889
 Average value of Blue channel is : 76.30903012048192
-The Variance of Blue channel is :  3828.9068558063236
+The Variance of Blue channel is  : 3828.929921649223
 
 Fitted errors for Red channel:
 
@@ -2082,15 +2082,15 @@ Lower and Upper quantile of Red channel are : 22.0 102.0
 Mean value is : 68.302704
 Skewness and Kurtosis are : 1.1561619897465751 0.4737755037846707
 Average value of Red channel is : 68.302704
-The Variance of Red channel is :  3789.187810288384
+The Variance of Red channel is  : 3789.208019397821
 
 Sum of Green channel is : 8571107 
 Median of Green channel is : 31.0
 Lower and Upper quantile of Green channel are : 18.0 59.0
 Mean value is : 45.712570666666664
 Skewness and Kurtosis are : 1.8251849414588033 3.525293077508471
-Average value of Red channel is : 45.712570666666664
-The Variance of Green channel is :  1764.7487390450065
+Average value of Green channel is : 45.712570666666664
+The Variance of Green channel is  : 1764.7581510884786
 
 Sum of Blue channel is : 5230124
 Median of Blue channel is : 25.0
@@ -2098,7 +2098,7 @@ Lower and Upper quantile of Blue channel are : 16.0 34.0
 Mean value is : 27.893994666666668
 Skewness and Kurtosis are : 4.0739264116076175 31.65932549423507
 Average value of Blue channel is : 27.893994666666668
-The Variance of Blue channel is :  374.6644642026381
+The Variance of Blue channel is  : 374.6664624237711
 
 Fitted errors for Red channel:
 
@@ -2138,15 +2138,15 @@ Lower and Upper quantile of Red channel are : 8.0 65.0
 Mean value is : 46.322192
 Skewness and Kurtosis are : 1.9649827126834782 3.98641686780873
 Average value of Red channel is : 46.322192
-The Variance of Red channel is :  2902.9397603151356
+The Variance of Red channel is  : 2902.955242743097
 
 Sum of Green channel is : 7210707 
 Median of Green channel is : 26.0
 Lower and Upper quantile of Green channel are : 11.0 47.0
 Mean value is : 38.457104
 Skewness and Kurtosis are : 2.6228841263596774 8.227959442225387
-Average value of Red channel is : 38.457104
-The Variance of Green channel is :  1941.656703933184
+Average value of Green channel is : 38.457104
+The Variance of Green channel is  : 1941.6670594908344
 
 Sum of Blue channel is : 8468150
 Median of Blue channel is : 22.0
@@ -2154,7 +2154,7 @@ Lower and Upper quantile of Blue channel are : 7.0 54.0
 Mean value is : 45.163466666666665
 Skewness and Kurtosis are : 2.0026805875502793 3.586683165426204
 Average value of Blue channel is : 45.163466666666665
-The Variance of Blue channel is :  3381.1565426488887
+The Variance of Blue channel is  : 3381.174575579959
 
 Fitted errors for Red channel:
 
@@ -2194,15 +2194,15 @@ Lower and Upper quantile of Red channel are : 48.0 108.0
 Mean value is : 84.08063063063064
 Skewness and Kurtosis are : 1.2259133330608758 0.975916301237723
 Average value of Red channel is : 84.08063063063064
-The Variance of Red channel is :  3037.438249452154
+The Variance of Red channel is  : 3037.456492434091
 
 Sum of Green channel is : 19035400 
 Median of Green channel is : 100.0
 Lower and Upper quantile of Green channel are : 78.0 144.0
 Mean value is : 114.32672672672673
 Skewness and Kurtosis are : 0.8341118001173539 -0.040811552370484616
-Average value of Red channel is : 114.32672672672673
-The Variance of Green channel is :  2777.80201841481
+Average value of Green channel is : 114.32672672672673
+The Variance of Green channel is  : 2777.818702010619
 
 Sum of Blue channel is : 19561671
 Median of Blue channel is : 107.0
@@ -2210,7 +2210,7 @@ Lower and Upper quantile of Blue channel are : 85.0 148.0
 Mean value is : 117.48751351351352
 Skewness and Kurtosis are : 0.619749558114348 -0.38748149861819936
 Average value of Blue channel is : 117.48751351351352
-The Variance of Blue channel is :  2466.1383966402063
+The Variance of Blue channel is  : 2466.153208371189
 
 Fitted errors for Red channel:
 
@@ -2250,15 +2250,15 @@ Lower and Upper quantile of Red channel are : 163.0 236.0
 Mean value is : 193.904544
 Skewness and Kurtosis are : -0.9282331412780622 0.8970373111347558
 Average value of Red channel is : 193.904544
-The Variance of Red channel is :  2558.927165485402
+The Variance of Red channel is  : 2558.940813169734
 
 Sum of Green channel is : 23123529 
 Median of Green channel is : 113.0
 Lower and Upper quantile of Green channel are : 75.0 177.0
 Mean value is : 123.325488
 Skewness and Kurtosis are : 0.17538418386243582 -1.105620730684108
-Average value of Red channel is : 123.325488
-The Variance of Green channel is :  3588.36285222852
+Average value of Green channel is : 123.325488
+The Variance of Green channel is  : 3588.3819902658042
 
 Sum of Blue channel is : 18954972
 Median of Blue channel is : 101.0
@@ -2266,7 +2266,7 @@ Lower and Upper quantile of Blue channel are : 67.0 134.0
 Mean value is : 101.093184
 Skewness and Kurtosis are : 0.09384244009703051 -0.3006853362616453
 Average value of Blue channel is : 101.093184
-The Variance of Blue channel is :  2312.650420742144
+The Variance of Blue channel is  : 2312.662754943504
 
 Fitted errors for Red channel:
 
@@ -2306,15 +2306,15 @@ Lower and Upper quantile of Red channel are : 25.0 161.0
 Mean value is : 92.82188266666667
 Skewness and Kurtosis are : 0.73903081353065 -0.9069890332045989
 Average value of Red channel is : 92.82188266666667
-The Variance of Red channel is :  6872.051714215568
+The Variance of Red channel is  : 6872.088365353514
 
 Sum of Green channel is : 17404103 
 Median of Green channel is : 58.0
 Lower and Upper quantile of Green channel are : 25.0 161.0
 Mean value is : 92.82188266666667
 Skewness and Kurtosis are : 0.73903081353065 -0.9069890332045989
-Average value of Red channel is : 92.82188266666667
-The Variance of Green channel is :  6872.051714215568
+Average value of Green channel is : 92.82188266666667
+The Variance of Green channel is  : 6872.088365353514
 
 Sum of Blue channel is : 17404103
 Median of Blue channel is : 58.0
@@ -2322,7 +2322,7 @@ Lower and Upper quantile of Blue channel are : 25.0 161.0
 Mean value is : 92.82188266666667
 Skewness and Kurtosis are : 0.73903081353065 -0.9069890332045989
 Average value of Blue channel is : 92.82188266666667
-The Variance of Blue channel is :  6872.051714215568
+The Variance of Blue channel is  : 6872.088365353514
 
 Fitted errors for Red channel:
 
@@ -2362,15 +2362,15 @@ Lower and Upper quantile of Red channel are : 58.0 142.0
 Mean value is : 105.81600533333334
 Skewness and Kurtosis are : 0.5446014404247056 -0.7574906412650999
 Average value of Red channel is : 105.81600533333334
-The Variance of Red channel is :  3810.5067592959713
+The Variance of Red channel is  : 3810.5270821070762
 
 Sum of Green channel is : 20237654 
 Median of Green channel is : 90.0
 Lower and Upper quantile of Green channel are : 60.0 139.0
 Mean value is : 107.93415466666667
 Skewness and Kurtosis are : 0.7712398099761847 -0.6253062870069339
-Average value of Red channel is : 107.93415466666667
-The Variance of Green channel is :  4191.412699058745
+Average value of Green channel is : 107.93415466666667
+The Variance of Green channel is  : 4191.435053379029
 
 Sum of Blue channel is : 20774195
 Median of Blue channel is : 88.0
@@ -2378,7 +2378,7 @@ Lower and Upper quantile of Blue channel are : 61.0 144.0
 Mean value is : 110.79570666666666
 Skewness and Kurtosis are : 0.8586708658481156 -0.6044176692515855
 Average value of Blue channel is : 110.79570666666666
-The Variance of Blue channel is :  4701.061352233957
+The Variance of Blue channel is  : 4701.086424694888
 
 Fitted errors for Red channel:
 
@@ -2418,15 +2418,15 @@ Lower and Upper quantile of Red channel are : 1.0 126.0
 Mean value is : 71.50151875
 Skewness and Kurtosis are : 0.7867418151153606 -0.8282338734629966
 Average value of Red channel is : 71.50151875
-The Variance of Red channel is :  6190.210297693398
+The Variance of Red channel is  : 6190.248986749566
 
 Sum of Green channel is : 13685362 
 Median of Green channel is : 93.0
 Lower and Upper quantile of Green channel are : 6.0 136.0
 Mean value is : 85.5335125
 Skewness and Kurtosis are : 0.09185740791336615 -1.2931625167006084
-Average value of Red channel is : 85.5335125
-The Variance of Green channel is :  4590.631389412343
+Average value of Green channel is : 85.5335125
+The Variance of Green channel is  : 4590.66008103785
 
 Sum of Blue channel is : 19533658
 Median of Blue channel is : 165.0
@@ -2434,7 +2434,7 @@ Lower and Upper quantile of Blue channel are : 44.0 190.0
 Mean value is : 122.0853625
 Skewness and Kurtosis are : -0.48812347579861903 -1.421386581726795
 Average value of Blue channel is : 122.0853625
-The Variance of Blue channel is :  6213.548388243593
+The Variance of Blue channel is  : 6213.587223163739
 
 Fitted errors for Red channel:
 
@@ -2474,15 +2474,15 @@ Lower and Upper quantile of Red channel are : 93.0 166.0
 Mean value is : 128.3351908713693
 Skewness and Kurtosis are : -0.2616557854334472 -0.49265148587716734
 Average value of Red channel is : 128.3351908713693
-The Variance of Red channel is :  2694.0676014366
+The Variance of Red channel is  : 2694.0787801867223
 
 Sum of Green channel is : 38203910 
 Median of Green channel is : 175.0
 Lower and Upper quantile of Green channel are : 115.0 209.0
 Mean value is : 158.52244813278008
 Skewness and Kurtosis are : -0.699081737371068 -0.4995069569177888
-Average value of Red channel is : 158.52244813278008
-The Variance of Green channel is :  4101.202201475524
+Average value of Green channel is : 158.52244813278008
+The Variance of Green channel is  : 4101.219218982658
 
 Sum of Blue channel is : 36873895
 Median of Blue channel is : 250.0
@@ -2490,7 +2490,7 @@ Lower and Upper quantile of Blue channel are : 26.0 254.0
 Mean value is : 153.00371369294606
 Skewness and Kurtosis are : -0.2820415289936977 -1.8342354607947824
 Average value of Blue channel is : 153.00371369294606
-The Variance of Blue channel is :  12299.358396996864
+The Variance of Blue channel is  : 12299.409431890776
 
 Fitted errors for Red channel:
 
@@ -2530,15 +2530,15 @@ Lower and Upper quantile of Red channel are : 98.0 174.0
 Mean value is : 125.36547395833334
 Skewness and Kurtosis are : -0.8847380584080878 -0.39809012786726505
 Average value of Red channel is : 125.36547395833334
-The Variance of Red channel is :  4026.4948819107794
+The Variance of Red channel is  : 4026.5158533475164
 
 Sum of Green channel is : 25721015 
 Median of Green channel is : 160.0
 Lower and Upper quantile of Green channel are : 101.0 187.0
 Mean value is : 133.96361979166667
 Skewness and Kurtosis are : -0.9275142555158562 -0.4011369300418468
-Average value of Red channel is : 133.96361979166667
-The Variance of Green channel is :  4562.174640022105
+Average value of Green channel is : 133.96361979166667
+The Variance of Green channel is  : 4562.198401472116
 
 Sum of Blue channel is : 27424510
 Median of Blue channel is : 175.0
@@ -2546,7 +2546,7 @@ Lower and Upper quantile of Blue channel are : 104.0 198.0
 Mean value is : 142.83598958333334
 Skewness and Kurtosis are : -0.9729091794213949 -0.3869648145597333
 Average value of Blue channel is : 142.83598958333334
-The Variance of Blue channel is :  5123.892204749889
+The Variance of Blue channel is  : 5123.918891827453
 
 Fitted errors for Red channel:
 
@@ -2586,15 +2586,15 @@ Lower and Upper quantile of Red channel are : 50.0 164.0
 Mean value is : 109.93132132132132
 Skewness and Kurtosis are : -0.34784551396839103 -1.574590658019196
 Average value of Red channel is : 109.93132132132132
-The Variance of Red channel is :  3241.941535491347
+The Variance of Red channel is  : 3241.961006728625
 
 Sum of Green channel is : 21543099 
 Median of Green channel is : 168.0
 Lower and Upper quantile of Green channel are : 67.0 191.0
 Mean value is : 129.387981981982
 Skewness and Kurtosis are : -0.4479915811337862 -1.4357775633650625
-Average value of Red channel is : 129.387981981982
-The Variance of Green channel is :  4487.268839351022
+Average value of Green channel is : 129.387981981982
+The Variance of Green channel is  : 4487.295790076492
 
 Sum of Blue channel is : 21329477
 Median of Blue channel is : 167.0
@@ -2602,7 +2602,7 @@ Lower and Upper quantile of Blue channel are : 64.0 193.0
 Mean value is : 128.10496696696697
 Skewness and Kurtosis are : -0.454993569011258 -1.4182379668777725
 Average value of Blue channel is : 128.10496696696697
-The Variance of Blue channel is :  4890.327882836747
+The Variance of Blue channel is  : 4890.357254351788
 
 Fitted errors for Red channel:
 
@@ -2642,15 +2642,15 @@ Lower and Upper quantile of Red channel are : 55.0 208.0
 Mean value is : 131.9854251497006
 Skewness and Kurtosis are : -0.13977307811260611 -1.3757960003495173
 Average value of Red channel is : 131.9854251497006
-The Variance of Red channel is :  6706.782625897089
+The Variance of Red channel is  : 6706.82278651258
 
 Sum of Green channel is : 19798863 
 Median of Green channel is : 120.0
 Lower and Upper quantile of Green channel are : 50.0 184.0
 Mean value is : 118.55606586826347
 Skewness and Kurtosis are : 0.024301981307032212 -1.2566435966835496
-Average value of Red channel is : 118.55606586826347
-The Variance of Green channel is :  5742.277551229194
+Average value of Green channel is : 118.55606586826347
+The Variance of Green channel is  : 5742.31193633061
 
 Sum of Blue channel is : 13145376
 Median of Blue channel is : 54.0
@@ -2658,7 +2658,7 @@ Lower and Upper quantile of Blue channel are : 18.0 126.0
 Mean value is : 78.71482634730539
 Skewness and Kurtosis are : 0.8649351295685415 -0.44513079144623013
 Average value of Blue channel is : 78.71482634730539
-The Variance of Blue channel is :  5419.676352634516
+The Variance of Blue channel is  : 5419.708805980658
 
 Fitted errors for Red channel:
 
@@ -2698,15 +2698,15 @@ Lower and Upper quantile of Red channel are : 94.0 140.0
 Mean value is : 109.98944198895028
 Skewness and Kurtosis are : -1.1153062745343976 0.5156588794137575
 Average value of Red channel is : 109.98944198895028
-The Variance of Red channel is :  1838.4557614565801
+The Variance of Red channel is  : 1838.4659187268487
 
 Sum of Green channel is : 16821938 
 Median of Green channel is : 102.0
 Lower and Upper quantile of Green channel are : 75.0 121.0
 Mean value is : 92.93888397790056
 Skewness and Kurtosis are : -0.8859415248512263 0.056366739359273055
-Average value of Red channel is : 92.93888397790056
-The Variance of Green channel is :  1521.5308725666473
+Average value of Green channel is : 92.93888397790056
+The Variance of Green channel is  : 1521.5392788610077
 
 Sum of Blue channel is : 15390947
 Median of Blue channel is : 94.0
@@ -2714,7 +2714,7 @@ Lower and Upper quantile of Blue channel are : 66.0 112.0
 Mean value is : 85.03285635359116
 Skewness and Kurtosis are : -0.8403480258673958 -0.05408378284740234
 Average value of Blue channel is : 85.03285635359116
-The Variance of Blue channel is :  1355.7198431119623
+The Variance of Blue channel is  : 1355.7273333182238
 
 Fitted errors for Red channel:
 
@@ -2754,15 +2754,15 @@ Lower and Upper quantile of Red channel are : 38.0 147.0
 Mean value is : 94.83453687315634
 Skewness and Kurtosis are : 0.26753130899254657 -0.8108242430366825
 Average value of Red channel is : 94.83453687315634
-The Variance of Red channel is :  4471.027784195543
+The Variance of Red channel is  : 4471.054162096204
 
 Sum of Green channel is : 16601255 
 Median of Green channel is : 103.0
 Lower and Upper quantile of Green channel are : 59.0 148.0
 Mean value is : 97.94250737463126
 Skewness and Kurtosis are : -0.2255815772232378 -0.9433105746527701
-Average value of Red channel is : 97.94250737463126
-The Variance of Green channel is :  3576.1999807337234
+Average value of Green channel is : 97.94250737463126
+The Variance of Green channel is  : 3576.2210793831573
 
 Sum of Blue channel is : 16827358
 Median of Blue channel is : 105.0
@@ -2770,7 +2770,7 @@ Lower and Upper quantile of Blue channel are : 65.0 145.0
 Mean value is : 99.27644837758112
 Skewness and Kurtosis are : -0.2849357690862544 -0.8306901277370384
 Average value of Blue channel is : 99.27644837758112
-The Variance of Blue channel is :  3460.5195172974836
+The Variance of Blue channel is  : 3460.5399334622816
 
 Fitted errors for Red channel:
 
@@ -2810,15 +2810,15 @@ Lower and Upper quantile of Red channel are : 46.0 199.0
 Mean value is : 115.38602402402402
 Skewness and Kurtosis are : 0.3104568892139561 -1.2029398514868135
 Average value of Red channel is : 115.38602402402402
-The Variance of Red channel is :  6916.338715182606
+The Variance of Red channel is  : 6916.380255003957
 
 Sum of Green channel is : 12955316 
 Median of Green channel is : 70.0
 Lower and Upper quantile of Green channel are : 26.0 120.0
 Mean value is : 77.80970570570571
 Skewness and Kurtosis are : 0.44715378377158704 -0.8773598406539862
-Average value of Red channel is : 77.80970570570571
-The Variance of Green channel is :  3348.23298928276
+Average value of Green channel is : 77.80970570570571
+The Variance of Green channel is  : 3348.253098910982
 
 Sum of Blue channel is : 9250426
 Median of Blue channel is : 49.0
@@ -2826,7 +2826,7 @@ Lower and Upper quantile of Blue channel are : 15.0 90.0
 Mean value is : 55.55811411411411
 Skewness and Kurtosis are : 0.5415037583920501 -0.7437036809350324
 Average value of Blue channel is : 55.55811411411411
-The Variance of Blue channel is :  1990.7839921191103
+The Variance of Blue channel is  : 1990.7959488515355
 
 Fitted errors for Red channel:
 
@@ -2866,15 +2866,15 @@ Lower and Upper quantile of Red channel are : 132.0 179.0
 Mean value is : 146.79318933333334
 Skewness and Kurtosis are : -1.0873970291936208 0.6209144666009299
 Average value of Red channel is : 146.79318933333334
-The Variance of Red channel is :  2590.2265573481527
+The Variance of Red channel is  : 2590.24037196347
 
 Sum of Green channel is : 21276158 
 Median of Green channel is : 134.0
 Lower and Upper quantile of Green channel are : 43.0 170.0
 Mean value is : 113.47284266666666
 Skewness and Kurtosis are : -0.21669094119903204 -1.4700079097413419
-Average value of Red channel is : 113.47284266666666
-The Variance of Green channel is :  4003.1924624792464
+Average value of Green channel is : 113.47284266666666
+The Variance of Green channel is  : 4003.2138129529153
 
 Sum of Blue channel is : 23469339
 Median of Blue channel is : 140.0
@@ -2882,7 +2882,7 @@ Lower and Upper quantile of Blue channel are : 74.0 172.0
 Mean value is : 125.169808
 Skewness and Kurtosis are : -0.3068956651766526 -1.145739897497679
 Average value of Blue channel is : 125.169808
-The Variance of Blue channel is :  3026.4843652431337
+The Variance of Blue channel is  : 3026.500506579171
 
 Fitted errors for Red channel:
 
@@ -2922,15 +2922,15 @@ Lower and Upper quantile of Red channel are : 63.0 142.0
 Mean value is : 101.91808556149732
 Skewness and Kurtosis are : -0.2987513874607925 -0.7177015534118305
 Average value of Red channel is : 101.91808556149732
-The Variance of Red channel is :  2625.5960279926803
+The Variance of Red channel is  : 2625.6100686882337
 
 Sum of Green channel is : 19341078 
 Median of Green channel is : 114.0
 Lower and Upper quantile of Green channel are : 58.0 149.0
 Mean value is : 103.42822459893048
 Skewness and Kurtosis are : -0.34889886358513167 -0.995254171238448
-Average value of Red channel is : 103.42822459893048
-The Variance of Green channel is :  2965.726153104635
+Average value of Green channel is : 103.42822459893048
+The Variance of Green channel is  : 2965.742012687591
 
 Sum of Blue channel is : 19354829
 Median of Blue channel is : 105.0
@@ -2938,7 +2938,7 @@ Lower and Upper quantile of Blue channel are : 29.0 177.0
 Mean value is : 103.50175935828877
 Skewness and Kurtosis are : -0.09193724886417126 -1.6712035607294875
 Average value of Blue channel is : 103.50175935828877
-The Variance of Blue channel is :  5371.765729524981
+The Variance of Blue channel is  : 5371.794455698539
 
 Fitted errors for Red channel:
 
@@ -2978,15 +2978,15 @@ Lower and Upper quantile of Red channel are : 82.0 165.0
 Mean value is : 118.92772266666667
 Skewness and Kurtosis are : -0.11879816916532948 -0.6900848492428544
 Average value of Red channel is : 118.92772266666667
-The Variance of Red channel is :  5596.456727987084
+The Variance of Red channel is  : 5596.486575915491
 
 Sum of Green channel is : 12023508 
 Median of Green channel is : 61.0
 Lower and Upper quantile of Green channel are : 43.0 82.0
 Mean value is : 64.125376
 Skewness and Kurtosis are : 1.0889424740881593 2.218857863677055
-Average value of Red channel is : 64.125376
-The Variance of Green channel is :  2296.4317048586236
+Average value of Green channel is : 64.125376
+The Variance of Green channel is  : 2296.443952559704
 
 Sum of Blue channel is : 5763182
 Median of Blue channel is : 26.0
@@ -2994,7 +2994,7 @@ Lower and Upper quantile of Blue channel are : 9.0 40.0
 Mean value is : 30.736970666666668
 Skewness and Kurtosis are : 1.8609481434230735 4.391482759884283
 Average value of Blue channel is : 30.736970666666668
-The Variance of Blue channel is :  891.662655569806
+The Variance of Blue channel is  : 891.6674111293323
 
 Fitted errors for Red channel:
 
@@ -3034,15 +3034,15 @@ Lower and Upper quantile of Red channel are : 31.0 169.0
 Mean value is : 110.06600534759359
 Skewness and Kurtosis are : 0.25643909252200914 -1.1023414813722086
 Average value of Red channel is : 110.06600534759359
-The Variance of Red channel is :  6472.474803721896
+The Variance of Red channel is  : 6472.509416071714
 
 Sum of Green channel is : 27659338 
 Median of Green channel is : 169.0
 Lower and Upper quantile of Green channel are : 58.0 228.0
 Mean value is : 147.91089839572192
 Skewness and Kurtosis are : -0.3197837715464723 -1.4297486603283611
-Average value of Red channel is : 147.91089839572192
-The Variance of Green channel is :  7627.961376412142
+Average value of Green channel is : 147.91089839572192
+The Variance of Green channel is  : 7628.002167867579
 
 Sum of Blue channel is : 10569809
 Median of Blue channel is : 15.0
@@ -3050,7 +3050,7 @@ Lower and Upper quantile of Blue channel are : 2.0 127.0
 Mean value is : 56.52304278074866
 Skewness and Kurtosis are : 0.8615562284204497 -0.8983829216688792
 Average value of Blue channel is : 56.52304278074866
-The Variance of Blue channel is :  4737.403971704052
+The Variance of Blue channel is  : 4737.429305550606
 
 Fitted errors for Red channel:
 
@@ -3090,15 +3090,15 @@ Lower and Upper quantile of Red channel are : 64.0 181.0
 Mean value is : 123.256624
 Skewness and Kurtosis are : 0.3788355645528884 -0.9881658084273797
 Average value of Red channel is : 123.256624
-The Variance of Red channel is :  5531.360922789292
+The Variance of Red channel is  : 5531.390423538216
 
 Sum of Green channel is : 14414110 
 Median of Green channel is : 65.0
 Lower and Upper quantile of Green channel are : 57.0 82.0
 Mean value is : 76.87525333333333
 Skewness and Kurtosis are : 2.0498023105305885 5.1832296890033
-Average value of Red channel is : 76.87525333333333
-The Variance of Green channel is :  2251.3155316024886
+Average value of Green channel is : 76.87525333333333
+The Variance of Green channel is  : 2251.3275386826954
 
 Sum of Blue channel is : 17185848
 Median of Blue channel is : 92.0
@@ -3106,7 +3106,7 @@ Lower and Upper quantile of Blue channel are : 86.0 98.0
 Mean value is : 91.657856
 Skewness and Kurtosis are : 1.3520317440533955 7.090145491291178
 Average value of Blue channel is : 91.657856
-The Variance of Blue channel is :  1527.7710654832645
+The Variance of Blue channel is  : 1527.7792136390701
 
 Fitted errors for Red channel:
 
@@ -3146,15 +3146,15 @@ Lower and Upper quantile of Red channel are : 30.0 129.0
 Mean value is : 84.740944
 Skewness and Kurtosis are : 0.26716072014064973 -0.8374511107584306
 Average value of Red channel is : 84.740944
-The Variance of Red channel is :  3296.529465988864
+The Variance of Red channel is  : 3296.5426521594727
 
 Sum of Green channel is : 19928984 
 Median of Green channel is : 73.0
 Lower and Upper quantile of Green channel are : 27.0 124.0
 Mean value is : 79.715936
 Skewness and Kurtosis are : 0.47765341935329836 -0.7427740468452417
-Average value of Red channel is : 79.715936
-The Variance of Green channel is :  3404.393763643904
+Average value of Green channel is : 79.715936
+The Variance of Green channel is  : 3404.407381273429
 
 Sum of Blue channel is : 19431184
 Median of Blue channel is : 68.0
@@ -3162,7 +3162,7 @@ Lower and Upper quantile of Blue channel are : 26.0 122.0
 Mean value is : 77.724736
 Skewness and Kurtosis are : 0.596698679211665 -0.5648831987805893
 Average value of Blue channel is : 77.724736
-The Variance of Blue channel is :  3463.981733730304
+The Variance of Blue channel is  : 3463.995589712663
 
 Fitted errors for Red channel:
 
@@ -3202,15 +3202,15 @@ Lower and Upper quantile of Red channel are : 45.0 163.0
 Mean value is : 108.202784
 Skewness and Kurtosis are : 0.19619768763660136 -1.0516681395867054
 Average value of Red channel is : 108.202784
-The Variance of Red channel is :  4402.562409316011
+The Variance of Red channel is  : 4402.585889774089
 
 Sum of Green channel is : 23247786 
 Median of Green channel is : 128.0
 Lower and Upper quantile of Green channel are : 78.0 170.0
 Mean value is : 123.988192
 Skewness and Kurtosis are : -0.007132460745922587 -0.7642538316439489
-Average value of Red channel is : 123.988192
-The Variance of Green channel is :  3560.029289904469
+Average value of Green channel is : 123.988192
+The Variance of Green channel is  : 3560.0482768286124
 
 Sum of Blue channel is : 23440514
 Median of Blue channel is : 131.0
@@ -3218,7 +3218,7 @@ Lower and Upper quantile of Blue channel are : 77.0 172.0
 Mean value is : 125.01607466666667
 Skewness and Kurtosis are : -0.11424933331616217 -0.7758982348850632
 Average value of Blue channel is : 125.01607466666667
-The Variance of Blue channel is :  3920.850322938424
+The Variance of Blue channel is  : 3920.871234251674
 
 Fitted errors for Red channel:
 
@@ -3258,15 +3258,15 @@ Lower and Upper quantile of Red channel are : 42.0 135.0
 Mean value is : 92.31607807807808
 Skewness and Kurtosis are : 0.36523372916386576 -0.5817897971260408
 Average value of Red channel is : 92.31607807807808
-The Variance of Red channel is :  3834.0497463002102
+The Variance of Red channel is  : 3834.072773764317
 
 Sum of Green channel is : 15370627 
 Median of Green channel is : 89.0
 Lower and Upper quantile of Green channel are : 42.0 135.0
 Mean value is : 92.31607807807808
 Skewness and Kurtosis are : 0.36523372916386576 -0.5817897971260408
-Average value of Red channel is : 92.31607807807808
-The Variance of Green channel is :  3834.0497463002102
+Average value of Green channel is : 92.31607807807808
+The Variance of Green channel is  : 3834.072773764317
 
 Sum of Blue channel is : 15370627
 Median of Blue channel is : 89.0
@@ -3274,7 +3274,7 @@ Lower and Upper quantile of Blue channel are : 42.0 135.0
 Mean value is : 92.31607807807808
 Skewness and Kurtosis are : 0.36523372916386576 -0.5817897971260408
 Average value of Blue channel is : 92.31607807807808
-The Variance of Blue channel is :  3834.0497463002102
+The Variance of Blue channel is  : 3834.072773764317
 
 Fitted errors for Red channel:
 
@@ -3314,15 +3314,15 @@ Lower and Upper quantile of Red channel are : 73.0 240.0
 Mean value is : 161.36813333333333
 Skewness and Kurtosis are : -0.6256155148628315 -1.160104930581579
 Average value of Red channel is : 161.36813333333333
-The Variance of Red channel is :  7435.037763182223
+The Variance of Red channel is  : 7435.077416928446
 
 Sum of Green channel is : 29172727 
 Median of Green channel is : 187.0
 Lower and Upper quantile of Green channel are : 66.0 235.0
 Mean value is : 155.58787733333332
 Skewness and Kurtosis are : -0.5582279429742362 -1.2417575475859073
-Average value of Red channel is : 155.58787733333332
-The Variance of Green channel is :  7265.551258907624
+Average value of Green channel is : 155.58787733333332
+The Variance of Green channel is  : 7265.590008720999
 
 Sum of Blue channel is : 29585691
 Median of Blue channel is : 181.0
@@ -3330,7 +3330,7 @@ Lower and Upper quantile of Blue channel are : 61.0 253.0
 Mean value is : 157.790352
 Skewness and Kurtosis are : -0.36045475957457723 -1.4334010301991478
 Average value of Blue channel is : 157.790352
-The Variance of Blue channel is :  8279.406250382763
+The Variance of Blue channel is  : 8279.450407451603
 
 Fitted errors for Red channel:
 
@@ -3370,15 +3370,15 @@ Lower and Upper quantile of Red channel are : 48.0 208.0
 Mean value is : 126.13151951951951
 Skewness and Kurtosis are : -0.13687091043743482 -1.6787335088615039
 Average value of Red channel is : 126.13151951951951
-The Variance of Red channel is :  6640.498690603976
+The Variance of Red channel is  : 6640.538573718531
 
 Sum of Green channel is : 17095119 
 Median of Green channel is : 105.0
 Lower and Upper quantile of Green channel are : 33.0 178.0
 Mean value is : 102.6733873873874
 Skewness and Kurtosis are : -0.009386838308862387 -1.7047977919467023
-Average value of Red channel is : 102.6733873873874
-The Variance of Green channel is :  5391.716092970049
+Average value of Green channel is : 102.6733873873874
+The Variance of Green channel is  : 5391.74847584378
 
 Sum of Blue channel is : 11878641
 Median of Blue channel is : 53.0
@@ -3386,7 +3386,7 @@ Lower and Upper quantile of Blue channel are : 3.0 140.0
 Mean value is : 71.34318918918919
 Skewness and Kurtosis are : 0.19090894935512548 -1.724299169848604
 Average value of Blue channel is : 71.34318918918919
-The Variance of Blue channel is :  4441.562479438683
+The Variance of Blue channel is  : 4441.589155649827
 
 Fitted errors for Red channel:
 
@@ -3426,15 +3426,15 @@ Lower and Upper quantile of Red channel are : 32.0 106.0
 Mean value is : 75.53166933333334
 Skewness and Kurtosis are : 1.2069982407090607 0.8046790076008907
 Average value of Red channel is : 75.53166933333334
-The Variance of Red channel is :  3445.433071719992
+The Variance of Red channel is  : 3445.451447461046
 
 Sum of Green channel is : 14575453 
 Median of Green channel is : 56.0
 Lower and Upper quantile of Green channel are : 31.0 113.0
 Mean value is : 77.73574933333333
 Skewness and Kurtosis are : 1.1029136680275025 0.42117504097493885
-Average value of Red channel is : 77.73574933333333
-The Variance of Green channel is :  3827.0337289185
+Average value of Green channel is : 77.73574933333333
+The Variance of Green channel is  : 3827.0541398739124
 
 Sum of Blue channel is : 16120217
 Median of Blue channel is : 63.0
@@ -3442,7 +3442,7 @@ Lower and Upper quantile of Blue channel are : 32.0 134.0
 Mean value is : 85.97449066666667
 Skewness and Kurtosis are : 0.82350347079465 -0.3683125451152174
 Average value of Blue channel is : 85.97449066666667
-The Variance of Blue channel is :  4388.392826607245
+The Variance of Blue channel is  : 4388.416231493814
 
 Fitted errors for Red channel:
 
@@ -3482,15 +3482,15 @@ Lower and Upper quantile of Red channel are : 0.0 151.0
 Mean value is : 77.274256227758
 Skewness and Kurtosis are : 0.47372312618344464 -1.3056995739498523
 Average value of Red channel is : 77.274256227758
-The Variance of Red channel is :  6730.8365486460925
+The Variance of Red channel is  : 6730.884455297019
 
 Sum of Green channel is : 10748605 
 Median of Green channel is : 43.0
 Lower and Upper quantile of Green channel are : 0.0 148.0
 Mean value is : 76.50252669039146
 Skewness and Kurtosis are : 0.5735905201405983 -1.137165684119381
-Average value of Red channel is : 76.50252669039146
-The Variance of Green channel is :  6808.541780092703
+Average value of Green channel is : 76.50252669039146
+The Variance of Green channel is  : 6808.590239809714
 
 Sum of Blue channel is : 10536326
 Median of Blue channel is : 40.0
@@ -3498,7 +3498,7 @@ Lower and Upper quantile of Blue channel are : 0.0 146.0
 Mean value is : 74.99164412811388
 Skewness and Kurtosis are : 0.5964408506053156 -1.1007328763005282
 Average value of Blue channel is : 74.99164412811388
-The Variance of Blue channel is :  6685.8773536669505
+The Variance of Blue channel is  : 6685.924940321329
 
 Fitted errors for Red channel:
 
@@ -3538,15 +3538,15 @@ Lower and Upper quantile of Red channel are : 34.0 150.0
 Mean value is : 98.41676876876876
 Skewness and Kurtosis are : -0.3007054090870074 -1.3377395941095522
 Average value of Red channel is : 98.41676876876876
-The Variance of Red channel is :  3646.3875650546415
+The Variance of Red channel is  : 3646.40946541179
 
 Sum of Green channel is : 5262508 
 Median of Green channel is : 18.0
 Lower and Upper quantile of Green channel are : 12.0 38.0
 Mean value is : 31.606654654654655
 Skewness and Kurtosis are : 2.7188698141729315 9.253439754283407
-Average value of Red channel is : 31.606654654654655
-The Variance of Green channel is :  1299.3667929528087
+Average value of Green channel is : 31.606654654654655
+The Variance of Green channel is  : 1299.3745970044424
 
 Sum of Blue channel is : 4045284
 Median of Blue channel is : 10.0
@@ -3554,7 +3554,7 @@ Lower and Upper quantile of Blue channel are : 4.0 25.0
 Mean value is : 24.296
 Skewness and Kurtosis are : 2.942681943348467 9.850950987341264
 Average value of Blue channel is : 24.296
-The Variance of Blue channel is :  1473.6186182342344
+The Variance of Blue channel is  : 1473.6274688496628
 
 Fitted errors for Red channel:
 
@@ -3594,15 +3594,15 @@ Lower and Upper quantile of Red channel are : 45.0 176.0
 Mean value is : 103.899392
 Skewness and Kurtosis are : 0.2965720962341068 -1.205371006648321
 Average value of Red channel is : 103.899392
-The Variance of Red channel is :  5011.354614030333
+The Variance of Red channel is  : 5011.38134139749
 
 Sum of Green channel is : 19316001 
 Median of Green channel is : 88.0
 Lower and Upper quantile of Green channel are : 45.0 173.0
 Mean value is : 103.018672
 Skewness and Kurtosis are : 0.30603654283672216 -1.1650896084700557
-Average value of Red channel is : 103.018672
-The Variance of Green channel is :  4843.74749668975
+Average value of Green channel is : 103.018672
+The Variance of Green channel is  : 4843.77333014751
 
 Sum of Blue channel is : 19096861
 Median of Blue channel is : 87.0
@@ -3610,7 +3610,7 @@ Lower and Upper quantile of Blue channel are : 44.0 172.0
 Mean value is : 101.84992533333333
 Skewness and Kurtosis are : 0.3060560206610271 -1.1636711480114554
 Average value of Blue channel is : 101.84992533333333
-The Variance of Blue channel is :  4816.8665709277575
+The Variance of Blue channel is  : 4816.892261019817
 
 Fitted errors for Red channel:
 
@@ -3650,15 +3650,15 @@ Lower and Upper quantile of Red channel are : 0.0 180.0
 Mean value is : 66.5063795180723
 Skewness and Kurtosis are : 0.8003897771956064 -1.221776974614398
 Average value of Red channel is : 66.5063795180723
-The Variance of Red channel is :  8841.40452556681
+The Variance of Red channel is  : 8841.457787360709
 
 Sum of Green channel is : 11922569 
 Median of Green channel is : 0.0
 Lower and Upper quantile of Green channel are : 0.0 204.0
 Mean value is : 71.8227048192771
 Skewness and Kurtosis are : 0.7520736810546437 -1.3613787423632722
-Average value of Red channel is : 71.8227048192771
-The Variance of Green channel is :  10128.912464009252
+Average value of Green channel is : 71.8227048192771
+The Variance of Green channel is  : 10128.973481921796
 
 Sum of Blue channel is : 13616579
 Median of Blue channel is : 0.0
@@ -3666,7 +3666,7 @@ Lower and Upper quantile of Blue channel are : 0.0 236.0
 Mean value is : 82.0275843373494
 Skewness and Kurtosis are : 0.7084011665796462 -1.449908841841448
 Average value of Blue channel is : 82.0275843373494
-The Variance of Blue channel is :  12833.276245128429
+The Variance of Blue channel is  : 12833.353554487192
 
 Fitted errors for Red channel:
 
@@ -3706,15 +3706,15 @@ Lower and Upper quantile of Red channel are : 78.0 111.0
 Mean value is : 92.620188
 Skewness and Kurtosis are : -0.27509955043570705 1.7972513343646712
 Average value of Red channel is : 92.620188
-The Variance of Red channel is :  975.7154908446573
+The Variance of Red channel is  : 975.7193937222308
 
 Sum of Green channel is : 25818733 
 Median of Green channel is : 116.0
 Lower and Upper quantile of Green channel are : 69.0 138.0
 Mean value is : 103.274932
 Skewness and Kurtosis are : -0.5281533982992033 -0.5989293532558979
-Average value of Red channel is : 103.274932
-The Variance of Green channel is :  1950.6463443953744
+Average value of Green channel is : 103.274932
+The Variance of Green channel is  : 1950.6541470119641
 
 Sum of Blue channel is : 23576876
 Median of Blue channel is : 104.0
@@ -3722,7 +3722,7 @@ Lower and Upper quantile of Blue channel are : 57.0 131.0
 Mean value is : 94.307504
 Skewness and Kurtosis are : -0.3212299991950119 -0.7857779086176899
 Average value of Blue channel is : 94.307504
-The Variance of Blue channel is :  2015.1819852899844
+The Variance of Blue channel is  : 2015.1900460501681
 
 Fitted errors for Red channel:
 
@@ -3762,15 +3762,15 @@ Lower and Upper quantile of Red channel are : 40.0 180.0
 Mean value is : 113.23345619335348
 Skewness and Kurtosis are : 0.1110944554278958 -1.2351712864900652
 Average value of Red channel is : 113.23345619335348
-The Variance of Red channel is :  6156.1035827979285
+The Variance of Red channel is  : 6156.140780023187
 
 Sum of Green channel is : 17980294 
 Median of Green channel is : 109.0
 Lower and Upper quantile of Green channel are : 60.0 157.0
 Mean value is : 108.64225981873112
 Skewness and Kurtosis are : 0.08082551505380103 -0.770077658923126
-Average value of Red channel is : 108.64225981873112
-The Variance of Green channel is :  3787.6227893343075
+Average value of Green channel is : 108.64225981873112
+The Variance of Green channel is  : 3787.6456754108954
 
 Sum of Blue channel is : 13840094
 Median of Blue channel is : 80.0
@@ -3778,7 +3778,7 @@ Lower and Upper quantile of Blue channel are : 53.0 114.0
 Mean value is : 83.62594561933535
 Skewness and Kurtosis are : 0.7384450656559145 1.534615531524019
 Average value of Blue channel is : 83.62594561933535
-The Variance of Blue channel is :  2147.608941326346
+The Variance of Blue channel is  : 2147.6219178938277
 
 Fitted errors for Red channel:
 
@@ -3818,15 +3818,15 @@ Lower and Upper quantile of Red channel are : 17.0 125.0
 Mean value is : 75.49060240963856
 Skewness and Kurtosis are : 0.8776604669158525 -0.6401065118810734
 Average value of Red channel is : 75.49060240963856
-The Variance of Red channel is :  5140.145682769633
+The Variance of Red channel is  : 5140.176647689197
 
 Sum of Green channel is : 10023377 
 Median of Green channel is : 34.0
 Lower and Upper quantile of Green channel are : 15.0 84.0
 Mean value is : 60.3817891566265
 Skewness and Kurtosis are : 1.2308237285090944 0.28075619031254995
-Average value of Red channel is : 60.3817891566265
-The Variance of Green channel is :  3756.7594117386775
+Average value of Green channel is : 60.3817891566265
+The Variance of Green channel is  : 3756.782042955804
 
 Sum of Blue channel is : 5803944
 Median of Blue channel is : 19.0
@@ -3834,7 +3834,7 @@ Lower and Upper quantile of Blue channel are : 11.0 31.0
 Mean value is : 34.963518072289155
 Skewness and Kurtosis are : 2.3951975152795506 5.210901299914251
 Average value of Blue channel is : 34.963518072289155
-The Variance of Blue channel is :  1859.1893196713602
+The Variance of Blue channel is  : 1859.2005196744906
 
 Fitted errors for Red channel:
 
@@ -3874,15 +3874,15 @@ Lower and Upper quantile of Red channel are : 55.0 173.0
 Mean value is : 116.99452571428571
 Skewness and Kurtosis are : 0.16953097830856617 -1.0939080034978292
 Average value of Red channel is : 116.99452571428571
-The Variance of Red channel is :  5329.564712889338
+The Variance of Red channel is  : 5329.595167718869
 
 Sum of Green channel is : 13430447 
 Median of Green channel is : 58.0
 Lower and Upper quantile of Green channel are : 25.0 111.0
 Mean value is : 76.74541142857143
 Skewness and Kurtosis are : 0.8783808410799031 -0.2538411863149421
-Average value of Red channel is : 76.74541142857143
-The Variance of Green channel is :  3975.6473160878695
+Average value of Green channel is : 76.74541142857143
+The Variance of Green channel is  : 3975.6700342023505
 
 Sum of Blue channel is : 8360663
 Median of Blue channel is : 25.0
@@ -3890,7 +3890,7 @@ Lower and Upper quantile of Blue channel are : 7.0 66.0
 Mean value is : 47.775217142857144
 Skewness and Kurtosis are : 1.594628500614029 1.7871380995708703
 Average value of Blue channel is : 47.775217142857144
-The Variance of Blue channel is :  3257.0915240957056
+The Variance of Blue channel is  : 3257.110136153627
 
 Fitted errors for Red channel:
 
@@ -3930,15 +3930,15 @@ Lower and Upper quantile of Red channel are : 0.0 97.0
 Mean value is : 52.580952095808385
 Skewness and Kurtosis are : 1.2318759861603514 0.39162530927678807
 Average value of Red channel is : 52.580952095808385
-The Variance of Red channel is :  4966.595877895908
+The Variance of Red channel is  : 4966.6256181690715
 
 Sum of Green channel is : 8325320 
 Median of Green channel is : 9.0
 Lower and Upper quantile of Green channel are : 0.0 89.0
 Mean value is : 49.85221556886228
 Skewness and Kurtosis are : 1.3274836187668437 0.7286888378024381
-Average value of Red channel is : 49.85221556886228
-The Variance of Green channel is :  4694.392231618201
+Average value of Green channel is : 49.85221556886228
+The Variance of Green channel is  : 4694.420341919649
 
 Sum of Blue channel is : 7441527
 Median of Blue channel is : 5.0
@@ -3946,7 +3946,7 @@ Lower and Upper quantile of Blue channel are : 0.0 72.0
 Mean value is : 44.56004191616766
 Skewness and Kurtosis are : 1.549714463321259 1.446448940917045
 Average value of Blue channel is : 44.56004191616766
-The Variance of Blue channel is :  4425.471245267704
+The Variance of Blue channel is  : 4425.4977452542025
 
 Fitted errors for Red channel:
 
@@ -3986,15 +3986,15 @@ Lower and Upper quantile of Red channel are : 20.0 147.0
 Mean value is : 88.12776
 Skewness and Kurtosis are : 0.4536645934185815 -0.9465847676532442
 Average value of Red channel is : 88.12776
-The Variance of Red channel is :  4564.247789382402
+The Variance of Red channel is  : 4564.272132167105
 
 Sum of Green channel is : 15659690 
 Median of Green channel is : 79.0
 Lower and Upper quantile of Green channel are : 18.0 134.0
 Mean value is : 83.51834666666667
 Skewness and Kurtosis are : 0.4551014819773222 -0.8647898193329588
-Average value of Red channel is : 83.51834666666667
-The Variance of Green channel is :  4153.681460733154
+Average value of Green channel is : 83.51834666666667
+The Variance of Green channel is  : 4153.703613819096
 
 Sum of Blue channel is : 13989120
 Median of Blue channel is : 74.0
@@ -4002,7 +4002,7 @@ Lower and Upper quantile of Blue channel are : 15.0 113.0
 Mean value is : 74.60864
 Skewness and Kurtosis are : 0.6254263320211122 -0.39693092847819544
 Average value of Blue channel is : 74.60864
-The Variance of Blue channel is :  3480.1901546837335
+The Variance of Blue channel is  : 3480.2087157968845
 
 Fitted errors for Red channel:
 
@@ -4042,15 +4042,15 @@ Lower and Upper quantile of Red channel are : 23.0 239.0
 Mean value is : 127.5395158501441
 Skewness and Kurtosis are : 0.06254790147079084 -1.9481405433819092
 Average value of Red channel is : 127.5395158501441
-The Variance of Red channel is :  11469.697268468768
+The Variance of Red channel is  : 11469.763376615032
 
 Sum of Green channel is : 19064831 
 Median of Green channel is : 32.0
 Lower and Upper quantile of Green channel are : 20.0 232.0
 Mean value is : 109.88375216138328
 Skewness and Kurtosis are : 0.33812546546547445 -1.8261448422065427
-Average value of Red channel is : 109.88375216138328
-The Variance of Green channel is :  10683.07084955241
+Average value of Green channel is : 109.88375216138328
+The Variance of Green channel is  : 10683.13242380269
 
 Sum of Blue channel is : 19045463
 Median of Blue channel is : 45.0
@@ -4058,7 +4058,7 @@ Lower and Upper quantile of Blue channel are : 21.0 227.0
 Mean value is : 109.77212103746398
 Skewness and Kurtosis are : 0.3195677499432897 -1.8075229857691273
 Average value of Blue channel is : 109.77212103746398
-The Variance of Blue channel is :  9920.184757057397
+The Variance of Blue channel is  : 9920.241934244337
 
 Fitted errors for Red channel:
 
@@ -4098,15 +4098,15 @@ Lower and Upper quantile of Red channel are : 0.0 29.0
 Mean value is : 34.07398679867987
 Skewness and Kurtosis are : 2.202371453567794 3.7155471232430655
 Average value of Red channel is : 34.07398679867987
-The Variance of Red channel is :  4095.8751662176473
+The Variance of Red channel is  : 4095.9022018757455
 
 Sum of Green channel is : 5863264 
 Median of Green channel is : 8.0
 Lower and Upper quantile of Green channel are : 1.0 46.0
 Mean value is : 38.70141254125412
 Skewness and Kurtosis are : 2.106260989678921 3.620899134584459
-Average value of Red channel is : 38.70141254125412
-The Variance of Green channel is :  4037.4086277076976
+Average value of Green channel is : 38.70141254125412
+The Variance of Green channel is  : 4037.435277445503
 
 Sum of Blue channel is : 17590920
 Median of Blue channel is : 85.0
@@ -4114,7 +4114,7 @@ Lower and Upper quantile of Blue channel are : 42.0 203.0
 Mean value is : 116.11168316831683
 Skewness and Kurtosis are : 0.46147348560331575 -1.326708337365884
 Average value of Blue channel is : 116.11168316831683
-The Variance of Blue channel is :  7175.128120929321
+The Variance of Blue channel is  : 7175.17548182359
 
 Fitted errors for Red channel:
 
@@ -4154,15 +4154,15 @@ Lower and Upper quantile of Red channel are : 8.0 94.0
 Mean value is : 64.938544
 Skewness and Kurtosis are : 1.3752850061970154 0.8664997312240907
 Average value of Red channel is : 64.938544
-The Variance of Red channel is :  5537.801444493399
+The Variance of Red channel is  : 5537.830979591956
 
 Sum of Green channel is : 12175977 
 Median of Green channel is : 35.0
 Lower and Upper quantile of Green channel are : 8.0 94.0
 Mean value is : 64.938544
 Skewness and Kurtosis are : 1.3752850061970154 0.8664997312240907
-Average value of Red channel is : 64.938544
-The Variance of Green channel is :  5537.801444493399
+Average value of Green channel is : 64.938544
+The Variance of Green channel is  : 5537.830979591956
 
 Sum of Blue channel is : 12175977
 Median of Blue channel is : 35.0
@@ -4170,7 +4170,7 @@ Lower and Upper quantile of Blue channel are : 8.0 94.0
 Mean value is : 64.938544
 Skewness and Kurtosis are : 1.3752850061970154 0.8664997312240907
 Average value of Blue channel is : 64.938544
-The Variance of Blue channel is :  5537.801444493399
+The Variance of Blue channel is  : 5537.830979591956
 
 Fitted errors for Red channel:
 
@@ -4210,15 +4210,15 @@ Lower and Upper quantile of Red channel are : 146.0 176.0
 Mean value is : 157.43592
 Skewness and Kurtosis are : -1.549122398442265 4.207053498086661
 Average value of Red channel is : 157.43592
-The Variance of Red channel is :  820.6014030869301
+The Variance of Red channel is  : 820.6057796510914
 
 Sum of Green channel is : 25368461 
 Median of Green channel is : 143.0
 Lower and Upper quantile of Green channel are : 120.0 158.0
 Mean value is : 135.29845866666668
 Skewness and Kurtosis are : -1.2709558257573617 2.124922935200793
-Average value of Red channel is : 135.29845866666668
-The Variance of Green channel is :  1030.2816264242902
+Average value of Green channel is : 135.29845866666668
+The Variance of Green channel is  : 1030.2871212889384
 
 Sum of Blue channel is : 20172105
 Median of Blue channel is : 115.0
@@ -4226,7 +4226,7 @@ Lower and Upper quantile of Blue channel are : 87.0 132.0
 Mean value is : 107.58456
 Skewness and Kurtosis are : -0.7291742956561953 0.6000535897225898
 Average value of Blue channel is : 107.58456
-The Variance of Blue channel is :  1207.868204273067
+The Variance of Blue channel is  : 1207.8746462711802
 
 Fitted errors for Red channel:
 
@@ -4266,15 +4266,15 @@ Lower and Upper quantile of Red channel are : 27.0 102.0
 Mean value is : 66.44910850439882
 Skewness and Kurtosis are : 1.0683445392228488 -0.010690459282791664
 Average value of Red channel is : 66.44910850439882
-The Variance of Red channel is :  3261.2240904075825
+The Variance of Red channel is  : 3261.2432179337866
 
 Sum of Green channel is : 10019885 
 Median of Green channel is : 38.0
 Lower and Upper quantile of Green channel are : 26.0 80.0
 Mean value is : 58.76765395894428
 Skewness and Kurtosis are : 1.4481036086200576 1.5233497986418278
-Average value of Red channel is : 58.76765395894428
-The Variance of Green channel is :  2594.46966927615
+Average value of Green channel is : 58.76765395894428
+The Variance of Green channel is  : 2594.4848861963037
 
 Sum of Blue channel is : 9430011
 Median of Blue channel is : 37.0
@@ -4282,7 +4282,7 @@ Lower and Upper quantile of Blue channel are : 25.0 71.0
 Mean value is : 55.30798240469208
 Skewness and Kurtosis are : 1.7010324757705317 2.423691826317347
 Average value of Blue channel is : 55.30798240469208
-The Variance of Blue channel is :  2452.9063374542357
+The Variance of Blue channel is  : 2452.9207240860487
 
 Fitted errors for Red channel:
 
@@ -4322,15 +4322,15 @@ Lower and Upper quantile of Red channel are : 127.0 171.0
 Mean value is : 137.79070731707318
 Skewness and Kurtosis are : -0.5964292253959955 -0.23223636982041818
 Average value of Red channel is : 137.79070731707318
-The Variance of Red channel is :  3444.551318524089
+The Variance of Red channel is  : 3444.572322013861
 
 Sum of Green channel is : 23254353 
 Median of Green channel is : 155.0
 Lower and Upper quantile of Green channel are : 135.0 178.0
 Mean value is : 141.79483536585366
 Skewness and Kurtosis are : -0.7671374262863292 -0.1709527359521843
-Average value of Red channel is : 141.79483536585366
-The Variance of Green channel is :  3645.3583891802155
+Average value of Green channel is : 141.79483536585366
+The Variance of Green channel is  : 3645.380617110805
 
 Sum of Blue channel is : 28121332
 Median of Blue channel is : 203.0
@@ -4338,7 +4338,7 @@ Lower and Upper quantile of Blue channel are : 178.0 222.0
 Mean value is : 171.47153658536584
 Skewness and Kurtosis are : -1.210437010980417 -0.1691059845452063
 Average value of Blue channel is : 171.47153658536584
-The Variance of Blue channel is :  5918.790433736467
+The Variance of Blue channel is  : 5918.826524142101
 
 Fitted errors for Red channel:
 
@@ -4378,15 +4378,15 @@ Lower and Upper quantile of Red channel are : 2.0 103.0
 Mean value is : 59.515331828442434
 Skewness and Kurtosis are : 0.9483257372613701 -0.28231660624488963
 Average value of Red channel is : 59.515331828442434
-The Variance of Red channel is :  4358.216455679958
+The Variance of Red channel is  : 4358.236131689581
 
 Sum of Green channel is : 13884208 
 Median of Green channel is : 35.0
 Lower and Upper quantile of Green channel are : 3.0 117.0
 Mean value is : 62.682654627539506
 Skewness and Kurtosis are : 0.9016707721841082 -0.37495618639205874
-Average value of Red channel is : 62.682654627539506
-The Variance of Green channel is :  4711.957016519545
+Average value of Green channel is : 62.682654627539506
+The Variance of Green channel is  : 4711.978289559226
 
 Sum of Blue channel is : 15185264
 Median of Blue channel is : 37.0
@@ -4394,7 +4394,7 @@ Lower and Upper quantile of Blue channel are : 6.0 124.0
 Mean value is : 68.55649661399549
 Skewness and Kurtosis are : 0.9905774711429753 -0.22442378533171947
 Average value of Blue channel is : 68.55649661399549
-The Variance of Blue channel is :  5625.989805875271
+The Variance of Blue channel is  : 5626.015205492452
 
 Fitted errors for Red channel:
 
@@ -4434,15 +4434,15 @@ Lower and Upper quantile of Red channel are : 31.0 94.0
 Mean value is : 64.71302643171806
 Skewness and Kurtosis are : 0.9198091253877347 0.5368439733784949
 Average value of Red channel is : 64.71302643171806
-The Variance of Red channel is :  1969.2326637922533
+The Variance of Red channel is  : 1969.2413388642303
 
 Sum of Green channel is : 14631810 
 Median of Green channel is : 55.0
 Lower and Upper quantile of Green channel are : 31.0 94.0
 Mean value is : 64.4573127753304
 Skewness and Kurtosis are : 0.8805689038527165 0.4325256836430631
-Average value of Red channel is : 64.4573127753304
-The Variance of Green channel is :  1919.1952438801454
+Average value of Green channel is : 64.4573127753304
+The Variance of Green channel is  : 1919.2036985219888
 
 Sum of Blue channel is : 14618217
 Median of Blue channel is : 55.0
@@ -4450,7 +4450,7 @@ Lower and Upper quantile of Blue channel are : 31.0 94.0
 Mean value is : 64.39743171806167
 Skewness and Kurtosis are : 0.8571938876986913 0.34625252522562144
 Average value of Blue channel is : 64.39743171806167
-The Variance of Blue channel is :  1902.5602726990828
+The Variance of Blue channel is  : 1902.5686540587915
 
 Fitted errors for Red channel:
 
@@ -4490,15 +4490,15 @@ Lower and Upper quantile of Red channel are : 7.0 79.0
 Mean value is : 54.408498498498496
 Skewness and Kurtosis are : 1.439363449476532 0.9180901367534506
 Average value of Red channel is : 54.408498498498496
-The Variance of Red channel is :  4512.156762610359
+The Variance of Red channel is  : 4512.183862813738
 
 Sum of Green channel is : 9059015 
 Median of Green channel is : 22.0
 Lower and Upper quantile of Green channel are : 7.0 79.0
 Mean value is : 54.408498498498496
 Skewness and Kurtosis are : 1.439363449476532 0.9180901367534506
-Average value of Red channel is : 54.408498498498496
-The Variance of Green channel is :  4512.156762610359
+Average value of Green channel is : 54.408498498498496
+The Variance of Green channel is  : 4512.183862813738
 
 Sum of Blue channel is : 9059015
 Median of Blue channel is : 22.0
@@ -4506,7 +4506,7 @@ Lower and Upper quantile of Blue channel are : 7.0 79.0
 Mean value is : 54.408498498498496
 Skewness and Kurtosis are : 1.439363449476532 0.9180901367534506
 Average value of Blue channel is : 54.408498498498496
-The Variance of Blue channel is :  4512.156762610359
+The Variance of Blue channel is  : 4512.183862813738
 
 Fitted errors for Red channel:
 
@@ -4546,15 +4546,15 @@ Lower and Upper quantile of Red channel are : 57.0 78.0
 Mean value is : 66.681904
 Skewness and Kurtosis are : -0.4041829433389125 1.7268233102271449
 Average value of Red channel is : 66.681904
-The Variance of Red channel is :  320.35856426811733
+The Variance of Red channel is  : 320.36027285623925
 
 Sum of Green channel is : 20837121 
 Median of Green channel is : 114.0
 Lower and Upper quantile of Green channel are : 101.0 124.0
 Mean value is : 111.131312
 Skewness and Kurtosis are : -0.8367769149288561 2.2369696748255423
-Average value of Red channel is : 111.131312
-The Variance of Green channel is :  388.5457811586566
+Average value of Green channel is : 111.131312
+The Variance of Green channel is  : 388.5478534138742
 
 Sum of Blue channel is : 1576295
 Median of Blue channel is : 6.0
@@ -4562,7 +4562,7 @@ Lower and Upper quantile of Blue channel are : 1.0 12.0
 Mean value is : 8.406906666666666
 Skewness and Kurtosis are : 5.471789832889265 72.00887709585643
 Average value of Blue channel is : 8.406906666666666
-The Variance of Blue channel is :  119.87548829795557
+The Variance of Blue channel is  : 119.87612763730296
 
 Fitted errors for Red channel:
 
@@ -4602,15 +4602,15 @@ Lower and Upper quantile of Red channel are : 239.0 249.0
 Mean value is : 243.51824533333334
 Skewness and Kurtosis are : -1.0191480347643223 3.21315381432591
 Average value of Red channel is : 243.51824533333334
-The Variance of Red channel is :  65.69417910780612
+The Variance of Red channel is  : 65.69452947863545
 
 Sum of Green channel is : 22987795 
 Median of Green channel is : 118.0
 Lower and Upper quantile of Green channel are : 64.0 182.0
 Mean value is : 122.60157333333333
 Skewness and Kurtosis are : 0.0983766445019455 -1.0104378124663538
-Average value of Red channel is : 122.60157333333333
-The Variance of Green channel is :  5324.6569308579565
+Average value of Green channel is : 122.60157333333333
+The Variance of Green channel is  : 5324.6853291797115
 
 Sum of Blue channel is : 29441835
 Median of Blue channel is : 150.0
@@ -4618,7 +4618,7 @@ Lower and Upper quantile of Blue channel are : 139.0 165.0
 Mean value is : 157.02312
 Skewness and Kurtosis are : 1.7457158389346 3.4709675410552006
 Average value of Blue channel is : 157.02312
-The Variance of Blue channel is :  993.7181374655956
+The Variance of Blue channel is  : 993.7234373239324
 
 Fitted errors for Red channel:
 
@@ -4658,15 +4658,15 @@ Lower and Upper quantile of Red channel are : 116.0 163.0
 Mean value is : 133.31044179104478
 Skewness and Kurtosis are : -1.0671558004820532 1.3186034319204287
 Average value of Red channel is : 133.31044179104478
-The Variance of Red channel is :  2295.5973990286984
+The Variance of Red channel is  : 2295.6111041696217
 
 Sum of Green channel is : 22021300 
 Median of Green channel is : 139.0
 Lower and Upper quantile of Green channel are : 114.0 161.0
 Mean value is : 131.47044776119404
 Skewness and Kurtosis are : -1.0464543350658704 1.2748233900490344
-Average value of Red channel is : 131.47044776119404
-The Variance of Green channel is :  2268.7029893517465
+Average value of Green channel is : 131.47044776119404
+The Variance of Green channel is  : 2268.7165339280705
 
 Sum of Blue channel is : 19657661
 Median of Blue channel is : 124.0
@@ -4674,7 +4674,7 @@ Lower and Upper quantile of Blue channel are : 99.0 146.0
 Mean value is : 117.35917014925373
 Skewness and Kurtosis are : -0.8740214316480298 0.9072251637374866
 Average value of Blue channel is : 117.35917014925373
-The Variance of Blue channel is :  2074.723492326273
+The Variance of Blue channel is  : 2074.7358788091315
 
 Fitted errors for Red channel:
 
@@ -4714,15 +4714,15 @@ Lower and Upper quantile of Red channel are : 5.0 34.0
 Mean value is : 25.56917117117117
 Skewness and Kurtosis are : 2.8506010064879574 11.039878072907344
 Average value of Red channel is : 25.56917117117117
-The Variance of Red channel is :  1077.843449583313
+The Variance of Red channel is  : 1077.8499231564251
 
 Sum of Green channel is : 3216805 
 Median of Green channel is : 7.0
 Lower and Upper quantile of Green channel are : 2.0 25.0
 Mean value is : 19.320150150150152
 Skewness and Kurtosis are : 3.1070866373835195 13.156825033452957
-Average value of Red channel is : 19.320150150150152
-The Variance of Green channel is :  848.1436960735509
+Average value of Green channel is : 19.320150150150152
+The Variance of Green channel is  : 848.1487900602781
 
 Sum of Blue channel is : 3169230
 Median of Blue channel is : 10.0
@@ -4730,7 +4730,7 @@ Lower and Upper quantile of Blue channel are : 6.0 24.0
 Mean value is : 19.034414414414414
 Skewness and Kurtosis are : 3.138159592692728 14.754518930481648
 Average value of Blue channel is : 19.034414414414414
-The Variance of Blue channel is :  545.7446174498823
+The Variance of Blue channel is  : 545.7478952150187
 
 Fitted errors for Red channel:
 
@@ -4770,15 +4770,15 @@ Lower and Upper quantile of Red channel are : 75.0 122.0
 Mean value is : 101.46275449101796
 Skewness and Kurtosis are : 0.820408731713108 1.2889241267138134
 Average value of Red channel is : 101.46275449101796
-The Variance of Red channel is :  2055.307223550504
+The Variance of Red channel is  : 2055.319530853084
 
 Sum of Green channel is : 16211448 
 Median of Green channel is : 96.0
 Lower and Upper quantile of Green channel are : 69.0 120.0
 Mean value is : 97.07453892215568
 Skewness and Kurtosis are : 0.5774346695416341 1.1181231996164476
-Average value of Red channel is : 97.07453892215568
-The Variance of Green channel is :  1878.279030775433
+Average value of Green channel is : 97.07453892215568
+The Variance of Green channel is  : 1878.290278022605
 
 Sum of Blue channel is : 18207031
 Median of Blue channel is : 114.0
@@ -4786,7 +4786,7 @@ Lower and Upper quantile of Blue channel are : 75.0 140.0
 Mean value is : 109.0241377245509
 Skewness and Kurtosis are : 0.04443708797174238 -0.10046456013871063
 Average value of Blue channel is : 109.0241377245509
-The Variance of Blue channel is :  2246.4401658732477
+The Variance of Blue channel is  : 2246.4536176913175
 
 Fitted errors for Red channel:
 
@@ -4826,15 +4826,15 @@ Lower and Upper quantile of Red channel are : 103.0 163.0
 Mean value is : 132.936864
 Skewness and Kurtosis are : -0.11913847302603627 0.23759475238640393
 Average value of Red channel is : 132.936864
-The Variance of Red channel is :  2660.7399178455016
+The Variance of Red channel is  : 2660.7541085340827
 
 Sum of Green channel is : 17844340 
 Median of Green channel is : 79.0
 Lower and Upper quantile of Green channel are : 51.0 129.0
 Mean value is : 95.16981333333334
 Skewness and Kurtosis are : 0.7916396341955428 -0.29070730042215054
-Average value of Red channel is : 95.16981333333334
-The Variance of Green channel is :  3971.385819431822
+Average value of Green channel is : 95.16981333333334
+The Variance of Green channel is  : 3971.407000269157
 
 Sum of Blue channel is : 31924482
 Median of Blue channel is : 184.0
@@ -4842,7 +4842,7 @@ Lower and Upper quantile of Blue channel are : 139.0 213.0
 Mean value is : 170.263904
 Skewness and Kurtosis are : -0.9904852680387751 0.5202611306018898
 Average value of Blue channel is : 170.263904
-The Variance of Blue channel is :  3515.923389345451
+The Variance of Blue channel is  : 3515.9421410368695
 
 Fitted errors for Red channel:
 
@@ -4882,15 +4882,15 @@ Lower and Upper quantile of Red channel are : 199.0 255.0
 Mean value is : 222.19392533333334
 Skewness and Kurtosis are : -1.6623284139180876 4.183077537730766
 Average value of Red channel is : 222.19392533333334
-The Variance of Red channel is :  1466.0919769650864
+The Variance of Red channel is  : 1466.0997961640044
 
 Sum of Green channel is : 36756529 
 Median of Green channel is : 205.0
 Lower and Upper quantile of Green channel are : 153.0 254.0
 Mean value is : 196.03482133333333
 Skewness and Kurtosis are : -0.6379319293040561 -0.5567383084529385
-Average value of Red channel is : 196.03482133333333
-The Variance of Green channel is :  3168.1307714747527
+Average value of Green channel is : 196.03482133333333
+The Variance of Green channel is  : 3168.147668262309
 
 Sum of Blue channel is : 36299903
 Median of Blue channel is : 203.0
@@ -4898,7 +4898,7 @@ Lower and Upper quantile of Blue channel are : 146.0 254.0
 Mean value is : 193.59948266666666
 Skewness and Kurtosis are : -0.5733850076196464 -0.7947797658159641
 Average value of Blue channel is : 193.59948266666666
-The Variance of Blue channel is :  3494.9306418656997
+The Variance of Blue channel is  : 3494.9492815952012
 
 Fitted errors for Red channel:
 
@@ -4938,15 +4938,15 @@ Lower and Upper quantile of Red channel are : 65.0 103.0
 Mean value is : 86.78450450450451
 Skewness and Kurtosis are : -0.04988109305142657 2.392521579652544
 Average value of Red channel is : 86.78450450450451
-The Variance of Red channel is :  852.9365286583879
+The Variance of Red channel is  : 852.9416514310694
 
 Sum of Green channel is : 17008586 
 Median of Green channel is : 119.0
 Lower and Upper quantile of Green channel are : 82.0 124.0
 Mean value is : 102.15366966966967
 Skewness and Kurtosis are : -0.9968157363576287 0.03317756474858147
-Average value of Red channel is : 102.15366966966967
-The Variance of Green channel is :  1119.672241488479
+Average value of Green channel is : 102.15366966966967
+The Variance of Green channel is  : 1119.6789662870758
 
 Sum of Blue channel is : 18671067
 Median of Blue channel is : 134.0
@@ -4954,7 +4954,7 @@ Lower and Upper quantile of Blue channel are : 92.0 139.0
 Mean value is : 112.13854054054055
 Skewness and Kurtosis are : -1.0901689798454184 -0.2548104650922647
 Average value of Blue channel is : 112.13854054054055
-The Variance of Blue channel is :  1585.8523200321397
+The Variance of Blue channel is  : 1585.8618447279043
 
 Fitted errors for Red channel:
 
@@ -4994,15 +4994,15 @@ Lower and Upper quantile of Red channel are : 139.0 194.0
 Mean value is : 165.55129066666666
 Skewness and Kurtosis are : -0.3524942911559938 -0.4057951251914984
 Average value of Red channel is : 165.55129066666666
-The Variance of Red channel is :  1369.4481692675145
+The Variance of Red channel is  : 1369.4554730300358
 
 Sum of Green channel is : 25300428 
 Median of Green channel is : 133.0
 Lower and Upper quantile of Green channel are : 99.0 166.0
 Mean value is : 134.935616
 Skewness and Kurtosis are : 0.2615034847401764 -0.7556491461914576
-Average value of Red channel is : 134.935616
-The Variance of Green channel is :  1872.2908307005382
+Average value of Green channel is : 134.935616
+The Variance of Green channel is  : 1872.3008163048976
 
 Sum of Blue channel is : 18407047
 Median of Blue channel is : 95.0
@@ -5010,7 +5010,7 @@ Lower and Upper quantile of Blue channel are : 46.0 138.0
 Mean value is : 98.17091733333334
 Skewness and Kurtosis are : 0.47267107476541786 -0.8333809423584371
 Average value of Blue channel is : 98.17091733333334
-The Variance of Blue channel is :  3013.7617472651673
+The Variance of Blue channel is  : 3013.777820746877
 
 Fitted errors for Red channel:
 
@@ -5050,15 +5050,15 @@ Lower and Upper quantile of Red channel are : 71.0 231.0
 Mean value is : 153.9951208791209
 Skewness and Kurtosis are : -0.4819394395621073 -1.294620201361577
 Average value of Red channel is : 153.9951208791209
-The Variance of Red channel is :  6853.044459710662
+The Variance of Red channel is  : 6853.0821140079925
 
 Sum of Green channel is : 27578975 
 Median of Green channel is : 182.0
 Lower and Upper quantile of Green channel are : 63.0 232.0
 Mean value is : 151.53282967032968
 Skewness and Kurtosis are : -0.4837039467160824 -1.326792936356018
-Average value of Red channel is : 151.53282967032968
-The Variance of Green channel is :  7612.3539332017535
+Average value of Green channel is : 151.53282967032968
+The Variance of Green channel is  : 7612.395759552084
 
 Sum of Blue channel is : 22085341
 Median of Blue channel is : 127.0
@@ -5066,7 +5066,7 @@ Lower and Upper quantile of Blue channel are : 17.0 224.0
 Mean value is : 121.34802747252748
 Skewness and Kurtosis are : 0.026031075704201462 -1.7161119782520402
 Average value of Blue channel is : 121.34802747252748
-The Variance of Blue channel is :  9441.074739515727
+The Variance of Blue channel is  : 9441.126613837783
 
 Fitted errors for Red channel:
 
@@ -5106,15 +5106,15 @@ Lower and Upper quantile of Red channel are : 68.0 186.0
 Mean value is : 123.33812012012012
 Skewness and Kurtosis are : -0.10729814340959022 -1.2935995473034303
 Average value of Red channel is : 123.33812012012012
-The Variance of Red channel is :  3729.1741732828687
+The Variance of Red channel is  : 3729.1965708598705
 
 Sum of Green channel is : 16824146 
 Median of Green channel is : 104.0
 Lower and Upper quantile of Green channel are : 65.0 126.0
 Mean value is : 101.04592192192192
 Skewness and Kurtosis are : 0.41244180641588307 -0.33030277474649816
-Average value of Red channel is : 101.04592192192192
-The Variance of Green channel is :  2667.0522094954067
+Average value of Green channel is : 101.04592192192192
+The Variance of Green channel is  : 2667.0682279232005
 
 Sum of Blue channel is : 16426378
 Median of Blue channel is : 94.0
@@ -5122,7 +5122,7 @@ Lower and Upper quantile of Blue channel are : 45.0 144.0
 Mean value is : 98.65692492492492
 Skewness and Kurtosis are : 0.24119313274651638 -1.1606677343632053
 Average value of Blue channel is : 98.65692492492492
-The Variance of Blue channel is :  3320.3207018952635
+The Variance of Blue channel is  : 3320.340643881114
 
 Fitted errors for Red channel:
 
@@ -5162,15 +5162,15 @@ Lower and Upper quantile of Red channel are : 59.0 206.0
 Mean value is : 131.11442042042043
 Skewness and Kurtosis are : -0.44687106700715634 -1.3345461082771668
 Average value of Red channel is : 131.11442042042043
-The Variance of Red channel is :  6692.771262321745
+The Variance of Red channel is  : 6692.811459387567
 
 Sum of Green channel is : 21087414 
 Median of Green channel is : 152.0
 Lower and Upper quantile of Green channel are : 48.0 196.0
 Mean value is : 126.65113513513514
 Skewness and Kurtosis are : -0.41387606347953715 -1.3155521338688734
-Average value of Red channel is : 126.65113513513514
-The Variance of Green channel is :  6556.3586776904485
+Average value of Green channel is : 126.65113513513514
+The Variance of Green channel is  : 6556.398055456546
 
 Sum of Blue channel is : 16490599
 Median of Blue channel is : 107.0
@@ -5178,7 +5178,7 @@ Lower and Upper quantile of Blue channel are : 10.0 152.0
 Mean value is : 99.04263663663663
 Skewness and Kurtosis are : 0.05845682849609623 -1.0899811696279718
 Average value of Blue channel is : 99.04263663663663
-The Variance of Blue channel is :  5391.128242177278
+The Variance of Blue channel is  : 5391.160621520348
 
 Fitted errors for Red channel:
 
@@ -5218,15 +5218,15 @@ Lower and Upper quantile of Red channel are : 165.0 213.0
 Mean value is : 167.41610555555556
 Skewness and Kurtosis are : -1.2936667834434687 0.12500678699706258
 Average value of Red channel is : 167.41610555555556
-The Variance of Red channel is :  4957.511306166634
+The Variance of Red channel is  : 4957.538848049125
 
 Sum of Green channel is : 35328236 
 Median of Green channel is : 219.0
 Lower and Upper quantile of Green channel are : 182.0 235.0
 Mean value is : 196.2679777777778
 Skewness and Kurtosis are : -1.298745063348711 0.505142523975552
-Average value of Red channel is : 196.2679777777778
-The Variance of Green channel is :  3154.588487910609
+Average value of Green channel is : 196.2679777777778
+The Variance of Green channel is  : 3154.606013499581
 
 Sum of Blue channel is : 19832179
 Median of Blue channel is : 130.0
@@ -5234,7 +5234,7 @@ Lower and Upper quantile of Blue channel are : 84.0 151.0
 Mean value is : 110.17877222222222
 Skewness and Kurtosis are : -0.6547321409208794 -0.41664366513177997
 Average value of Blue channel is : 110.17877222222222
-The Variance of Blue channel is :  3210.9583682703396
+The Variance of Blue channel is  : 3210.9762070270453
 
 Fitted errors for Red channel:
 
@@ -5274,15 +5274,15 @@ Lower and Upper quantile of Red channel are : 0.0 187.0
 Mean value is : 74.21795847750865
 Skewness and Kurtosis are : 0.7220429037431422 -1.2075430133908442
 Average value of Red channel is : 74.21795847750865
-The Variance of Red channel is :  8446.714798600351
+The Variance of Red channel is  : 8446.773253778578
 
 Sum of Green channel is : 11668241 
 Median of Green channel is : 8.0
 Lower and Upper quantile of Green channel are : 0.0 205.0
 Mean value is : 80.74907266435986
 Skewness and Kurtosis are : 0.661644140145498 -1.3314264855682247
-Average value of Red channel is : 80.74907266435986
-The Variance of Green channel is :  9575.364502600256
+Average value of Green channel is : 80.74907266435986
+The Variance of Green channel is  : 9575.430768557133
 
 Sum of Blue channel is : 10385699
 Median of Blue channel is : 5.0
@@ -5290,7 +5290,7 @@ Lower and Upper quantile of Blue channel are : 0.0 182.0
 Mean value is : 71.87334948096886
 Skewness and Kurtosis are : 0.75583463662746 -1.1516541943061127
 Average value of Blue channel is : 71.87334948096886
-The Variance of Blue channel is :  8202.63988352146
+The Variance of Blue channel is  : 8202.69664958824
 
 Fitted errors for Red channel:
 
@@ -5330,15 +5330,15 @@ Lower and Upper quantile of Red channel are : 2.0 125.0
 Mean value is : 66.42658160237389
 Skewness and Kurtosis are : 0.9207934397018778 -0.6024879519472357
 Average value of Red channel is : 66.42658160237389
-The Variance of Red channel is :  6375.525523685477
+The Variance of Red channel is  : 6375.563360856759
 
 Sum of Green channel is : 10924150 
 Median of Green channel is : 20.0
 Lower and Upper quantile of Green channel are : 3.0 121.0
 Mean value is : 64.83175074183977
 Skewness and Kurtosis are : 0.9173383095458407 -0.5657013657001002
-Average value of Red channel is : 64.83175074183977
-The Variance of Green channel is :  5824.463799012055
+Average value of Green channel is : 64.83175074183977
+The Variance of Green channel is  : 5824.498365767935
 
 Sum of Blue channel is : 6564002
 Median of Blue channel is : 9.0
@@ -5346,7 +5346,7 @@ Lower and Upper quantile of Blue channel are : 1.0 45.0
 Mean value is : 38.95550148367953
 Skewness and Kurtosis are : 1.7413113049569606 1.9182111536634823
 Average value of Blue channel is : 38.95550148367953
-The Variance of Blue channel is :  3699.436180119434
+The Variance of Blue channel is  : 3699.458135360593
 
 Fitted errors for Red channel:
 
@@ -5386,15 +5386,15 @@ Lower and Upper quantile of Red channel are : 140.0 183.0
 Mean value is : 159.78516012084592
 Skewness and Kurtosis are : -0.8795271235286162 0.9597626875585878
 Average value of Red channel is : 159.78516012084592
-The Variance of Red channel is :  1046.5893241888625
+The Variance of Red channel is  : 1046.5956480296363
 
 Sum of Green channel is : 21982423 
 Median of Green channel is : 137.0
 Lower and Upper quantile of Green channel are : 114.0 154.0
 Mean value is : 132.8243081570997
 Skewness and Kurtosis are : -0.5513737142976064 0.49206670216035464
-Average value of Red channel is : 132.8243081570997
-The Variance of Green channel is :  939.7004979352496
+Average value of Green channel is : 132.8243081570997
+The Variance of Green channel is  : 939.7061759181868
 
 Sum of Blue channel is : 15458587
 Median of Blue channel is : 92.0
@@ -5402,7 +5402,7 @@ Lower and Upper quantile of Blue channel are : 69.0 117.0
 Mean value is : 93.40535951661631
 Skewness and Kurtosis are : 0.07323182984839093 -0.07588213679776468
 Average value of Blue channel is : 93.40535951661631
-The Variance of Blue channel is :  1389.7568377408388
+The Variance of Blue channel is  : 1389.7652351138602
 
 Fitted errors for Red channel:
 
@@ -5442,15 +5442,15 @@ Lower and Upper quantile of Red channel are : 22.0 250.0
 Mean value is : 130.5632072072072
 Skewness and Kurtosis are : 0.036083777836689354 -1.736397026286913
 Average value of Red channel is : 130.5632072072072
-The Variance of Red channel is :  10512.635374218327
+The Variance of Red channel is  : 10512.698513548738
 
 Sum of Green channel is : 13919249 
 Median of Green channel is : 49.0
 Lower and Upper quantile of Green channel are : 20.0 144.0
 Mean value is : 83.59909309309309
 Skewness and Kurtosis are : 0.7697275581728379 -0.7463357644052167
-Average value of Red channel is : 83.59909309309309
-The Variance of Green channel is :  6013.877465844187
+Average value of Green channel is : 83.59909309309309
+The Variance of Green channel is  : 6013.913585445301
 
 Sum of Blue channel is : 10445931
 Median of Blue channel is : 44.0
@@ -5458,7 +5458,7 @@ Lower and Upper quantile of Blue channel are : 18.0 86.0
 Mean value is : 62.738324324324324
 Skewness and Kurtosis are : 1.282758527289032 0.9332968677590334
 Average value of Blue channel is : 62.738324324324324
-The Variance of Blue channel is :  3650.448721035955
+The Variance of Blue channel is  : 3650.4706457845787
 
 Fitted errors for Red channel:
 
@@ -5498,15 +5498,15 @@ Lower and Upper quantile of Red channel are : 63.0 196.0
 Mean value is : 130.8263843843844
 Skewness and Kurtosis are : 0.10043210543256871 -1.3193477793364152
 Average value of Red channel is : 130.8263843843844
-The Variance of Red channel is :  5242.890199960355
+The Variance of Red channel is  : 5242.92168897951
 
 Sum of Green channel is : 17071688 
 Median of Green channel is : 97.0
 Lower and Upper quantile of Green channel are : 49.0 149.0
 Mean value is : 102.53266066066067
 Skewness and Kurtosis are : 0.3546894734852222 -0.8848425029922504
-Average value of Red channel is : 102.53266066066067
-The Variance of Green channel is :  3629.4134858337966
+Average value of Green channel is : 102.53266066066067
+The Variance of Green channel is  : 3629.4352842439134
 
 Sum of Blue channel is : 10649373
 Median of Blue channel is : 50.0
@@ -5514,7 +5514,7 @@ Lower and Upper quantile of Blue channel are : 24.0 94.0
 Mean value is : 63.9601981981982
 Skewness and Kurtosis are : 0.9999250583111712 0.4360445351705944
 Average value of Blue channel is : 63.9601981981982
-The Variance of Blue channel is :  2600.6287641649214
+The Variance of Blue channel is  : 2600.644383650709
 
 Fitted errors for Red channel:
 
@@ -5554,15 +5554,15 @@ Lower and Upper quantile of Red channel are : 47.0 143.0
 Mean value is : 107.590006006006
 Skewness and Kurtosis are : 0.7105417772507818 -0.2662888565272845
 Average value of Red channel is : 107.590006006006
-The Variance of Red channel is :  4126.067568588551
+The Variance of Red channel is  : 4126.092349923988
 
 Sum of Green channel is : 15292307 
 Median of Green channel is : 85.0
 Lower and Upper quantile of Green channel are : 30.0 137.0
 Mean value is : 91.84568768768769
 Skewness and Kurtosis are : 0.6948261491949823 -0.2029114675278998
-Average value of Red channel is : 91.84568768768769
-The Variance of Green channel is :  4317.486103626185
+Average value of Green channel is : 91.84568768768769
+The Variance of Green channel is  : 4317.512034629395
 
 Sum of Blue channel is : 10895243
 Median of Blue channel is : 40.0
@@ -5570,7 +5570,7 @@ Lower and Upper quantile of Blue channel are : 8.0 106.0
 Mean value is : 65.43689489489489
 Skewness and Kurtosis are : 0.957303147688474 0.3074925255129255
 Average value of Blue channel is : 65.43689489489489
-The Variance of Blue channel is :  4297.810930658623
+The Variance of Blue channel is  : 4297.836743491917
 
 Fitted errors for Red channel:
 
