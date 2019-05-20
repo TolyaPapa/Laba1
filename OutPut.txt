@@ -1,4 +1,5 @@
 Output for Image number 1
+
 Max and min values of Red channel of image 1 are: 255, 0
 Max and min values of Green channel of image 1 are: 255, 0
 Max and min values of Blue channel of image 1 are: 255, 0
@@ -27,9 +28,34 @@ Skewness and Kurtosis are : 0.6946958297730965 -0.47469675972776404
 Average value of Blue channel is : 93.30614
 The Variance of Blue channel is :  4180.4746263004
 
+Fitted errors for Red channel:
+
+beta >>> 0.0009441332885999313
+gamma >>> 0.0008573485756217013
+uniform >>> 0.0012155639815716415
+norm >>> 0.0013823668367418662
+laplace >>> 0.001760730319552686
+
+Fitted errors for Green channel:
+
+beta >>> 0.0004520977479855637
+gamma >>> 0.00039135969209310546
+uniform >>> 0.0009862686868501653
+norm >>> 0.0008572294926587394
+laplace >>> 0.0011600966414825047
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0004030201160965179
+gamma >>> 0.00030811448354547033
+uniform >>> 0.0013746981006832449
+norm >>> 0.0010451543634880569
+laplace >>> 0.0012629183132677703
+
 =================================================
 
 Output for Image number 2
+
 Max and min values of Red channel of image 2 are: 255, 0
 Max and min values of Green channel of image 2 are: 255, 0
 Max and min values of Blue channel of image 2 are: 255, 0
@@ -58,9 +84,34 @@ Skewness and Kurtosis are : -0.18033191757668543 -0.9637171663255573
 Average value of Blue channel is : 129.53445045045046
 The Variance of Blue channel is :  4524.749557911204
 
+Fitted errors for Red channel:
+
+beta >>> 0.00020126288618585081
+gamma >>> 0.00034045152540366027
+uniform >>> 0.000594621598175306
+norm >>> 0.0003200015351921615
+laplace >>> 0.0007070633795013933
+
+Fitted errors for Green channel:
+
+beta >>> 0.0004177099298761438
+gamma >>> 0.0005472868701191835
+uniform >>> 0.0006119301269152607
+norm >>> 0.0005270298899891738
+laplace >>> 0.000945308970982102
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00026666000008173215
+gamma >>> 0.0004358742631421198
+uniform >>> 0.00036997006312227136
+norm >>> 0.00042519850081755936
+laplace >>> 0.0008553373525228158
+
 =================================================
 
 Output for Image number 3
+
 Max and min values of Red channel of image 3 are: 255, 0
 Max and min values of Green channel of image 3 are: 255, 0
 Max and min values of Blue channel of image 3 are: 255, 0
@@ -89,9 +140,34 @@ Skewness and Kurtosis are : 1.5580536366663336 2.2746021617563175
 Average value of Blue channel is : 63.37995180722891
 The Variance of Blue channel is :  1397.812901684425
 
+Fitted errors for Red channel:
+
+beta >>> 5.860863353443897e-05
+gamma >>> 0.0001234616698584885
+uniform >>> 0.002042430585947129
+norm >>> 0.00010877687034361326
+laplace >>> 0.000567757583615546
+
+Fitted errors for Green channel:
+
+beta >>> 9.48646808995678e-05
+gamma >>> 0.00013939569278858358
+uniform >>> 0.0014350430200651414
+norm >>> 0.0001447415459322136
+laplace >>> 0.0006030625430036466
+
+Fitted errors for Blue channel:
+
+beta >>> 0.01115541364841615
+gamma >>> 0.011220811101502314
+uniform >>> 0.018261100569394766
+norm >>> 0.013935082732563095
+laplace >>> 0.009454148441341972
+
 =================================================
 
 Output for Image number 4
+
 Max and min values of Red channel of image 4 are: 255, 0
 Max and min values of Green channel of image 4 are: 255, 0
 Max and min values of Blue channel of image 4 are: 255, 0
@@ -120,9 +196,34 @@ Skewness and Kurtosis are : -0.2955165812572446 -0.8773564930086879
 Average value of Blue channel is : 113.652006006006
 The Variance of Blue channel is :  2460.1866299098747
 
+Fitted errors for Red channel:
+
+beta >>> 0.0010283284879283395
+gamma >>> 0.0011961922870979062
+uniform >>> 0.0011351987000533096
+norm >>> 0.0011894474264781529
+laplace >>> 0.0015315474587476454
+
+Fitted errors for Green channel:
+
+beta >>> 0.0007812479400299668
+gamma >>> 0.0008936859106379196
+uniform >>> 0.0015411673713757953
+norm >>> 0.0008832207193491053
+laplace >>> 0.0012293910507824714
+
+Fitted errors for Blue channel:
+
+beta >>> 0.001232761056175343
+gamma >>> 0.0012938153197042741
+uniform >>> 0.0025752000154357
+norm >>> 0.0012440853247519786
+laplace >>> 0.0015163016661527326
+
 =================================================
 
 Output for Image number 5
+
 Max and min values of Red channel of image 5 are: 255, 0
 Max and min values of Green channel of image 5 are: 255, 0
 Max and min values of Blue channel of image 5 are: 255, 0
@@ -151,9 +252,34 @@ Skewness and Kurtosis are : 2.6219449249805735 7.592731118235989
 Average value of Blue channel is : 39.77075333333333
 The Variance of Blue channel is :  2381.019652632489
 
+Fitted errors for Red channel:
+
+beta >>> 0.010006663910786483
+gamma >>> 0.10392358832421698
+uniform >>> 0.006792950137422016
+norm >>> 0.0044621874061506524
+laplace >>> 0.0015528164947961089
+
+Fitted errors for Green channel:
+
+beta >>> 0.0021455729872409232
+gamma >>> 0.0021193464041750153
+uniform >>> 0.007930108210994404
+norm >>> 0.004717653687045053
+laplace >>> 0.001620527290014991
+
+Fitted errors for Blue channel:
+
+beta >>> 0.008522373554147242
+gamma >>> 0.009657440772842403
+uniform >>> 0.01605666556108984
+norm >>> 0.011557902109042686
+laplace >>> 0.01018771136386557
+
 =================================================
 
 Output for Image number 6
+
 Max and min values of Red channel of image 6 are: 255, 0
 Max and min values of Green channel of image 6 are: 255, 0
 Max and min values of Blue channel of image 6 are: 255, 0
@@ -182,9 +308,34 @@ Skewness and Kurtosis are : -0.8734304274303024 -0.6303732643896098
 Average value of Blue channel is : 118.88166563467492
 The Variance of Blue channel is :  3807.3082075042985
 
+Fitted errors for Red channel:
+
+beta >>> 0.008378943378708772
+gamma >>> 0.007980122722846764
+uniform >>> 0.008348188235075368
+norm >>> 0.0072603897411014015
+laplace >>> 0.004149427231638118
+
+Fitted errors for Green channel:
+
+beta >>> 0.008374617835905153
+gamma >>> 0.008244888037999998
+uniform >>> 0.00852161629416014
+norm >>> 0.008030336007919844
+laplace >>> 0.005248210689820199
+
+Fitted errors for Blue channel:
+
+beta >>> 0.008812948943339028
+gamma >>> 0.008292586214226358
+uniform >>> 0.00856584370980058
+norm >>> 0.008080158083685826
+laplace >>> 0.005297605362601183
+
 =================================================
 
 Output for Image number 7
+
 Max and min values of Red channel of image 7 are: 255, 0
 Max and min values of Green channel of image 7 are: 255, 0
 Max and min values of Blue channel of image 7 are: 255, 0
@@ -213,9 +364,34 @@ Skewness and Kurtosis are : 3.990118821578587 15.738342913126349
 Average value of Blue channel is : 27.688304
 The Variance of Blue channel is :  2175.675789603584
 
+Fitted errors for Red channel:
+
+beta >>> 0.0039064832650605565
+gamma >>> 0.0043290843353672665
+uniform >>> 0.0048896341206721115
+norm >>> 0.004221166430655723
+laplace >>> 0.00470145988924367
+
+Fitted errors for Green channel:
+
+beta >>> 0.006354996370069018
+gamma >>> 0.005646943256851449
+uniform >>> 0.01084317779722247
+norm >>> 0.005902703415445623
+laplace >>> 0.005270765607440288
+
+Fitted errors for Blue channel:
+
+beta >>> 0.004058564111278096
+gamma >>> 0.02368735971090787
+uniform >>> 0.02260274043609735
+norm >>> 0.015963796873447837
+laplace >>> 0.005440647161859116
+
 =================================================
 
 Output for Image number 8
+
 Max and min values of Red channel of image 8 are: 255, 12
 Max and min values of Green channel of image 8 are: 255, 0
 Max and min values of Blue channel of image 8 are: 255, 0
@@ -244,9 +420,34 @@ Skewness and Kurtosis are : 0.6710206744497024 -0.6202433319095024
 Average value of Blue channel is : 122.89220375335121
 The Variance of Blue channel is :  4683.454149406203
 
+Fitted errors for Red channel:
+
+beta >>> 0.016783601860658373
+gamma >>> 0.026597035413267776
+uniform >>> 0.029691125570767186
+norm >>> 0.025521362599655477
+laplace >>> 0.02480416222349702
+
+Fitted errors for Green channel:
+
+beta >>> 0.01976186290370885
+gamma >>> 0.02206408554529479
+uniform >>> 0.02386648581904519
+norm >>> 0.02199173536806043
+laplace >>> 0.0216043972057635
+
+Fitted errors for Blue channel:
+
+beta >>> 0.016826855416095295
+gamma >>> 0.01611370472856636
+uniform >>> 0.016870068986415566
+norm >>> 0.01673042297078311
+laplace >>> 0.015525524198277648
+
 =================================================
 
 Output for Image number 9
+
 Max and min values of Red channel of image 9 are: 193, 0
 Max and min values of Green channel of image 9 are: 130, 0
 Max and min values of Blue channel of image 9 are: 104, 0
@@ -275,9 +476,34 @@ Skewness and Kurtosis are : 1.0623308948322097 0.8781294281176582
 Average value of Blue channel is : 16.83864
 The Variance of Blue channel is :  174.04358961706663
 
+Fitted errors for Red channel:
+
+beta >>> 0.0076334944271774716
+gamma >>> 0.007848866400957721
+uniform >>> 0.010403753540984783
+norm >>> 0.007737794701934451
+laplace >>> 0.009016077509597441
+
+Fitted errors for Green channel:
+
+beta >>> 0.031129657509960957
+gamma >>> 0.031106112083804136
+uniform >>> 0.04049632405669617
+norm >>> 0.03456329231776108
+laplace >>> 0.03639901011635863
+
+Fitted errors for Blue channel:
+
+beta >>> 0.09952685804611341
+gamma >>> 0.099447566436053
+uniform >>> 0.14200952156873636
+norm >>> 0.11061431168749113
+laplace >>> 0.10837657792317659
+
 =================================================
 
 Output for Image number 10
+
 Max and min values of Red channel of image 10 are: 255, 0
 Max and min values of Green channel of image 10 are: 255, 0
 Max and min values of Blue channel of image 10 are: 255, 0
@@ -306,9 +532,34 @@ Skewness and Kurtosis are : 1.0022055401896852 0.12565890259143098
 Average value of Blue channel is : 89.10552533333333
 The Variance of Blue channel is :  3228.5000110706915
 
+Fitted errors for Red channel:
+
+beta >>> 0.0022735734624506625
+gamma >>> 0.0010922164276274378
+uniform >>> 0.0029633280323442092
+norm >>> 0.0021119048808993113
+laplace >>> 0.0011927066961342143
+
+Fitted errors for Green channel:
+
+beta >>> 0.0007934267200069664
+gamma >>> 0.0007930515686310791
+uniform >>> 0.0027157270849219907
+norm >>> 0.0017444430813669512
+laplace >>> 0.0008270700443708144
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0006443581135158563
+gamma >>> 0.000641332103427747
+uniform >>> 0.0029560900565454725
+norm >>> 0.0017605690798571459
+laplace >>> 0.001165547081369928
+
 =================================================
 
 Output for Image number 11
+
 Max and min values of Red channel of image 11 are: 255, 0
 Max and min values of Green channel of image 11 are: 255, 0
 Max and min values of Blue channel of image 11 are: 255, 0
@@ -337,9 +588,34 @@ Skewness and Kurtosis are : -0.5992848642017458 -1.2129704337100977
 Average value of Blue channel is : 139.8951976047904
 The Variance of Blue channel is :  7499.711387715444
 
+Fitted errors for Red channel:
+
+beta >>> 0.014753777123811767
+gamma >>> 0.02116389729072129
+uniform >>> 0.033805380008764076
+norm >>> 0.03519421300971654
+laplace >>> 0.035540594785261746
+
+Fitted errors for Green channel:
+
+beta >>> 0.0062679921652160605
+gamma >>> 0.003795794380826908
+uniform >>> 0.009939777349447136
+norm >>> 0.010961507849792558
+laplace >>> 0.011506463942285997
+
+Fitted errors for Blue channel:
+
+beta >>> 0.015375874082104848
+gamma >>> 0.010420469741194184
+uniform >>> 0.009416562719308706
+norm >>> 0.010350708046394371
+laplace >>> 0.009575495078633206
+
 =================================================
 
 Output for Image number 12
+
 Max and min values of Red channel of image 12 are: 255, 0
 Max and min values of Green channel of image 12 are: 255, 0
 Max and min values of Blue channel of image 12 are: 244, 0
@@ -368,9 +644,34 @@ Skewness and Kurtosis are : 0.5966602661736565 -1.0483233634862705
 Average value of Blue channel is : 81.74946666666666
 The Variance of Blue channel is :  2898.0761717155556
 
+Fitted errors for Red channel:
+
+beta >>> 0.0010334538320751012
+gamma >>> 0.0010720350686253492
+uniform >>> 0.002224779001627832
+norm >>> 0.0011552823346119097
+laplace >>> 0.0013096234561941083
+
+Fitted errors for Green channel:
+
+beta >>> 0.0010555759641472052
+gamma >>> 0.0010152359197310539
+uniform >>> 0.002125645256796125
+norm >>> 0.0014912722117227236
+laplace >>> 0.0017391656097783532
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00478933706175442
+gamma >>> 0.002689744088957409
+uniform >>> 0.0048013339876625755
+norm >>> 0.004126095576051233
+laplace >>> 0.003503121894607125
+
 =================================================
 
 Output for Image number 13
+
 Max and min values of Red channel of image 13 are: 255, 0
 Max and min values of Green channel of image 13 are: 255, 0
 Max and min values of Blue channel of image 13 are: 255, 0
@@ -399,9 +700,34 @@ Skewness and Kurtosis are : 0.2685328164760074 -1.4979776817378632
 Average value of Blue channel is : 85.32125301204819
 The Variance of Blue channel is :  4571.620206140805
 
+Fitted errors for Red channel:
+
+beta >>> 0.004321019210489144
+gamma >>> 0.005594599789460647
+uniform >>> 0.004399895996534044
+norm >>> 0.005571873787624638
+laplace >>> 0.005471426170318649
+
+Fitted errors for Green channel:
+
+beta >>> 0.004667883232829352
+gamma >>> 0.005887493328376267
+uniform >>> 0.005077219785063184
+norm >>> 0.005906807848477681
+laplace >>> 0.006706292012003559
+
+Fitted errors for Blue channel:
+
+beta >>> 0.004528798161969509
+gamma >>> 0.004290716873758973
+uniform >>> 0.005810360633285913
+norm >>> 0.006137666514525872
+laplace >>> 0.006906099208797987
+
 =================================================
 
 Output for Image number 14
+
 Max and min values of Red channel of image 14 are: 255, 0
 Max and min values of Green channel of image 14 are: 255, 0
 Max and min values of Blue channel of image 14 are: 255, 0
@@ -430,9 +756,34 @@ Skewness and Kurtosis are : 5.137118617759724 27.76556882397195
 Average value of Blue channel is : 18.484452961672474
 The Variance of Blue channel is :  1108.1396955718292
 
+Fitted errors for Red channel:
+
+beta >>> 0.026032425297789614
+gamma >>> 0.027873213558106708
+uniform >>> 0.04975055581649084
+norm >>> 0.042636696252219435
+laplace >>> 0.020894709456920568
+
+Fitted errors for Green channel:
+
+beta >>> 0.007741097958743169
+gamma >>> 0.024784671878175242
+uniform >>> 0.06703781611520952
+norm >>> 0.05715749677014399
+laplace >>> 0.027324041035397068
+
+Fitted errors for Blue channel:
+
+beta >>> 0.02628352167890667
+gamma >>> 0.026542728759322638
+uniform >>> 0.056457152303529386
+norm >>> 0.04486278637137642
+laplace >>> 0.01621471602918858
+
 =================================================
 
 Output for Image number 15
+
 Max and min values of Red channel of image 15 are: 255, 0
 Max and min values of Green channel of image 15 are: 255, 0
 Max and min values of Blue channel of image 15 are: 255, 0
@@ -461,9 +812,34 @@ Skewness and Kurtosis are : -0.7842996374205794 -0.9820673794350356
 Average value of Blue channel is : 157.76154448398577
 The Variance of Blue channel is :  7703.539644304958
 
+Fitted errors for Red channel:
+
+beta >>> 0.0026200239329777593
+gamma >>> 0.0034632563612491574
+uniform >>> 0.004302410520336055
+norm >>> 0.0033988406239578595
+laplace >>> 0.0029919030827500028
+
+Fitted errors for Green channel:
+
+beta >>> 0.0035160068093784635
+gamma >>> 0.003610872836010432
+uniform >>> 0.003492474836234324
+norm >>> 0.0035068780354212447
+laplace >>> 0.003023013685097706
+
+Fitted errors for Blue channel:
+
+beta >>> 0.010607052917807985
+gamma >>> 0.006643038229745023
+uniform >>> 0.005737702648527996
+norm >>> 0.006544122333761728
+laplace >>> 0.005409241698214669
+
 =================================================
 
 Output for Image number 16
+
 Max and min values of Red channel of image 16 are: 255, 0
 Max and min values of Green channel of image 16 are: 255, 0
 Max and min values of Blue channel of image 16 are: 255, 0
@@ -492,9 +868,34 @@ Skewness and Kurtosis are : 0.8392075955992345 1.6382229140363895
 Average value of Blue channel is : 92.37855466666667
 The Variance of Blue channel is :  1691.6752190310108
 
+Fitted errors for Red channel:
+
+beta >>> 0.00010466560010102986
+gamma >>> 0.00010142114071483784
+uniform >>> 0.0030427502505369665
+norm >>> 8.144559030791277e-05
+laplace >>> 0.00042423074899074773
+
+Fitted errors for Green channel:
+
+beta >>> 0.0001943968762529998
+gamma >>> 0.00019338634858777028
+uniform >>> 0.0036057939348446972
+norm >>> 0.00026403443977511705
+laplace >>> 0.0005671124759401607
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0001230904743990614
+gamma >>> 9.24987644781811e-05
+uniform >>> 0.0036970751198175064
+norm >>> 0.00020468522705400946
+laplace >>> 0.00029544018882233136
+
 =================================================
 
 Output for Image number 17
+
 Max and min values of Red channel of image 17 are: 255, 0
 Max and min values of Green channel of image 17 are: 255, 0
 Max and min values of Blue channel of image 17 are: 255, 0
@@ -523,9 +924,34 @@ Skewness and Kurtosis are : 1.3021454917557729 0.5923858592814759
 Average value of Blue channel is : 57.80759725400458
 The Variance of Blue channel is :  2764.0776905654843
 
+Fitted errors for Red channel:
+
+beta >>> 0.0014076182413492893
+gamma >>> 0.001405791952323749
+uniform >>> 0.0029614228657946946
+norm >>> 0.0013386439619263142
+laplace >>> 0.000698667042392897
+
+Fitted errors for Green channel:
+
+beta >>> 0.0011176089664809994
+gamma >>> 0.0009655524777958981
+uniform >>> 0.0026847412916135038
+norm >>> 0.0015007495494936559
+laplace >>> 0.0007242989416957147
+
+Fitted errors for Blue channel:
+
+beta >>> 0.005199082213376019
+gamma >>> 0.0018124502293097341
+uniform >>> 0.00686973932427233
+norm >>> 0.00480817597487824
+laplace >>> 0.0023158622802751873
+
 =================================================
 
 Output for Image number 18
+
 Max and min values of Red channel of image 18 are: 255, 0
 Max and min values of Green channel of image 18 are: 255, 0
 Max and min values of Blue channel of image 18 are: 255, 0
@@ -554,9 +980,34 @@ Skewness and Kurtosis are : 0.4703840956949125 -0.5525444507146022
 Average value of Blue channel is : 114.71416533333333
 The Variance of Blue channel is :  3782.755258543333
 
+Fitted errors for Red channel:
+
+beta >>> 0.0010669412349207145
+gamma >>> 0.0009388328409181732
+uniform >>> 0.0014371217861046401
+norm >>> 0.0009309364883190102
+laplace >>> 0.0010685729866062406
+
+Fitted errors for Green channel:
+
+beta >>> 0.001536531655769696
+gamma >>> 0.001151278935970001
+uniform >>> 0.001430273064078124
+norm >>> 0.0011881857795910757
+laplace >>> 0.0013361669859224968
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0006504620020631889
+gamma >>> 0.0007272495963916864
+uniform >>> 0.001364622425323211
+norm >>> 0.0008678679567287496
+laplace >>> 0.0011727410591195354
+
 =================================================
 
 Output for Image number 19
+
 Max and min values of Red channel of image 19 are: 255, 0
 Max and min values of Green channel of image 19 are: 255, 0
 Max and min values of Blue channel of image 19 are: 255, 0
@@ -585,9 +1036,34 @@ Skewness and Kurtosis are : 0.7836419947029702 -0.5852533735560055
 Average value of Blue channel is : 75.48986666666667
 The Variance of Blue channel is :  4919.9719879822205
 
+Fitted errors for Red channel:
+
+beta >>> 0.0001375563214672608
+gamma >>> 0.00039616051273010534
+uniform >>> 0.0004593275481320586
+norm >>> 0.00039610059218783504
+laplace >>> 0.0009367227443758457
+
+Fitted errors for Green channel:
+
+beta >>> 0.00034309777504292594
+gamma >>> 0.0005788807455952903
+uniform >>> 0.001005442850204636
+norm >>> 0.0006955100537013137
+laplace >>> 0.0009577050141006833
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0020411292098892393
+gamma >>> 0.0010563686316743081
+uniform >>> 0.0044818063670826365
+norm >>> 0.004335160189834004
+laplace >>> 0.004459821210949929
+
 =================================================
 
 Output for Image number 20
+
 Max and min values of Red channel of image 20 are: 255, 0
 Max and min values of Green channel of image 20 are: 255, 0
 Max and min values of Blue channel of image 20 are: 255, 0
@@ -616,9 +1092,34 @@ Skewness and Kurtosis are : 0.3958969084929573 -0.6631947038809329
 Average value of Blue channel is : 99.07668613138686
 The Variance of Blue channel is :  4294.819311451363
 
+Fitted errors for Red channel:
+
+beta >>> 0.0004350886583719938
+gamma >>> 0.000585531999325898
+uniform >>> 0.0006847653779351426
+norm >>> 0.0006606913090903422
+laplace >>> 0.0008099028829130189
+
+Fitted errors for Green channel:
+
+beta >>> 0.00047928253041439213
+gamma >>> 0.0007152124225072253
+uniform >>> 0.0008323977577621424
+norm >>> 0.0007622710871932519
+laplace >>> 0.000976736980171945
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0005053889738117445
+gamma >>> 0.000829524770280272
+uniform >>> 0.0010784969736889922
+norm >>> 0.0008720479829230775
+laplace >>> 0.0011458254316965033
+
 =================================================
 
 Output for Image number 21
+
 Max and min values of Red channel of image 21 are: 251, 1
 Max and min values of Green channel of image 21 are: 248, 0
 Max and min values of Blue channel of image 21 are: 252, 0
@@ -647,9 +1148,34 @@ Skewness and Kurtosis are : -0.07154536497235708 2.628687030919001
 Average value of Blue channel is : 112.390944
 The Variance of Blue channel is :  697.7832054555292
 
+Fitted errors for Red channel:
+
+beta >>> 0.0018222071268781045
+gamma >>> 0.0018844419682647181
+uniform >>> 0.011599017385394178
+norm >>> 0.001819439520337042
+laplace >>> 0.002471404075407248
+
+Fitted errors for Green channel:
+
+beta >>> 0.001463436606496436
+gamma >>> 0.00158071939780087
+uniform >>> 0.010183120963485257
+norm >>> 0.0014643023191715536
+laplace >>> 0.0020669180507720607
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00076315905650637
+gamma >>> 0.0007729152058399207
+uniform >>> 0.00887915013008057
+norm >>> 0.0007625028323877752
+laplace >>> 0.0009724124733087912
+
 =================================================
 
 Output for Image number 22
+
 Max and min values of Red channel of image 22 are: 255, 0
 Max and min values of Green channel of image 22 are: 255, 0
 Max and min values of Blue channel of image 22 are: 255, 0
@@ -678,9 +1204,34 @@ Skewness and Kurtosis are : 4.293925615242271 19.543447334778403
 Average value of Blue channel is : 15.949075075075076
 The Variance of Blue channel is :  1300.6824216670364
 
+Fitted errors for Red channel:
+
+beta >>> 0.014149429757742853
+gamma >>> 0.016374242767695262
+uniform >>> 0.02999940678751634
+norm >>> 0.02837233190532487
+laplace >>> 0.022476361193524537
+
+Fitted errors for Green channel:
+
+beta >>> 0.009444906546565362
+gamma >>> 0.01453553195424714
+uniform >>> 0.028339572578548394
+norm >>> 0.023498660280876844
+laplace >>> 0.01670481665607717
+
+Fitted errors for Blue channel:
+
+beta >>> 0.009969163846320964
+gamma >>> 0.01573828202271255
+uniform >>> 0.05140150607881044
+norm >>> 0.04112282302805224
+laplace >>> 0.018465240009888195
+
 =================================================
 
 Output for Image number 23
+
 Max and min values of Red channel of image 23 are: 255, 0
 Max and min values of Green channel of image 23 are: 255, 0
 Max and min values of Blue channel of image 23 are: 255, 0
@@ -709,9 +1260,34 @@ Skewness and Kurtosis are : -0.0781785655899295 -0.8751643725748837
 Average value of Blue channel is : 151.79607207207206
 The Variance of Blue channel is :  5198.273536523335
 
+Fitted errors for Red channel:
+
+beta >>> 0.001174685095845075
+gamma >>> 0.0021212518263389766
+uniform >>> 0.002213537454875965
+norm >>> 0.002092409748783561
+laplace >>> 0.002179597582517539
+
+Fitted errors for Green channel:
+
+beta >>> 0.0016213244103283932
+gamma >>> 0.0018218003033242433
+uniform >>> 0.002521777888063845
+norm >>> 0.0017829634983764005
+laplace >>> 0.0018018493595649983
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0060720508543983314
+gamma >>> 0.009744073956574595
+uniform >>> 0.009586237187886683
+norm >>> 0.009751327457487215
+laplace >>> 0.009687903552549348
+
 =================================================
 
 Output for Image number 24
+
 Max and min values of Red channel of image 24 are: 229, 0
 Max and min values of Green channel of image 24 are: 229, 0
 Max and min values of Blue channel of image 24 are: 229, 0
@@ -740,9 +1316,34 @@ Skewness and Kurtosis are : 0.8681459450430221 -0.8407650499793737
 Average value of Blue channel is : 64.88260496613995
 The Variance of Blue channel is :  4973.725581837178
 
+Fitted errors for Red channel:
+
+beta >>> 0.007184517036583931
+gamma >>> 0.004332187958742581
+uniform >>> 0.011237321723741998
+norm >>> 0.011593780765778341
+laplace >>> 0.009234995107072654
+
+Fitted errors for Green channel:
+
+beta >>> 0.007184517036583931
+gamma >>> 0.004332187958742581
+uniform >>> 0.011237321723741998
+norm >>> 0.011593780765778341
+laplace >>> 0.009234995107072654
+
+Fitted errors for Blue channel:
+
+beta >>> 0.007184524731577778
+gamma >>> 0.0043322826240893165
+uniform >>> 0.011237324984146427
+norm >>> 0.01159377210764037
+laplace >>> 0.009234985332930221
+
 =================================================
 
 Output for Image number 25
+
 Max and min values of Red channel of image 25 are: 255, 1
 Max and min values of Green channel of image 25 are: 255, 1
 Max and min values of Blue channel of image 25 are: 255, 0
@@ -771,9 +1372,34 @@ Skewness and Kurtosis are : 0.24563906090417723 -1.3732109189958879
 Average value of Blue channel is : 114.34910933333333
 The Variance of Blue channel is :  5264.516213340046
 
+Fitted errors for Red channel:
+
+beta >>> 0.0031765810202339893
+gamma >>> 0.003067392168858295
+uniform >>> 0.002721268180965631
+norm >>> 0.0030354075107841367
+laplace >>> 0.003613467423451873
+
+Fitted errors for Green channel:
+
+beta >>> 0.004437672730691204
+gamma >>> 0.004388049818191225
+uniform >>> 0.003707927364928707
+norm >>> 0.004420814794887116
+laplace >>> 0.004927329212909241
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0030734109360698297
+gamma >>> 0.0032210440495293903
+uniform >>> 0.003224339858735714
+norm >>> 0.00378809083062635
+laplace >>> 0.004278101162318287
+
 =================================================
 
 Output for Image number 26
+
 Max and min values of Red channel of image 26 are: 255, 0
 Max and min values of Green channel of image 26 are: 255, 0
 Max and min values of Blue channel of image 26 are: 255, 0
@@ -802,9 +1428,34 @@ Skewness and Kurtosis are : 1.631776508680417 2.318633806723674
 Average value of Blue channel is : 52.73842944785276
 The Variance of Blue channel is :  2940.7120471039184
 
+Fitted errors for Red channel:
+
+beta >>> 0.00126593457093888
+gamma >>> 0.0037514499207434073
+uniform >>> 0.0032149870991178774
+norm >>> 0.0036866427009384964
+laplace >>> 0.0037122604716465428
+
+Fitted errors for Green channel:
+
+beta >>> 0.000641224529557675
+gamma >>> 0.0007228766165296781
+uniform >>> 0.0010749954107657474
+norm >>> 0.0006874296680228752
+laplace >>> 0.0008368663612151256
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0019309735391250167
+gamma >>> 0.0011472458003660747
+uniform >>> 0.007587563271084731
+norm >>> 0.005106889873360188
+laplace >>> 0.003693029517016936
+
 =================================================
 
 Output for Image number 27
+
 Max and min values of Red channel of image 27 are: 248, 16
 Max and min values of Green channel of image 27 are: 242, 2
 Max and min values of Blue channel of image 27 are: 229, 0
@@ -833,9 +1484,34 @@ Skewness and Kurtosis are : 0.07537670489715798 -1.7179027737967867
 Average value of Blue channel is : 111.622804
 The Variance of Blue channel is :  6981.944319177583
 
+Fitted errors for Red channel:
+
+beta >>> 0.007380675117217364
+gamma >>> 0.009176140856822277
+uniform >>> 0.007552949599885849
+norm >>> 0.009187890295631902
+laplace >>> 0.009826698284171223
+
+Fitted errors for Green channel:
+
+beta >>> 0.006104090115329365
+gamma >>> 0.00681347239339687
+uniform >>> 0.005307876693333334
+norm >>> 0.006814305119723948
+laplace >>> 0.007474949830625646
+
+Fitted errors for Blue channel:
+
+beta >>> 0.004821161216708632
+gamma >>> 0.006097438757572742
+uniform >>> 0.004360784400587937
+norm >>> 0.006102240912621834
+laplace >>> 0.006716882111723698
+
 =================================================
 
 Output for Image number 28
+
 Max and min values of Red channel of image 28 are: 255, 0
 Max and min values of Green channel of image 28 are: 255, 0
 Max and min values of Blue channel of image 28 are: 255, 0
@@ -864,9 +1540,34 @@ Skewness and Kurtosis are : 0.6366717368670555 -1.115983534530479
 Average value of Blue channel is : 107.57163285024154
 The Variance of Blue channel is :  7763.738704483558
 
+Fitted errors for Red channel:
+
+beta >>> 0.004936085747187491
+gamma >>> 0.007598030358893001
+uniform >>> 0.006724359896673896
+norm >>> 0.0076182823781530224
+laplace >>> 0.008159216887101705
+
+Fitted errors for Green channel:
+
+beta >>> 0.006082746833884984
+gamma >>> 0.007994825329262304
+uniform >>> 0.007681993757265451
+norm >>> 0.008440676899590938
+laplace >>> 0.008607862690403846
+
+Fitted errors for Blue channel:
+
+beta >>> 0.005918540100222077
+gamma >>> 0.007281508500942048
+uniform >>> 0.007671867988643435
+norm >>> 0.00856924012891513
+laplace >>> 0.008162268250520882
+
 =================================================
 
 Output for Image number 29
+
 Max and min values of Red channel of image 29 are: 255, 0
 Max and min values of Green channel of image 29 are: 253, 0
 Max and min values of Blue channel of image 29 are: 255, 0
@@ -895,9 +1596,34 @@ Skewness and Kurtosis are : -0.9589407310041599 -0.6311653696429125
 Average value of Blue channel is : 130.2267737704918
 The Variance of Blue channel is :  4755.197117919313
 
+Fitted errors for Red channel:
+
+beta >>> 0.005419791693651254
+gamma >>> 0.0076111274476765535
+uniform >>> 0.006500670480396258
+norm >>> 0.0075966020045754035
+laplace >>> 0.00800243181311683
+
+Fitted errors for Green channel:
+
+beta >>> 0.001389617074004756
+gamma >>> 0.0017862056247056944
+uniform >>> 0.0022941110428356224
+norm >>> 0.0017888542363268022
+laplace >>> 0.0025938657522223013
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00552150963159784
+gamma >>> 0.006339621795154177
+uniform >>> 0.0062035243423307004
+norm >>> 0.006150501417683744
+laplace >>> 0.004773546215650852
+
 =================================================
 
 Output for Image number 30
+
 Max and min values of Red channel of image 30 are: 237, 0
 Max and min values of Green channel of image 30 are: 255, 0
 Max and min values of Blue channel of image 30 are: 255, 0
@@ -926,9 +1652,34 @@ Skewness and Kurtosis are : 5.406203107048373 35.84091160985161
 Average value of Blue channel is : 35.11595384615384
 The Variance of Blue channel is :  551.3052367568444
 
+Fitted errors for Red channel:
+
+beta >>> 0.02190764267570179
+gamma >>> 0.11108176795910919
+uniform >>> 0.23540950718376344
+norm >>> 0.2078367674535532
+laplace >>> 0.11622254456685689
+
+Fitted errors for Green channel:
+
+beta >>> 0.1755278558612421
+gamma >>> 0.16872806759462156
+uniform >>> 0.33382967581139034
+norm >>> 0.3166678870104944
+laplace >>> 0.24600760613200118
+
+Fitted errors for Blue channel:
+
+beta >>> 0.06373333009086707
+gamma >>> 0.0633031741303462
+uniform >>> 0.08985567647569771
+norm >>> 0.07470449708969264
+laplace >>> 0.04156914646526754
+
 =================================================
 
 Output for Image number 31
+
 Max and min values of Red channel of image 31 are: 255, 0
 Max and min values of Green channel of image 31 are: 255, 0
 Max and min values of Blue channel of image 31 are: 255, 0
@@ -957,9 +1708,34 @@ Skewness and Kurtosis are : -0.07902753692369432 -1.2663800079061003
 Average value of Blue channel is : 125.5980776119403
 The Variance of Blue channel is :  5354.807903170096
 
+Fitted errors for Red channel:
+
+beta >>> 0.000698738437154996
+gamma >>> 0.0015290643757048911
+uniform >>> 0.000932684832412504
+norm >>> 0.0014990669315517984
+laplace >>> 0.0018304605980257206
+
+Fitted errors for Green channel:
+
+beta >>> 0.000545563954272958
+gamma >>> 0.0008499113911781428
+uniform >>> 0.0007799140831083954
+norm >>> 0.0008228555736020482
+laplace >>> 0.001241273395961272
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0005213288235879267
+gamma >>> 0.0010662148543971372
+uniform >>> 0.000551266949031941
+norm >>> 0.0010637360052623576
+laplace >>> 0.0015567726452192115
+
 =================================================
 
 Output for Image number 32
+
 Max and min values of Red channel of image 32 are: 255, 0
 Max and min values of Green channel of image 32 are: 255, 0
 Max and min values of Blue channel of image 32 are: 255, 0
@@ -988,9 +1764,34 @@ Skewness and Kurtosis are : 0.40554467189906895 -0.2375429715047912
 Average value of Blue channel is : 97.48135735735735
 The Variance of Blue channel is :  3223.696307106531
 
+Fitted errors for Red channel:
+
+beta >>> 0.0002993703823803497
+gamma >>> 0.000631450464810475
+uniform >>> 0.0006926715104939757
+norm >>> 0.0006278134499106387
+laplace >>> 0.0012670264494775098
+
+Fitted errors for Green channel:
+
+beta >>> 0.000434298492501194
+gamma >>> 0.000596727150299222
+uniform >>> 0.0010262542560843485
+norm >>> 0.0005951016264446245
+laplace >>> 0.0011344864803807331
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0009144158535941549
+gamma >>> 0.0007188043186273869
+uniform >>> 0.0018215576114463193
+norm >>> 0.0007233324502713251
+laplace >>> 0.00062248857952349
+
 =================================================
 
 Output for Image number 33
+
 Max and min values of Red channel of image 33 are: 255, 0
 Max and min values of Green channel of image 33 are: 255, 0
 Max and min values of Blue channel of image 33 are: 255, 0
@@ -1019,9 +1820,34 @@ Skewness and Kurtosis are : 2.8642829325529546 8.913054230200137
 Average value of Blue channel is : 16.094525714285716
 The Variance of Blue channel is :  1020.6534306036244
 
+Fitted errors for Red channel:
+
+beta >>> 0.049330807189509246
+gamma >>> 0.018504127444771062
+uniform >>> 0.08747037681047633
+norm >>> 0.08548207216641528
+laplace >>> 0.08072357331960443
+
+Fitted errors for Green channel:
+
+beta >>> 0.0315333386802014
+gamma >>> 0.010137502879099824
+uniform >>> 0.07762267474289831
+norm >>> 0.07293681079018548
+laplace >>> 0.06643618003901103
+
+Fitted errors for Blue channel:
+
+beta >>> 0.015070675852472529
+gamma >>> 0.10901633182994273
+uniform >>> 0.15475848179155913
+norm >>> 0.1447159805894467
+laplace >>> 0.12615140495056965
+
 =================================================
 
 Output for Image number 34
+
 Max and min values of Red channel of image 34 are: 255, 0
 Max and min values of Green channel of image 34 are: 255, 0
 Max and min values of Blue channel of image 34 are: 255, 0
@@ -1050,9 +1876,34 @@ Skewness and Kurtosis are : -1.0657407583231275 -0.02718233876810494
 Average value of Blue channel is : 173.3283880597015
 The Variance of Blue channel is :  3644.9010030732934
 
+Fitted errors for Red channel:
+
+beta >>> 0.006597021789191649
+gamma >>> 0.007256744850973182
+uniform >>> 0.0062202518914925625
+norm >>> 0.007212892041144792
+laplace >>> 0.007227820578940025
+
+Fitted errors for Green channel:
+
+beta >>> 0.0051371746584321165
+gamma >>> 0.006344340412691442
+uniform >>> 0.0064535589286811475
+norm >>> 0.0061920391123641335
+laplace >>> 0.005915706319088058
+
+Fitted errors for Blue channel:
+
+beta >>> 0.004972410548109335
+gamma >>> 0.006363235825021166
+uniform >>> 0.007010435311971192
+norm >>> 0.006142753337888098
+laplace >>> 0.0051064853820870105
+
 =================================================
 
 Output for Image number 35
+
 Max and min values of Red channel of image 35 are: 255, 0
 Max and min values of Green channel of image 35 are: 255, 0
 Max and min values of Blue channel of image 35 are: 255, 0
@@ -1081,9 +1932,34 @@ Skewness and Kurtosis are : 0.0879518006510229 -1.452323668266071
 Average value of Blue channel is : 111.96432
 The Variance of Blue channel is :  5923.309869794741
 
+Fitted errors for Red channel:
+
+beta >>> 0.0019347808423584231
+gamma >>> 0.002281328959397647
+uniform >>> 0.002419261598891981
+norm >>> 0.0022223423604084973
+laplace >>> 0.0023244564571204894
+
+Fitted errors for Green channel:
+
+beta >>> 0.001684966955217838
+gamma >>> 0.002140464964200544
+uniform >>> 0.001826579513712434
+norm >>> 0.0021440699862642445
+laplace >>> 0.0024612307289004383
+
+Fitted errors for Blue channel:
+
+beta >>> 0.001561174816115915
+gamma >>> 0.0026002945434637206
+uniform >>> 0.0018523084879140676
+norm >>> 0.0026154717585236105
+laplace >>> 0.0031811450574109473
+
 =================================================
 
 Output for Image number 36
+
 Max and min values of Red channel of image 36 are: 255, 0
 Max and min values of Green channel of image 36 are: 255, 0
 Max and min values of Blue channel of image 36 are: 255, 0
@@ -1112,9 +1988,34 @@ Skewness and Kurtosis are : 0.5929902567426688 0.04601951751062172
 Average value of Blue channel is : 79.1321981981982
 The Variance of Blue channel is :  2622.2700011138713
 
+Fitted errors for Red channel:
+
+beta >>> 0.001369326593167158
+gamma >>> 0.0010468240550443276
+uniform >>> 0.0018612048271661834
+norm >>> 0.001004210699292445
+laplace >>> 0.001081391638989608
+
+Fitted errors for Green channel:
+
+beta >>> 0.0004785645307365826
+gamma >>> 0.00043434580655927286
+uniform >>> 0.001243768536111715
+norm >>> 0.0004161244184952112
+laplace >>> 0.0007093126412942392
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0009618191274376119
+gamma >>> 0.0009755378457216933
+uniform >>> 0.0026395968021592116
+norm >>> 0.0009377391960465968
+laplace >>> 0.001053594747221595
+
 =================================================
 
 Output for Image number 37
+
 Max and min values of Red channel of image 37 are: 255, 0
 Max and min values of Green channel of image 37 are: 255, 0
 Max and min values of Blue channel of image 37 are: 255, 0
@@ -1143,9 +2044,34 @@ Skewness and Kurtosis are : 0.36789677787967123 -0.9554132950866889
 Average value of Blue channel is : 76.30903012048192
 The Variance of Blue channel is :  3828.9068558063236
 
+Fitted errors for Red channel:
+
+beta >>> 0.011886254395542204
+gamma >>> 0.015214170130222025
+uniform >>> 0.01444163060674376
+norm >>> 0.015208837238720317
+laplace >>> 0.015755983478487116
+
+Fitted errors for Green channel:
+
+beta >>> 0.00525886202349033
+gamma >>> 0.01439312977542882
+uniform >>> 0.016132136317792402
+norm >>> 0.016424723395348766
+laplace >>> 0.016990745294359927
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0142236956228922
+gamma >>> 0.00909837184345277
+uniform >>> 0.01828958767791278
+norm >>> 0.017921402304155253
+laplace >>> 0.018471552500381377
+
 =================================================
 
 Output for Image number 38
+
 Max and min values of Red channel of image 38 are: 255, 0
 Max and min values of Green channel of image 38 are: 255, 0
 Max and min values of Blue channel of image 38 are: 255, 0
@@ -1174,9 +2100,34 @@ Skewness and Kurtosis are : 4.0739264116076175 31.65932549423507
 Average value of Blue channel is : 27.893994666666668
 The Variance of Blue channel is :  374.6644642026381
 
+Fitted errors for Red channel:
+
+beta >>> 0.0013386580894043714
+gamma >>> 0.000665156042434843
+uniform >>> 0.00397239822895484
+norm >>> 0.002915944406603637
+laplace >>> 0.0020845046106365635
+
+Fitted errors for Green channel:
+
+beta >>> 0.002137525317735204
+gamma >>> 0.0006346069866952679
+uniform >>> 0.007960755276668986
+norm >>> 0.0036128673515652097
+laplace >>> 0.0017426822664655475
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0008361409408339023
+gamma >>> 0.0008446888652425198
+uniform >>> 0.018858341553486334
+norm >>> 0.0032425634886412177
+laplace >>> 0.0017239695038506878
+
 =================================================
 
 Output for Image number 39
+
 Max and min values of Red channel of image 39 are: 255, 0
 Max and min values of Green channel of image 39 are: 255, 0
 Max and min values of Blue channel of image 39 are: 255, 0
@@ -1205,9 +2156,34 @@ Skewness and Kurtosis are : 2.0026805875502793 3.586683165426204
 Average value of Blue channel is : 45.163466666666665
 The Variance of Blue channel is :  3381.1565426488887
 
+Fitted errors for Red channel:
+
+beta >>> 0.003476865283320666
+gamma >>> 0.002787621053780623
+uniform >>> 0.010784560444920762
+norm >>> 0.007858655038192145
+laplace >>> 0.006477160307209621
+
+Fitted errors for Green channel:
+
+beta >>> 0.002430768814091582
+gamma >>> 0.0024279739983722485
+uniform >>> 0.011722316300187914
+norm >>> 0.006681980563724659
+laplace >>> 0.004423241028666079
+
+Fitted errors for Blue channel:
+
+beta >>> 0.005341242015453163
+gamma >>> 0.001459281256233292
+uniform >>> 0.011902065768371098
+norm >>> 0.009300179824117582
+laplace >>> 0.006116913248687815
+
 =================================================
 
 Output for Image number 40
+
 Max and min values of Red channel of image 40 are: 255, 0
 Max and min values of Green channel of image 40 are: 255, 5
 Max and min values of Blue channel of image 40 are: 255, 6
@@ -1236,9 +2212,34 @@ Skewness and Kurtosis are : 0.619749558114348 -0.38748149861819936
 Average value of Blue channel is : 117.48751351351352
 The Variance of Blue channel is :  2466.1383966402063
 
+Fitted errors for Red channel:
+
+beta >>> 0.0013921167235067854
+gamma >>> 0.0013513152373480042
+uniform >>> 0.004089780007085653
+norm >>> 0.0024024647378592247
+laplace >>> 0.0015688956216646699
+
+Fitted errors for Green channel:
+
+beta >>> 0.002138486180038193
+gamma >>> 0.002139681197947081
+uniform >>> 0.0042103718180104424
+norm >>> 0.002799238654260486
+laplace >>> 0.00249901820932877
+
+Fitted errors for Blue channel:
+
+beta >>> 0.002230135564971817
+gamma >>> 0.0022211606226612514
+uniform >>> 0.004232941050612926
+norm >>> 0.002638136920621577
+laplace >>> 0.002467867647831388
+
 =================================================
 
 Output for Image number 41
+
 Max and min values of Red channel of image 41 are: 255, 0
 Max and min values of Green channel of image 41 are: 255, 0
 Max and min values of Blue channel of image 41 are: 255, 0
@@ -1267,9 +2268,34 @@ Skewness and Kurtosis are : 0.09384244009703051 -0.3006853362616453
 Average value of Blue channel is : 101.093184
 The Variance of Blue channel is :  2312.650420742144
 
+Fitted errors for Red channel:
+
+beta >>> 0.0034977063233738214
+gamma >>> 0.006606372825053845
+uniform >>> 0.008528987004514708
+norm >>> 0.006539330066980468
+laplace >>> 0.007016873185273853
+
+Fitted errors for Green channel:
+
+beta >>> 0.0003911994510922423
+gamma >>> 0.0005774447825108611
+uniform >>> 0.0009952985150431235
+norm >>> 0.0007092435361896162
+laplace >>> 0.0011535865362474196
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00013124978021060945
+gamma >>> 0.00011693634994307248
+uniform >>> 0.001974053416876887
+norm >>> 0.00010972441946170347
+laplace >>> 0.0005013144665469151
+
 =================================================
 
 Output for Image number 42
+
 Max and min values of Red channel of image 42 are: 255, 0
 Max and min values of Green channel of image 42 are: 255, 0
 Max and min values of Blue channel of image 42 are: 255, 0
@@ -1298,9 +2324,34 @@ Skewness and Kurtosis are : 0.73903081353065 -0.9069890332045989
 Average value of Blue channel is : 92.82188266666667
 The Variance of Blue channel is :  6872.051714215568
 
+Fitted errors for Red channel:
+
+beta >>> 0.0028163867628902273
+gamma >>> 0.002373002905761317
+uniform >>> 0.003798124860128122
+norm >>> 0.004418016155267398
+laplace >>> 0.0038683756062830605
+
+Fitted errors for Green channel:
+
+beta >>> 0.0028163867628902273
+gamma >>> 0.002373002905761317
+uniform >>> 0.003798124860128122
+norm >>> 0.004418016155267398
+laplace >>> 0.0038683756062830605
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0028163867628902273
+gamma >>> 0.002373002905761317
+uniform >>> 0.003798124860128122
+norm >>> 0.004418016155267398
+laplace >>> 0.0038683756062830605
+
 =================================================
 
 Output for Image number 43
+
 Max and min values of Red channel of image 43 are: 255, 0
 Max and min values of Green channel of image 43 are: 255, 0
 Max and min values of Blue channel of image 43 are: 255, 0
@@ -1329,9 +2380,34 @@ Skewness and Kurtosis are : 0.8586708658481156 -0.6044176692515855
 Average value of Blue channel is : 110.79570666666666
 The Variance of Blue channel is :  4701.061352233957
 
+Fitted errors for Red channel:
+
+beta >>> 0.0010113898668536328
+gamma >>> 0.0008357330253487036
+uniform >>> 0.0017425560166968671
+norm >>> 0.0012909050030032211
+laplace >>> 0.0010076757025430383
+
+Fitted errors for Green channel:
+
+beta >>> 0.0020239649269884613
+gamma >>> 0.0010540923969077148
+uniform >>> 0.002299341883290427
+norm >>> 0.001980491763889667
+laplace >>> 0.001223809118597723
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0028352584150262597
+gamma >>> 0.001388545574820339
+uniform >>> 0.0026454501229423075
+norm >>> 0.0025455950029407313
+laplace >>> 0.0014595843651993346
+
 =================================================
 
 Output for Image number 44
+
 Max and min values of Red channel of image 44 are: 255, 0
 Max and min values of Green channel of image 44 are: 255, 0
 Max and min values of Blue channel of image 44 are: 255, 0
@@ -1360,9 +2436,34 @@ Skewness and Kurtosis are : -0.48812347579861903 -1.421386581726795
 Average value of Blue channel is : 122.0853625
 The Variance of Blue channel is :  6213.548388243593
 
+Fitted errors for Red channel:
+
+beta >>> 0.03967509011907625
+gamma >>> 0.017963264857750783
+uniform >>> 0.055643280171011125
+norm >>> 0.055904207526993176
+laplace >>> 0.055566635691174746
+
+Fitted errors for Green channel:
+
+beta >>> 0.030486973907151934
+gamma >>> 0.03950911016757496
+uniform >>> 0.03933267053840832
+norm >>> 0.039500999274506524
+laplace >>> 0.03997924314756954
+
+Fitted errors for Blue channel:
+
+beta >>> 0.019856144759679485
+gamma >>> 0.03689377844199125
+uniform >>> 0.03597477934455979
+norm >>> 0.036832862088787825
+laplace >>> 0.03618392911828658
+
 =================================================
 
 Output for Image number 45
+
 Max and min values of Red channel of image 45 are: 255, 0
 Max and min values of Green channel of image 45 are: 255, 0
 Max and min values of Blue channel of image 45 are: 255, 0
@@ -1391,9 +2492,34 @@ Skewness and Kurtosis are : -0.2820415289936977 -1.8342354607947824
 Average value of Blue channel is : 153.00371369294606
 The Variance of Blue channel is :  12299.358396996864
 
+Fitted errors for Red channel:
+
+beta >>> 0.0001268308656629913
+gamma >>> 0.00021594613370814106
+uniform >>> 0.0015465801887574564
+norm >>> 0.00018026052023097428
+laplace >>> 0.0004985350059711443
+
+Fitted errors for Green channel:
+
+beta >>> 0.0010284061217171498
+gamma >>> 0.0010563524380148262
+uniform >>> 0.0013304167224315673
+norm >>> 0.0009580097036899823
+laplace >>> 0.0009521270565145913
+
+Fitted errors for Blue channel:
+
+beta >>> 0.04872319624914601
+gamma >>> 0.0684168470752606
+uniform >>> 0.06669329902329339
+norm >>> 0.06838447689875045
+laplace >>> 0.06621619428020376
+
 =================================================
 
 Output for Image number 46
+
 Max and min values of Red channel of image 46 are: 248, 0
 Max and min values of Green channel of image 46 are: 248, 0
 Max and min values of Blue channel of image 46 are: 255, 0
@@ -1422,9 +2548,34 @@ Skewness and Kurtosis are : -0.9729091794213949 -0.3869648145597333
 Average value of Blue channel is : 142.83598958333334
 The Variance of Blue channel is :  5123.892204749889
 
+Fitted errors for Red channel:
+
+beta >>> 0.013491762515480791
+gamma >>> 0.014148929144296711
+uniform >>> 0.014382228234477972
+norm >>> 0.014002319605501756
+laplace >>> 0.013594701961002202
+
+Fitted errors for Green channel:
+
+beta >>> 0.009455247886836398
+gamma >>> 0.015433536847262872
+uniform >>> 0.015393439241530813
+norm >>> 0.015288833603255786
+laplace >>> 0.01471060161470648
+
+Fitted errors for Blue channel:
+
+beta >>> 0.014523649008767202
+gamma >>> 0.01524389080650013
+uniform >>> 0.0151203738732966
+norm >>> 0.015114697654694552
+laplace >>> 0.014135458385810777
+
 =================================================
 
 Output for Image number 47
+
 Max and min values of Red channel of image 47 are: 181, 0
 Max and min values of Green channel of image 47 are: 205, 0
 Max and min values of Blue channel of image 47 are: 203, 0
@@ -1453,9 +2604,34 @@ Skewness and Kurtosis are : -0.454993569011258 -1.4182379668777725
 Average value of Blue channel is : 128.10496696696697
 The Variance of Blue channel is :  4890.327882836747
 
+Fitted errors for Red channel:
+
+beta >>> 0.027528712422014455
+gamma >>> 0.026913078719600764
+uniform >>> 0.024903655226335794
+norm >>> 0.02683865147597416
+laplace >>> 0.025911713489214235
+
+Fitted errors for Green channel:
+
+beta >>> 0.018653760964260406
+gamma >>> 0.018817836118433896
+uniform >>> 0.017239557355220283
+norm >>> 0.01870848663012939
+laplace >>> 0.017806629340578015
+
+Fitted errors for Blue channel:
+
+beta >>> 0.012396857932789317
+gamma >>> 0.017054161955097295
+uniform >>> 0.015350468404672859
+norm >>> 0.01700495650757643
+laplace >>> 0.01622071116960724
+
 =================================================
 
 Output for Image number 48
+
 Max and min values of Red channel of image 48 are: 255, 0
 Max and min values of Green channel of image 48 are: 255, 0
 Max and min values of Blue channel of image 48 are: 255, 0
@@ -1484,9 +2660,34 @@ Skewness and Kurtosis are : 0.8649351295685415 -0.44513079144623013
 Average value of Blue channel is : 78.71482634730539
 The Variance of Blue channel is :  5419.676352634516
 
+Fitted errors for Red channel:
+
+beta >>> 0.0010082281763248387
+gamma >>> 0.0019378291043823208
+uniform >>> 0.0010218291049331903
+norm >>> 0.0019232521840310628
+laplace >>> 0.002457552296759256
+
+Fitted errors for Green channel:
+
+beta >>> 0.0005821850715198437
+gamma >>> 0.0014078975791695174
+uniform >>> 0.0007899271809846384
+norm >>> 0.0014067101125290345
+laplace >>> 0.0019748553037385094
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0041671662576505735
+gamma >>> 0.003128064134683389
+uniform >>> 0.007037042335534334
+norm >>> 0.007014820654783874
+laplace >>> 0.006604696396785701
+
 =================================================
 
 Output for Image number 49
+
 Max and min values of Red channel of image 49 are: 204, 0
 Max and min values of Green channel of image 49 are: 186, 0
 Max and min values of Blue channel of image 49 are: 173, 0
@@ -1515,9 +2716,34 @@ Skewness and Kurtosis are : -0.8403480258673958 -0.05408378284740234
 Average value of Blue channel is : 85.03285635359116
 The Variance of Blue channel is :  1355.7198431119623
 
+Fitted errors for Red channel:
+
+beta >>> 0.004453216918518448
+gamma >>> 0.006121503482727848
+uniform >>> 0.008600745706103674
+norm >>> 0.005907262724456095
+laplace >>> 0.004552479762599183
+
+Fitted errors for Green channel:
+
+beta >>> 0.00626474763839429
+gamma >>> 0.008181606773711228
+uniform >>> 0.010385101474820059
+norm >>> 0.007556694967936454
+laplace >>> 0.006755440156344839
+
+Fitted errors for Blue channel:
+
+beta >>> 0.009175645423560752
+gamma >>> 0.010811100208434125
+uniform >>> 0.01341916386275842
+norm >>> 0.010464905996858436
+laplace >>> 0.009672783222923729
+
 =================================================
 
 Output for Image number 50
+
 Max and min values of Red channel of image 50 are: 255, 0
 Max and min values of Green channel of image 50 are: 255, 0
 Max and min values of Blue channel of image 50 are: 255, 0
@@ -1546,9 +2772,34 @@ Skewness and Kurtosis are : -0.2849357690862544 -0.8306901277370384
 Average value of Blue channel is : 99.27644837758112
 The Variance of Blue channel is :  3460.5195172974836
 
+Fitted errors for Red channel:
+
+beta >>> 0.0014466197844078361
+gamma >>> 0.0018383543358429723
+uniform >>> 0.0025778320880408484
+norm >>> 0.002511378696451552
+laplace >>> 0.0029419732358348847
+
+Fitted errors for Green channel:
+
+beta >>> 0.0034714446989112173
+gamma >>> 0.003567224343518116
+uniform >>> 0.003988415856219983
+norm >>> 0.00352309238379337
+laplace >>> 0.003778171589541381
+
+Fitted errors for Blue channel:
+
+beta >>> 0.003733435156018372
+gamma >>> 0.00358824779663801
+uniform >>> 0.004154935927400988
+norm >>> 0.0035241317707269096
+laplace >>> 0.0036890661610360113
+
 =================================================
 
 Output for Image number 51
+
 Max and min values of Red channel of image 51 are: 255, 0
 Max and min values of Green channel of image 51 are: 255, 0
 Max and min values of Blue channel of image 51 are: 252, 0
@@ -1577,9 +2828,34 @@ Skewness and Kurtosis are : 0.5415037583920501 -0.7437036809350324
 Average value of Blue channel is : 55.55811411411411
 The Variance of Blue channel is :  1990.7839921191103
 
+Fitted errors for Red channel:
+
+beta >>> 0.0017192412343009736
+gamma >>> 0.0018339906790518833
+uniform >>> 0.0017884694515858308
+norm >>> 0.002595838428610729
+laplace >>> 0.0026032222315743748
+
+Fitted errors for Green channel:
+
+beta >>> 0.0013324526043234307
+gamma >>> 0.0024811947140756683
+uniform >>> 0.003445263897683303
+norm >>> 0.0026923514295354688
+laplace >>> 0.002620879664950057
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0034674187334875154
+gamma >>> 0.003329866382884529
+uniform >>> 0.008525587508567948
+norm >>> 0.006317750894128035
+laplace >>> 0.00658780450136892
+
 =================================================
 
 Output for Image number 52
+
 Max and min values of Red channel of image 52 are: 255, 0
 Max and min values of Green channel of image 52 are: 255, 0
 Max and min values of Blue channel of image 52 are: 255, 0
@@ -1608,9 +2884,34 @@ Skewness and Kurtosis are : -0.3068956651766526 -1.145739897497679
 Average value of Blue channel is : 125.169808
 The Variance of Blue channel is :  3026.4843652431337
 
+Fitted errors for Red channel:
+
+beta >>> 0.0018144182205841887
+gamma >>> 0.003752708984061253
+uniform >>> 0.004782980479169961
+norm >>> 0.002655626991732488
+laplace >>> 0.00106249747270541
+
+Fitted errors for Green channel:
+
+beta >>> 0.008092099754403448
+gamma >>> 0.0034318665902064727
+uniform >>> 0.003179720104191202
+norm >>> 0.0033882822302117198
+laplace >>> 0.0037596028764615265
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0014787486209059007
+gamma >>> 0.0018314657193497985
+uniform >>> 0.002371670325601538
+norm >>> 0.0017974862882024838
+laplace >>> 0.0022638193120470703
+
 =================================================
 
 Output for Image number 53
+
 Max and min values of Red channel of image 53 are: 255, 0
 Max and min values of Green channel of image 53 are: 255, 0
 Max and min values of Blue channel of image 53 are: 255, 0
@@ -1639,9 +2940,34 @@ Skewness and Kurtosis are : -0.09193724886417126 -1.6712035607294875
 Average value of Blue channel is : 103.50175935828877
 The Variance of Blue channel is :  5371.765729524981
 
+Fitted errors for Red channel:
+
+beta >>> 0.0007918704941041308
+gamma >>> 0.001021554073634901
+uniform >>> 0.0021906878228453216
+norm >>> 0.0009545458868625012
+laplace >>> 0.0014400070044226073
+
+Fitted errors for Green channel:
+
+beta >>> 0.0022460901280275673
+gamma >>> 0.001995984053185571
+uniform >>> 0.002671065488905981
+norm >>> 0.0019314965595937713
+laplace >>> 0.0025331094334673935
+
+Fitted errors for Blue channel:
+
+beta >>> 0.004779537858455402
+gamma >>> 0.007022475132956849
+uniform >>> 0.0062371499278368915
+norm >>> 0.007022764633585415
+laplace >>> 0.007934747105608236
+
 =================================================
 
 Output for Image number 54
+
 Max and min values of Red channel of image 54 are: 255, 0
 Max and min values of Green channel of image 54 are: 255, 0
 Max and min values of Blue channel of image 54 are: 178, 0
@@ -1670,9 +2996,34 @@ Skewness and Kurtosis are : 1.8609481434230735 4.391482759884283
 Average value of Blue channel is : 30.736970666666668
 The Variance of Blue channel is :  891.662655569806
 
+Fitted errors for Red channel:
+
+beta >>> 0.010923677441282554
+gamma >>> 0.012906677360665255
+uniform >>> 0.012692015275220469
+norm >>> 0.012882775620274246
+laplace >>> 0.012574299959043866
+
+Fitted errors for Green channel:
+
+beta >>> 0.01164026398315891
+gamma >>> 0.011844255336298681
+uniform >>> 0.01482924765651009
+norm >>> 0.01195781907318907
+laplace >>> 0.011024718314791668
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0206689362088472
+gamma >>> 0.02048062441277907
+uniform >>> 0.039361560142320076
+norm >>> 0.03032452732571006
+laplace >>> 0.02924233633520683
+
 =================================================
 
 Output for Image number 55
+
 Max and min values of Red channel of image 55 are: 255, 0
 Max and min values of Green channel of image 55 are: 255, 0
 Max and min values of Blue channel of image 55 are: 255, 0
@@ -1701,9 +3052,34 @@ Skewness and Kurtosis are : 0.8615562284204497 -0.8983829216688792
 Average value of Blue channel is : 56.52304278074866
 The Variance of Blue channel is :  4737.403971704052
 
+Fitted errors for Red channel:
+
+beta >>> 0.002761130436126901
+gamma >>> 0.0027989571505148136
+uniform >>> 0.0029733196322037038
+norm >>> 0.0036318797128894256
+laplace >>> 0.003879812466187258
+
+Fitted errors for Green channel:
+
+beta >>> 0.0015988725644445353
+gamma >>> 0.005780825172995055
+uniform >>> 0.004699966621006628
+norm >>> 0.00575546676481826
+laplace >>> 0.006091819477385248
+
+Fitted errors for Blue channel:
+
+beta >>> 0.009693960858901084
+gamma >>> 0.0026728032344720057
+uniform >>> 0.02974244963999476
+norm >>> 0.029459150781343924
+laplace >>> 0.026400072958231564
+
 =================================================
 
 Output for Image number 56
+
 Max and min values of Red channel of image 56 are: 255, 0
 Max and min values of Green channel of image 56 are: 255, 0
 Max and min values of Blue channel of image 56 are: 255, 0
@@ -1732,9 +3108,34 @@ Skewness and Kurtosis are : 1.3520317440533955 7.090145491291178
 Average value of Blue channel is : 91.657856
 The Variance of Blue channel is :  1527.7710654832645
 
+Fitted errors for Red channel:
+
+beta >>> 0.0027829050607970558
+gamma >>> 0.002958913474066214
+uniform >>> 0.00288969353440231
+norm >>> 0.003295263453294832
+laplace >>> 0.003527191514998689
+
+Fitted errors for Green channel:
+
+beta >>> 0.007595998929845753
+gamma >>> 0.08920077048139609
+uniform >>> 0.012438993672306522
+norm >>> 0.00850573153611334
+laplace >>> 0.0037922242307089466
+
+Fitted errors for Blue channel:
+
+beta >>> 0.018637717979821725
+gamma >>> 0.12873790318518427
+uniform >>> 0.02513667785514486
+norm >>> 0.018670200168883228
+laplace >>> 0.007793121474431124
+
 =================================================
 
 Output for Image number 57
+
 Max and min values of Red channel of image 57 are: 255, 0
 Max and min values of Green channel of image 57 are: 255, 0
 Max and min values of Blue channel of image 57 are: 255, 0
@@ -1763,9 +3164,34 @@ Skewness and Kurtosis are : 0.596698679211665 -0.5648831987805893
 Average value of Blue channel is : 77.724736
 The Variance of Blue channel is :  3463.981733730304
 
+Fitted errors for Red channel:
+
+beta >>> 0.00135653600236394
+gamma >>> 0.0018042384620173815
+uniform >>> 0.0026526371879999388
+norm >>> 0.002002333773670162
+laplace >>> 0.002576138488818695
+
+Fitted errors for Green channel:
+
+beta >>> 0.0011737579308513928
+gamma >>> 0.0013493817778858434
+uniform >>> 0.0028241910266606383
+norm >>> 0.0022081681010047783
+laplace >>> 0.0030856066047321574
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0010316760967559696
+gamma >>> 0.0011043337198532322
+uniform >>> 0.0028365661424232524
+norm >>> 0.002145238986287284
+laplace >>> 0.0028689204055172245
+
 =================================================
 
 Output for Image number 58
+
 Max and min values of Red channel of image 58 are: 255, 0
 Max and min values of Green channel of image 58 are: 255, 0
 Max and min values of Blue channel of image 58 are: 255, 0
@@ -1794,9 +3220,34 @@ Skewness and Kurtosis are : -0.11424933331616217 -0.7758982348850632
 Average value of Blue channel is : 125.01607466666667
 The Variance of Blue channel is :  3920.850322938424
 
+Fitted errors for Red channel:
+
+beta >>> 0.0007256766960647607
+gamma >>> 0.0011584278610456214
+uniform >>> 0.001085753316952297
+norm >>> 0.0011931274332409535
+laplace >>> 0.0019572198347145384
+
+Fitted errors for Green channel:
+
+beta >>> 0.0004603085892687717
+gamma >>> 0.0005557926336613022
+uniform >>> 0.0010555970147679132
+norm >>> 0.0005548595626107027
+laplace >>> 0.0012417134915695457
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0004516348625577378
+gamma >>> 0.0004893416499206101
+uniform >>> 0.0007972449458133744
+norm >>> 0.00046870799902145645
+laplace >>> 0.0008040568952201384
+
 =================================================
 
 Output for Image number 59
+
 Max and min values of Red channel of image 59 are: 255, 0
 Max and min values of Green channel of image 59 are: 255, 0
 Max and min values of Blue channel of image 59 are: 255, 0
@@ -1825,9 +3276,34 @@ Skewness and Kurtosis are : 0.36523372916386576 -0.5817897971260408
 Average value of Blue channel is : 92.31607807807808
 The Variance of Blue channel is :  3834.0497463002102
 
+Fitted errors for Red channel:
+
+beta >>> 0.0012392242585441899
+gamma >>> 0.001892345937028185
+uniform >>> 0.0023343501056757787
+norm >>> 0.0018505496845441286
+laplace >>> 0.002281318355082095
+
+Fitted errors for Green channel:
+
+beta >>> 0.0012392242585441899
+gamma >>> 0.001892345937028185
+uniform >>> 0.0023343501056757787
+norm >>> 0.0018505496845441286
+laplace >>> 0.002281318355082095
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0012392242585441899
+gamma >>> 0.001892345937028185
+uniform >>> 0.0023343501056757787
+norm >>> 0.0018505496845441286
+laplace >>> 0.002281318355082095
+
 =================================================
 
 Output for Image number 60
+
 Max and min values of Red channel of image 60 are: 255, 0
 Max and min values of Green channel of image 60 are: 255, 0
 Max and min values of Blue channel of image 60 are: 255, 0
@@ -1856,9 +3332,34 @@ Skewness and Kurtosis are : -0.36045475957457723 -1.4334010301991478
 Average value of Blue channel is : 157.790352
 The Variance of Blue channel is :  8279.406250382763
 
+Fitted errors for Red channel:
+
+beta >>> 0.006640268470919176
+gamma >>> 0.005203882852383528
+uniform >>> 0.004282319513746542
+norm >>> 0.005102648272416246
+laplace >>> 0.004681007491633219
+
+Fitted errors for Green channel:
+
+beta >>> 0.00350885590360372
+gamma >>> 0.005057712073817111
+uniform >>> 0.004134994443302539
+norm >>> 0.005002686145591252
+laplace >>> 0.004712593911351055
+
+Fitted errors for Blue channel:
+
+beta >>> 0.010673946425776643
+gamma >>> 0.025540150495649484
+uniform >>> 0.024387334012901406
+norm >>> 0.02548780441055699
+laplace >>> 0.025662033644408593
+
 =================================================
 
 Output for Image number 61
+
 Max and min values of Red channel of image 61 are: 255, 0
 Max and min values of Green channel of image 61 are: 233, 0
 Max and min values of Blue channel of image 61 are: 198, 0
@@ -1887,9 +3388,34 @@ Skewness and Kurtosis are : 0.19090894935512548 -1.724299169848604
 Average value of Blue channel is : 71.34318918918919
 The Variance of Blue channel is :  4441.562479438683
 
+Fitted errors for Red channel:
+
+beta >>> 0.003440468115211543
+gamma >>> 0.0046700772782286935
+uniform >>> 0.0035579653274322356
+norm >>> 0.004661251735868382
+laplace >>> 0.005322325220871371
+
+Fitted errors for Green channel:
+
+beta >>> 0.004254831573623308
+gamma >>> 0.006603061175450199
+uniform >>> 0.005306583328531506
+norm >>> 0.006603445689615442
+laplace >>> 0.0076579919171947414
+
+Fitted errors for Blue channel:
+
+beta >>> 0.02443159007057604
+gamma >>> 0.04000556069623347
+uniform >>> 0.03856857271689414
+norm >>> 0.040481143715845096
+laplace >>> 0.041419429002833595
+
 =================================================
 
 Output for Image number 62
+
 Max and min values of Red channel of image 62 are: 255, 0
 Max and min values of Green channel of image 62 are: 255, 0
 Max and min values of Blue channel of image 62 are: 255, 0
@@ -1918,9 +3444,34 @@ Skewness and Kurtosis are : 0.82350347079465 -0.3683125451152174
 Average value of Blue channel is : 85.97449066666667
 The Variance of Blue channel is :  4388.392826607245
 
+Fitted errors for Red channel:
+
+beta >>> 0.0006630786904219069
+gamma >>> 0.0006606103490226146
+uniform >>> 0.003402805402965246
+norm >>> 0.002102166095774251
+laplace >>> 0.0014761056980030106
+
+Fitted errors for Green channel:
+
+beta >>> 0.001703147487801204
+gamma >>> 0.0006221410522677796
+uniform >>> 0.0030025002408359176
+norm >>> 0.0020704967827854318
+laplace >>> 0.0015984986627723885
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0012803741181296351
+gamma >>> 0.0009177357329536967
+uniform >>> 0.0025220041574170343
+norm >>> 0.002228782785319483
+laplace >>> 0.0021513103396261653
+
 =================================================
 
 Output for Image number 63
+
 Max and min values of Red channel of image 63 are: 255, 0
 Max and min values of Green channel of image 63 are: 255, 0
 Max and min values of Blue channel of image 63 are: 255, 0
@@ -1949,9 +3500,34 @@ Skewness and Kurtosis are : 0.5964408506053156 -1.1007328763005282
 Average value of Blue channel is : 74.99164412811388
 The Variance of Blue channel is :  6685.8773536669505
 
+Fitted errors for Red channel:
+
+beta >>> 0.1011490139195566
+gamma >>> 0.04483169108792313
+uniform >>> 0.13103040823465545
+norm >>> 0.1317331896342702
+laplace >>> 0.13199647776505152
+
+Fitted errors for Green channel:
+
+beta >>> 0.10712813474628878
+gamma >>> 0.044888389079449115
+uniform >>> 0.12645196532734604
+norm >>> 0.12707879559320023
+laplace >>> 0.1270894312231236
+
+Fitted errors for Blue channel:
+
+beta >>> 0.11069436817562528
+gamma >>> 0.04655560451182066
+uniform >>> 0.12894508919131323
+norm >>> 0.12951841181306767
+laplace >>> 0.12944550891160236
+
 =================================================
 
 Output for Image number 64
+
 Max and min values of Red channel of image 64 are: 255, 0
 Max and min values of Green channel of image 64 are: 255, 0
 Max and min values of Blue channel of image 64 are: 255, 0
@@ -1980,9 +3556,34 @@ Skewness and Kurtosis are : 2.942681943348467 9.850950987341264
 Average value of Blue channel is : 24.296
 The Variance of Blue channel is :  1473.6186182342344
 
+Fitted errors for Red channel:
+
+beta >>> 0.0035643457537317146
+gamma >>> 0.0033856662831626893
+uniform >>> 0.0033961094065875054
+norm >>> 0.003313516885233487
+laplace >>> 0.0034354012366149484
+
+Fitted errors for Green channel:
+
+beta >>> 0.006251714122253329
+gamma >>> 0.0062562889380886845
+uniform >>> 0.018794681900338707
+norm >>> 0.011814027419422016
+laplace >>> 0.004792140822860405
+
+Fitted errors for Blue channel:
+
+beta >>> 0.002213908247832685
+gamma >>> 0.006072083713484248
+uniform >>> 0.027451211223036096
+norm >>> 0.020143439341581946
+laplace >>> 0.010694575426307269
+
 =================================================
 
 Output for Image number 65
+
 Max and min values of Red channel of image 65 are: 255, 0
 Max and min values of Green channel of image 65 are: 255, 0
 Max and min values of Blue channel of image 65 are: 255, 0
@@ -2011,9 +3612,34 @@ Skewness and Kurtosis are : 0.3060560206610271 -1.1636711480114554
 Average value of Blue channel is : 101.84992533333333
 The Variance of Blue channel is :  4816.8665709277575
 
+Fitted errors for Red channel:
+
+beta >>> 0.0007173228267077251
+gamma >>> 0.0010411951082642604
+uniform >>> 0.0011044973567518818
+norm >>> 0.0014505949642898857
+laplace >>> 0.001620914475759459
+
+Fitted errors for Green channel:
+
+beta >>> 0.0006947135810907758
+gamma >>> 0.00103540318989829
+uniform >>> 0.0011477871465739842
+norm >>> 0.0014141448303667784
+laplace >>> 0.001562659227192102
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0007508701315630585
+gamma >>> 0.0011374024566883475
+uniform >>> 0.0012692102424074433
+norm >>> 0.001523872111035023
+laplace >>> 0.0016939788812049327
+
 =================================================
 
 Output for Image number 66
+
 Max and min values of Red channel of image 66 are: 255, 0
 Max and min values of Green channel of image 66 are: 255, 0
 Max and min values of Blue channel of image 66 are: 255, 0
@@ -2042,9 +3668,34 @@ Skewness and Kurtosis are : 0.7084011665796462 -1.449908841841448
 Average value of Blue channel is : 82.0275843373494
 The Variance of Blue channel is :  12833.276245128429
 
+Fitted errors for Red channel:
+
+beta >>> 0.29583858319545636
+gamma >>> 0.2016987734924716
+uniform >>> 0.37181680890314484
+norm >>> 0.37267825170023444
+laplace >>> 0.3675093277976904
+
+Fitted errors for Green channel:
+
+beta >>> 0.30294618249011385
+gamma >>> 0.22543642039936954
+uniform >>> 0.3713991411568371
+norm >>> 0.37251034969448876
+laplace >>> 0.367716175505113
+
+Fitted errors for Blue channel:
+
+beta >>> 0.37389733626443933
+gamma >>> 0.23057786329512092
+uniform >>> 0.37350237136735553
+norm >>> 0.374944759226486
+laplace >>> 0.37080957974432016
+
 =================================================
 
 Output for Image number 67
+
 Max and min values of Red channel of image 67 are: 255, 0
 Max and min values of Green channel of image 67 are: 255, 0
 Max and min values of Blue channel of image 67 are: 255, 0
@@ -2073,9 +3724,34 @@ Skewness and Kurtosis are : -0.3212299991950119 -0.7857779086176899
 Average value of Blue channel is : 94.307504
 The Variance of Blue channel is :  2015.1819852899844
 
+Fitted errors for Red channel:
+
+beta >>> 0.0014013038529493878
+gamma >>> 0.001672957216915225
+uniform >>> 0.007548958474114018
+norm >>> 0.0015121566552328072
+laplace >>> 0.0005950366704212584
+
+Fitted errors for Green channel:
+
+beta >>> 0.0011544593817884117
+gamma >>> 0.0017298397335953656
+uniform >>> 0.003702573522858962
+norm >>> 0.0016134457148747777
+laplace >>> 0.001593410791903964
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0009058227641197808
+gamma >>> 0.0012556403695363045
+uniform >>> 0.003012899907321799
+norm >>> 0.0011635125162757188
+laplace >>> 0.0015640825982427894
+
 =================================================
 
 Output for Image number 68
+
 Max and min values of Red channel of image 68 are: 255, 0
 Max and min values of Green channel of image 68 are: 255, 0
 Max and min values of Blue channel of image 68 are: 255, 0
@@ -2104,9 +3780,34 @@ Skewness and Kurtosis are : 0.7384450656559145 1.534615531524019
 Average value of Blue channel is : 83.62594561933535
 The Variance of Blue channel is :  2147.608941326346
 
+Fitted errors for Red channel:
+
+beta >>> 0.0014003673030687537
+gamma >>> 0.0029392967046196795
+uniform >>> 0.0022499751370003754
+norm >>> 0.002937037971510136
+laplace >>> 0.00341195234610296
+
+Fitted errors for Green channel:
+
+beta >>> 0.0006033667687096842
+gamma >>> 0.0006469726896540742
+uniform >>> 0.0010255564065342723
+norm >>> 0.000638335814338018
+laplace >>> 0.001011612157073271
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0006081080555997524
+gamma >>> 0.0006081195555992318
+uniform >>> 0.0030627786394222477
+norm >>> 0.000549052046851177
+laplace >>> 0.0007156525415883118
+
 =================================================
 
 Output for Image number 69
+
 Max and min values of Red channel of image 69 are: 255, 0
 Max and min values of Green channel of image 69 are: 255, 0
 Max and min values of Blue channel of image 69 are: 255, 0
@@ -2135,9 +3836,34 @@ Skewness and Kurtosis are : 2.3951975152795506 5.210901299914251
 Average value of Blue channel is : 34.963518072289155
 The Variance of Blue channel is :  1859.1893196713602
 
+Fitted errors for Red channel:
+
+beta >>> 0.005297972510237533
+gamma >>> 0.0027799457619430584
+uniform >>> 0.005702288399130073
+norm >>> 0.005642465239192572
+laplace >>> 0.0047437051767936075
+
+Fitted errors for Green channel:
+
+beta >>> 0.0060669349869594364
+gamma >>> 0.0019074296836646431
+uniform >>> 0.006736427604934823
+norm >>> 0.005501196802956733
+laplace >>> 0.00366380726627884
+
+Fitted errors for Blue channel:
+
+beta >>> 0.010441557926036283
+gamma >>> 0.010441446724039221
+uniform >>> 0.022787767033390298
+norm >>> 0.01739737287413961
+laplace >>> 0.009734962361419588
+
 =================================================
 
 Output for Image number 70
+
 Max and min values of Red channel of image 70 are: 255, 0
 Max and min values of Green channel of image 70 are: 255, 0
 Max and min values of Blue channel of image 70 are: 255, 0
@@ -2166,9 +3892,34 @@ Skewness and Kurtosis are : 1.594628500614029 1.7871380995708703
 Average value of Blue channel is : 47.775217142857144
 The Variance of Blue channel is :  3257.0915240957056
 
+Fitted errors for Red channel:
+
+beta >>> 0.00026724468205950846
+gamma >>> 0.0006885319720692932
+uniform >>> 0.0003248590698331725
+norm >>> 0.0007150857479603495
+laplace >>> 0.0010410231816701983
+
+Fitted errors for Green channel:
+
+beta >>> 0.0005321675336425689
+gamma >>> 0.0002843690751749583
+uniform >>> 0.0023844431724468922
+norm >>> 0.0017337122638594522
+laplace >>> 0.0016020277513840075
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0009402803741573851
+gamma >>> 0.0005810184464090435
+uniform >>> 0.011865870400630212
+norm >>> 0.009647383052812975
+laplace >>> 0.007454055911050827
+
 =================================================
 
 Output for Image number 71
+
 Max and min values of Red channel of image 71 are: 255, 0
 Max and min values of Green channel of image 71 are: 255, 0
 Max and min values of Blue channel of image 71 are: 255, 0
@@ -2197,9 +3948,34 @@ Skewness and Kurtosis are : 1.549714463321259 1.446448940917045
 Average value of Blue channel is : 44.56004191616766
 The Variance of Blue channel is :  4425.471245267704
 
+Fitted errors for Red channel:
+
+beta >>> 0.10320653945933773
+gamma >>> 0.07361607768907198
+uniform >>> 0.14428724365980267
+norm >>> 0.14356085096697754
+laplace >>> 0.1403692034934473
+
+Fitted errors for Green channel:
+
+beta >>> 0.10887242325781943
+gamma >>> 0.09433512988754601
+uniform >>> 0.14653798459555345
+norm >>> 0.14555624313850135
+laplace >>> 0.14185364874687847
+
+Fitted errors for Blue channel:
+
+beta >>> 0.11304363053121973
+gamma >>> 0.08801044613022918
+uniform >>> 0.16706686480075977
+norm >>> 0.16562573359274785
+laplace >>> 0.16023566559897706
+
 =================================================
 
 Output for Image number 72
+
 Max and min values of Red channel of image 72 are: 255, 0
 Max and min values of Green channel of image 72 are: 255, 0
 Max and min values of Blue channel of image 72 are: 255, 0
@@ -2228,9 +4004,34 @@ Skewness and Kurtosis are : 0.6254263320211122 -0.39693092847819544
 Average value of Blue channel is : 74.60864
 The Variance of Blue channel is :  3480.1901546837335
 
+Fitted errors for Red channel:
+
+beta >>> 0.002227446447341891
+gamma >>> 0.002238577986094902
+uniform >>> 0.0033676289942437317
+norm >>> 0.003425765687912867
+laplace >>> 0.004003382615096299
+
+Fitted errors for Green channel:
+
+beta >>> 0.003206796910011058
+gamma >>> 0.0032341475326343465
+uniform >>> 0.004649046678799955
+norm >>> 0.004479416049507496
+laplace >>> 0.0052057734656334375
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00379794333827631
+gamma >>> 0.003792058802282721
+uniform >>> 0.0058990944310942295
+norm >>> 0.0051159946739413155
+laplace >>> 0.005789483070485775
+
 =================================================
 
 Output for Image number 73
+
 Max and min values of Red channel of image 73 are: 255, 0
 Max and min values of Green channel of image 73 are: 255, 0
 Max and min values of Blue channel of image 73 are: 255, 0
@@ -2259,9 +4060,34 @@ Skewness and Kurtosis are : 0.3195677499432897 -1.8075229857691273
 Average value of Blue channel is : 109.77212103746398
 The Variance of Blue channel is :  9920.184757057397
 
+Fitted errors for Red channel:
+
+beta >>> 0.01260750811776584
+gamma >>> 0.016015264835340118
+uniform >>> 0.01426420167803962
+norm >>> 0.016016968378088373
+laplace >>> 0.015617423667907866
+
+Fitted errors for Green channel:
+
+beta >>> 0.018697591071207227
+gamma >>> 0.01336865046615195
+uniform >>> 0.014479587510624087
+norm >>> 0.01609178124487769
+laplace >>> 0.014313549584037065
+
+Fitted errors for Blue channel:
+
+beta >>> 0.013051773769535483
+gamma >>> 0.011813134321162207
+uniform >>> 0.01272106598790054
+norm >>> 0.01426322834744333
+laplace >>> 0.013251916739443693
+
 =================================================
 
 Output for Image number 74
+
 Max and min values of Red channel of image 74 are: 255, 0
 Max and min values of Green channel of image 74 are: 255, 0
 Max and min values of Blue channel of image 74 are: 255, 0
@@ -2290,9 +4116,34 @@ Skewness and Kurtosis are : 0.46147348560331575 -1.326708337365884
 Average value of Blue channel is : 116.11168316831683
 The Variance of Blue channel is :  7175.128120929321
 
+Fitted errors for Red channel:
+
+beta >>> 0.03567392618701876
+gamma >>> 0.019077872256332347
+uniform >>> 0.08828354439960778
+norm >>> 0.08561054756360752
+laplace >>> 0.07587975818892476
+
+Fitted errors for Green channel:
+
+beta >>> 0.014357101445702536
+gamma >>> 0.012492121069025263
+uniform >>> 0.05218366789131887
+norm >>> 0.049735401551199626
+laplace >>> 0.04353474646590492
+
+Fitted errors for Blue channel:
+
+beta >>> 0.002248867506960052
+gamma >>> 0.0034447316616807236
+uniform >>> 0.0035189938002536726
+norm >>> 0.004474821383401837
+laplace >>> 0.004377225779137377
+
 =================================================
 
 Output for Image number 75
+
 Max and min values of Red channel of image 75 are: 255, 0
 Max and min values of Green channel of image 75 are: 255, 0
 Max and min values of Blue channel of image 75 are: 255, 0
@@ -2321,9 +4172,34 @@ Skewness and Kurtosis are : 1.3752850061970154 0.8664997312240907
 Average value of Blue channel is : 64.938544
 The Variance of Blue channel is :  5537.801444493399
 
+Fitted errors for Red channel:
+
+beta >>> 0.00430400878046823
+gamma >>> 0.002119794621669548
+uniform >>> 0.00990693744581558
+norm >>> 0.00929658835066697
+laplace >>> 0.008146883132586404
+
+Fitted errors for Green channel:
+
+beta >>> 0.00430400878046823
+gamma >>> 0.002119794621669548
+uniform >>> 0.00990693744581558
+norm >>> 0.00929658835066697
+laplace >>> 0.008146883132586404
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00430400878046823
+gamma >>> 0.002119794621669548
+uniform >>> 0.00990693744581558
+norm >>> 0.00929658835066697
+laplace >>> 0.008146883132586404
+
 =================================================
 
 Output for Image number 76
+
 Max and min values of Red channel of image 76 are: 255, 0
 Max and min values of Green channel of image 76 are: 241, 0
 Max and min values of Blue channel of image 76 are: 253, 0
@@ -2352,9 +4228,34 @@ Skewness and Kurtosis are : -0.7291742956561953 0.6000535897225898
 Average value of Blue channel is : 107.58456
 The Variance of Blue channel is :  1207.868204273067
 
+Fitted errors for Red channel:
+
+beta >>> 0.00265929202885
+gamma >>> 0.003918819870681585
+uniform >>> 0.0109322400235506
+norm >>> 0.0034779256153711986
+laplace >>> 0.002945741999007344
+
+Fitted errors for Green channel:
+
+beta >>> 0.0031165008337324922
+gamma >>> 0.13402006342996803
+uniform >>> 0.009907988120661956
+norm >>> 0.004037933472759554
+laplace >>> 0.003786553916373413
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0014465555024359015
+gamma >>> 0.002264383235109469
+uniform >>> 0.006476314791659978
+norm >>> 0.001896410388342986
+laplace >>> 0.0018446094415008015
+
 =================================================
 
 Output for Image number 77
+
 Max and min values of Red channel of image 77 are: 254, 0
 Max and min values of Green channel of image 77 are: 254, 0
 Max and min values of Blue channel of image 77 are: 254, 0
@@ -2383,9 +4284,34 @@ Skewness and Kurtosis are : 1.7010324757705317 2.423691826317347
 Average value of Blue channel is : 55.30798240469208
 The Variance of Blue channel is :  2452.9063374542357
 
+Fitted errors for Red channel:
+
+beta >>> 0.004476497524085109
+gamma >>> 0.0022476925668312117
+uniform >>> 0.005808830040992526
+norm >>> 0.004591058844127803
+laplace >>> 0.0024559392044529696
+
+Fitted errors for Green channel:
+
+beta >>> 0.002008047118161366
+gamma >>> 0.0019872476386916817
+uniform >>> 0.006662571579142625
+norm >>> 0.004225865680893221
+laplace >>> 0.0018848699492855277
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0032466037932391916
+gamma >>> 0.0020792180553366466
+uniform >>> 0.00749850119706851
+norm >>> 0.004463550439992017
+laplace >>> 0.0017046180573791429
+
 =================================================
 
 Output for Image number 78
+
 Max and min values of Red channel of image 78 are: 255, 0
 Max and min values of Green channel of image 78 are: 255, 0
 Max and min values of Blue channel of image 78 are: 255, 0
@@ -2414,9 +4340,34 @@ Skewness and Kurtosis are : -1.210437010980417 -0.1691059845452063
 Average value of Blue channel is : 171.47153658536584
 The Variance of Blue channel is :  5918.790433736467
 
+Fitted errors for Red channel:
+
+beta >>> 0.002860499112298836
+gamma >>> 0.003438481854330363
+uniform >>> 0.004332229692721031
+norm >>> 0.003273802521706423
+laplace >>> 0.0019432500469650327
+
+Fitted errors for Green channel:
+
+beta >>> 0.0030427741679246
+gamma >>> 0.0038264780833009303
+uniform >>> 0.0045843577764558135
+norm >>> 0.0036405584651906017
+laplace >>> 0.00217105786584689
+
+Fitted errors for Blue channel:
+
+beta >>> 0.015457161046243667
+gamma >>> 0.12059546721371343
+uniform >>> 0.007028557597501167
+norm >>> 0.0069863738701935255
+laplace >>> 0.004167842461396757
+
 =================================================
 
 Output for Image number 79
+
 Max and min values of Red channel of image 79 are: 255, 0
 Max and min values of Green channel of image 79 are: 255, 0
 Max and min values of Blue channel of image 79 are: 255, 0
@@ -2445,9 +4396,34 @@ Skewness and Kurtosis are : 0.9905774711429753 -0.22442378533171947
 Average value of Blue channel is : 68.55649661399549
 The Variance of Blue channel is :  5625.989805875271
 
+Fitted errors for Red channel:
+
+beta >>> 0.014855498229916034
+gamma >>> 0.005846664146895089
+uniform >>> 0.023625537721184336
+norm >>> 0.023000651241993707
+laplace >>> 0.0224036125029118
+
+Fitted errors for Green channel:
+
+beta >>> 0.01533928528316692
+gamma >>> 0.006471219473246624
+uniform >>> 0.02294136053572111
+norm >>> 0.022564379670827046
+laplace >>> 0.02200969209532633
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0035756113070352404
+gamma >>> 0.003215091818394486
+uniform >>> 0.011506407480144316
+norm >>> 0.011401189299297624
+laplace >>> 0.010672980963177363
+
 =================================================
 
 Output for Image number 80
+
 Max and min values of Red channel of image 80 are: 255, 0
 Max and min values of Green channel of image 80 are: 255, 0
 Max and min values of Blue channel of image 80 are: 255, 0
@@ -2476,9 +4452,34 @@ Skewness and Kurtosis are : 0.8571938876986913 0.34625252522562144
 Average value of Blue channel is : 64.39743171806167
 The Variance of Blue channel is :  1902.5602726990828
 
+Fitted errors for Red channel:
+
+beta >>> 0.001426642871986128
+gamma >>> 0.001427555979160438
+uniform >>> 0.004742879134097596
+norm >>> 0.0020711238979457137
+laplace >>> 0.0020982413943122463
+
+Fitted errors for Green channel:
+
+beta >>> 0.001429373107541724
+gamma >>> 0.0014351856055044455
+uniform >>> 0.004765597054059486
+norm >>> 0.002064635118894761
+laplace >>> 0.0021221290657348463
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0014255740953187475
+gamma >>> 0.0014319861127307578
+uniform >>> 0.0047628569478875395
+norm >>> 0.002063872789514657
+laplace >>> 0.0021230767546250784
+
 =================================================
 
 Output for Image number 81
+
 Max and min values of Red channel of image 81 are: 255, 0
 Max and min values of Green channel of image 81 are: 255, 0
 Max and min values of Blue channel of image 81 are: 255, 0
@@ -2507,9 +4508,34 @@ Skewness and Kurtosis are : 1.439363449476532 0.9180901367534506
 Average value of Blue channel is : 54.408498498498496
 The Variance of Blue channel is :  4512.156762610359
 
+Fitted errors for Red channel:
+
+beta >>> 0.005932780113264664
+gamma >>> 0.004321777139721491
+uniform >>> 0.01201520251460233
+norm >>> 0.010872860104622899
+laplace >>> 0.007972059877735072
+
+Fitted errors for Green channel:
+
+beta >>> 0.005932780113264664
+gamma >>> 0.004321777139721491
+uniform >>> 0.01201520251460233
+norm >>> 0.010872860104622899
+laplace >>> 0.007972059877735072
+
+Fitted errors for Blue channel:
+
+beta >>> 0.005932780113264664
+gamma >>> 0.004321777139721491
+uniform >>> 0.01201520251460233
+norm >>> 0.010872860104622899
+laplace >>> 0.007972059877735072
+
 =================================================
 
 Output for Image number 82
+
 Max and min values of Red channel of image 82 are: 254, 0
 Max and min values of Green channel of image 82 are: 255, 0
 Max and min values of Blue channel of image 82 are: 255, 0
@@ -2538,9 +4564,34 @@ Skewness and Kurtosis are : 5.471789832889265 72.00887709585643
 Average value of Blue channel is : 8.406906666666666
 The Variance of Blue channel is :  119.87548829795557
 
+Fitted errors for Red channel:
+
+beta >>> 0.0007876884847178593
+gamma >>> 0.0011808174611174632
+uniform >>> 0.014220219477800673
+norm >>> 0.0009720281298291066
+laplace >>> 0.0006896367582510962
+
+Fitted errors for Green channel:
+
+beta >>> 0.0008684347048134572
+gamma >>> 0.001677828955798125
+uniform >>> 0.01302330199949741
+norm >>> 0.0012358404791348169
+laplace >>> 0.0009121710658573298
+
+Fitted errors for Blue channel:
+
+beta >>> 0.018143153060873444
+gamma >>> 0.024556314770394674
+uniform >>> 0.07254168997726848
+norm >>> 0.03921130849743431
+laplace >>> 0.034601148040743664
+
 =================================================
 
 Output for Image number 83
+
 Max and min values of Red channel of image 83 are: 255, 102
 Max and min values of Green channel of image 83 are: 255, 0
 Max and min values of Blue channel of image 83 are: 255, 31
@@ -2569,9 +4620,34 @@ Skewness and Kurtosis are : 1.7457158389346 3.4709675410552006
 Average value of Blue channel is : 157.02312
 The Variance of Blue channel is :  993.7181374655956
 
+Fitted errors for Red channel:
+
+beta >>> 0.05166554526261755
+gamma >>> 0.05338854103660276
+uniform >>> 0.10333724396044296
+norm >>> 0.0525269487892712
+laplace >>> 0.05375836337709614
+
+Fitted errors for Green channel:
+
+beta >>> 0.002306054340869004
+gamma >>> 0.0028897787465948298
+uniform >>> 0.0025387022784724503
+norm >>> 0.002890713064362142
+laplace >>> 0.0032651428600285045
+
+Fitted errors for Blue channel:
+
+beta >>> 0.008323787665747154
+gamma >>> 0.007731084483236521
+uniform >>> 0.016568352115519273
+norm >>> 0.008979515820974723
+laplace >>> 0.005993576299611289
+
 =================================================
 
 Output for Image number 84
+
 Max and min values of Red channel of image 84 are: 255, 0
 Max and min values of Green channel of image 84 are: 255, 0
 Max and min values of Blue channel of image 84 are: 255, 0
@@ -2600,9 +4676,34 @@ Skewness and Kurtosis are : -0.8740214316480298 0.9072251637374866
 Average value of Blue channel is : 117.35917014925373
 The Variance of Blue channel is :  2074.723492326273
 
+Fitted errors for Red channel:
+
+beta >>> 0.0009257303514973239
+gamma >>> 0.001820000674679231
+uniform >>> 0.003982986210662332
+norm >>> 0.0012220872094757433
+laplace >>> 0.0004562620259694573
+
+Fitted errors for Green channel:
+
+beta >>> 0.0011102025004254452
+gamma >>> 0.07259845710249033
+uniform >>> 0.0040536047217150485
+norm >>> 0.001270104092712207
+laplace >>> 0.0005243031703507735
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0012559478912277963
+gamma >>> 0.0018618905141629858
+uniform >>> 0.0045481537154285715
+norm >>> 0.0016053332303777334
+laplace >>> 0.0010090705895963214
+
 =================================================
 
 Output for Image number 85
+
 Max and min values of Red channel of image 85 are: 255, 0
 Max and min values of Green channel of image 85 are: 255, 0
 Max and min values of Blue channel of image 85 are: 255, 0
@@ -2631,9 +4732,34 @@ Skewness and Kurtosis are : 3.138159592692728 14.754518930481648
 Average value of Blue channel is : 19.034414414414414
 The Variance of Blue channel is :  545.7446174498823
 
+Fitted errors for Red channel:
+
+beta >>> 0.003742221383324219
+gamma >>> 0.00536281221257624
+uniform >>> 0.021519268492522364
+norm >>> 0.013275129438868324
+laplace >>> 0.008405146958427548
+
+Fitted errors for Green channel:
+
+beta >>> 0.003725074496088218
+gamma >>> 0.016164050416962856
+uniform >>> 0.04042099602344228
+norm >>> 0.03001716385014991
+laplace >>> 0.0208734413258308
+
+Fitted errors for Blue channel:
+
+beta >>> 0.011380978074660453
+gamma >>> 0.011993480354187536
+uniform >>> 0.03277674598268513
+norm >>> 0.019654714140611367
+laplace >>> 0.011085763730881696
+
 =================================================
 
 Output for Image number 86
+
 Max and min values of Red channel of image 86 are: 255, 0
 Max and min values of Green channel of image 86 are: 255, 0
 Max and min values of Blue channel of image 86 are: 255, 0
@@ -2662,9 +4788,34 @@ Skewness and Kurtosis are : 0.04443708797174238 -0.10046456013871063
 Average value of Blue channel is : 109.0241377245509
 The Variance of Blue channel is :  2246.4401658732477
 
+Fitted errors for Red channel:
+
+beta >>> 0.0004828191226363862
+gamma >>> 0.00046340623755761483
+uniform >>> 0.00356984685236493
+norm >>> 0.0006374490220271876
+laplace >>> 0.00018424704555620506
+
+Fitted errors for Green channel:
+
+beta >>> 0.00036872133701091226
+gamma >>> 0.00036569823236480434
+uniform >>> 0.003377456711705018
+norm >>> 0.00031853521317724127
+laplace >>> 0.00016736936514017857
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0002814312871458132
+gamma >>> 0.000258518244657071
+uniform >>> 0.002263479067242581
+norm >>> 0.0002433112575511857
+laplace >>> 0.00041126212707342613
+
 =================================================
 
 Output for Image number 87
+
 Max and min values of Red channel of image 87 are: 255, 0
 Max and min values of Green channel of image 87 are: 255, 0
 Max and min values of Blue channel of image 87 are: 255, 0
@@ -2693,9 +4844,34 @@ Skewness and Kurtosis are : -0.9904852680387751 0.5202611306018898
 Average value of Blue channel is : 170.263904
 The Variance of Blue channel is :  3515.923389345451
 
+Fitted errors for Red channel:
+
+beta >>> 0.00031219261545101067
+gamma >>> 0.0002945787075310028
+uniform >>> 0.0021334352057963894
+norm >>> 0.0002956265058466943
+laplace >>> 0.00021933988142173934
+
+Fitted errors for Green channel:
+
+beta >>> 0.0006024948914611807
+gamma >>> 0.00037175417396838464
+uniform >>> 0.0015939731101569756
+norm >>> 0.0009961316570625117
+laplace >>> 0.0004726648859989551
+
+Fitted errors for Blue channel:
+
+beta >>> 0.00043941841031954154
+gamma >>> 0.00130274489639255
+uniform >>> 0.002019098776186636
+norm >>> 0.000875521900508013
+laplace >>> 0.0006532130728174906
+
 =================================================
 
 Output for Image number 88
+
 Max and min values of Red channel of image 88 are: 255, 0
 Max and min values of Green channel of image 88 are: 255, 0
 Max and min values of Blue channel of image 88 are: 255, 0
@@ -2724,9 +4900,34 @@ Skewness and Kurtosis are : -0.5733850076196464 -0.7947797658159641
 Average value of Blue channel is : 193.59948266666666
 The Variance of Blue channel is :  3494.9306418656997
 
+Fitted errors for Red channel:
+
+beta >>> 0.021725386077821436
+gamma >>> 0.06441948364176471
+uniform >>> 0.06895463338645934
+norm >>> 0.06410467399408648
+laplace >>> 0.06374655957670823
+
+Fitted errors for Green channel:
+
+beta >>> 0.04544013128636436
+gamma >>> 0.05044898569384497
+uniform >>> 0.05143215351316231
+norm >>> 0.05038644466988934
+laplace >>> 0.05113882632875728
+
+Fitted errors for Blue channel:
+
+beta >>> 0.045188884370162365
+gamma >>> 0.05420040578900973
+uniform >>> 0.05488030734073274
+norm >>> 0.05416164754420855
+laplace >>> 0.05490660615747156
+
 =================================================
 
 Output for Image number 89
+
 Max and min values of Red channel of image 89 are: 255, 0
 Max and min values of Green channel of image 89 are: 255, 0
 Max and min values of Blue channel of image 89 are: 255, 0
@@ -2755,9 +4956,34 @@ Skewness and Kurtosis are : -1.0901689798454184 -0.2548104650922647
 Average value of Blue channel is : 112.13854054054055
 The Variance of Blue channel is :  1585.8523200321397
 
+Fitted errors for Red channel:
+
+beta >>> 0.012031737366057763
+gamma >>> 0.012138653731727268
+uniform >>> 0.018675935264517645
+norm >>> 0.012051922273454413
+laplace >>> 0.007554709688698872
+
+Fitted errors for Green channel:
+
+beta >>> 0.015009032729119898
+gamma >>> 0.016480145024661698
+uniform >>> 0.02046943731243961
+norm >>> 0.016004178757576575
+laplace >>> 0.010412704069494686
+
+Fitted errors for Blue channel:
+
+beta >>> 0.01976166331395037
+gamma >>> 0.01747334137053769
+uniform >>> 0.02002719994957505
+norm >>> 0.017015387393098786
+laplace >>> 0.011623574864075281
+
 =================================================
 
 Output for Image number 90
+
 Max and min values of Red channel of image 90 are: 255, 4
 Max and min values of Green channel of image 90 are: 255, 1
 Max and min values of Blue channel of image 90 are: 255, 0
@@ -2786,9 +5012,34 @@ Skewness and Kurtosis are : 0.47267107476541786 -0.8333809423584371
 Average value of Blue channel is : 98.17091733333334
 The Variance of Blue channel is :  3013.7617472651673
 
+Fitted errors for Red channel:
+
+beta >>> 0.000400846281717057
+gamma >>> 0.0006549473003031589
+uniform >>> 0.0039460852251673745
+norm >>> 0.0006085716965745816
+laplace >>> 0.0012711319343190267
+
+Fitted errors for Green channel:
+
+beta >>> 0.0005252679180067987
+gamma >>> 0.0005525515571943424
+uniform >>> 0.0027585587423972005
+norm >>> 0.0006798768532152225
+laplace >>> 0.0014752176058933403
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0016790016062177148
+gamma >>> 0.0016902273747637407
+uniform >>> 0.002998685737343196
+norm >>> 0.002208681475379058
+laplace >>> 0.002900309282349306
+
 =================================================
 
 Output for Image number 91
+
 Max and min values of Red channel of image 91 are: 255, 0
 Max and min values of Green channel of image 91 are: 255, 0
 Max and min values of Blue channel of image 91 are: 255, 0
@@ -2817,9 +5068,34 @@ Skewness and Kurtosis are : 0.026031075704201462 -1.7161119782520402
 Average value of Blue channel is : 121.34802747252748
 The Variance of Blue channel is :  9441.074739515727
 
+Fitted errors for Red channel:
+
+beta >>> 0.004811360148530555
+gamma >>> 0.002824053714086076
+uniform >>> 0.0019235499771636235
+norm >>> 0.002768303781987216
+laplace >>> 0.002767523717484178
+
+Fitted errors for Green channel:
+
+beta >>> 0.005013816764913545
+gamma >>> 0.0031291353200467173
+uniform >>> 0.0020856373229491357
+norm >>> 0.003077418027628477
+laplace >>> 0.003005890749610313
+
+Fitted errors for Blue channel:
+
+beta >>> nan
+gamma >>> 0.0054772055005947555
+uniform >>> 0.0040182855630429455
+norm >>> 0.005477503535295465
+laplace >>> 0.006159604240427784
+
 =================================================
 
 Output for Image number 92
+
 Max and min values of Red channel of image 92 are: 255, 0
 Max and min values of Green channel of image 92 are: 255, 0
 Max and min values of Blue channel of image 92 are: 255, 0
@@ -2848,9 +5124,34 @@ Skewness and Kurtosis are : 0.24119313274651638 -1.1606677343632053
 Average value of Blue channel is : 98.65692492492492
 The Variance of Blue channel is :  3320.3207018952635
 
+Fitted errors for Red channel:
+
+beta >>> 0.0034969518492149257
+gamma >>> 0.003911152074849049
+uniform >>> 0.003991868100553906
+norm >>> 0.003914767207374859
+laplace >>> 0.004300664349759905
+
+Fitted errors for Green channel:
+
+beta >>> 0.0031238052545627766
+gamma >>> 0.0030703465897497593
+uniform >>> 0.0046400467439357985
+norm >>> 0.0030762992216572787
+laplace >>> 0.00334250787211532
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0022960414412393354
+gamma >>> 0.002513791845783082
+uniform >>> 0.0032349686000285507
+norm >>> 0.002785486880997527
+laplace >>> 0.003468433899719039
+
 =================================================
 
 Output for Image number 93
+
 Max and min values of Red channel of image 93 are: 255, 0
 Max and min values of Green channel of image 93 are: 255, 0
 Max and min values of Blue channel of image 93 are: 255, 0
@@ -2879,9 +5180,34 @@ Skewness and Kurtosis are : 0.05845682849609623 -1.0899811696279718
 Average value of Blue channel is : 99.04263663663663
 The Variance of Blue channel is :  5391.128242177278
 
+Fitted errors for Red channel:
+
+beta >>> 0.005841873267172086
+gamma >>> 0.008214510761083564
+uniform >>> 0.007286994683278172
+norm >>> 0.008175826750947919
+laplace >>> 0.008213605633492797
+
+Fitted errors for Green channel:
+
+beta >>> 0.007289946042138106
+gamma >>> 0.010093226291315071
+uniform >>> 0.009200447609298881
+norm >>> 0.010040122978395273
+laplace >>> 0.01009902538771749
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0058511382461876316
+gamma >>> 0.012560927151416934
+uniform >>> 0.012198947331174118
+norm >>> 0.012549625482408618
+laplace >>> 0.012719084754405882
+
 =================================================
 
 Output for Image number 94
+
 Max and min values of Red channel of image 94 are: 255, 0
 Max and min values of Green channel of image 94 are: 255, 0
 Max and min values of Blue channel of image 94 are: 255, 0
@@ -2910,9 +5236,34 @@ Skewness and Kurtosis are : -0.6547321409208794 -0.41664366513177997
 Average value of Blue channel is : 110.17877222222222
 The Variance of Blue channel is :  3210.9583682703396
 
+Fitted errors for Red channel:
+
+beta >>> 0.004240943423651061
+gamma >>> 0.11443184015227126
+uniform >>> 0.00703490202551915
+norm >>> 0.0066081788452683156
+laplace >>> 0.00362336426227198
+
+Fitted errors for Green channel:
+
+beta >>> 0.014999543283858111
+gamma >>> 0.11315467375436261
+uniform >>> 0.007146748502192414
+norm >>> 0.005478811080700711
+laplace >>> 0.00280908235761228
+
+Fitted errors for Blue channel:
+
+beta >>> 0.004021144866141783
+gamma >>> 0.004867386038003907
+uniform >>> 0.00568141043872015
+norm >>> 0.004689572636976386
+laplace >>> 0.0037823441095380236
+
 =================================================
 
 Output for Image number 95
+
 Max and min values of Red channel of image 95 are: 255, 0
 Max and min values of Green channel of image 95 are: 255, 0
 Max and min values of Blue channel of image 95 are: 255, 0
@@ -2941,9 +5292,34 @@ Skewness and Kurtosis are : 0.75583463662746 -1.1516541943061127
 Average value of Blue channel is : 71.87334948096886
 The Variance of Blue channel is :  8202.63988352146
 
+Fitted errors for Red channel:
+
+beta >>> 0.08215408432702427
+gamma >>> 0.04029565996728242
+uniform >>> 0.12272014063673843
+norm >>> 0.12359354716541132
+laplace >>> 0.12048339338770474
+
+Fitted errors for Green channel:
+
+beta >>> 0.06887868822691665
+gamma >>> 0.07128600178960273
+uniform >>> 0.10939042606052075
+norm >>> 0.11050105587853336
+laplace >>> 0.10780542281801374
+
+Fitted errors for Blue channel:
+
+beta >>> 0.11156002448320729
+gamma >>> 0.07657564750091254
+uniform >>> 0.1599880359148833
+norm >>> 0.16078349807310502
+laplace >>> 0.15743872406832735
+
 =================================================
 
 Output for Image number 96
+
 Max and min values of Red channel of image 96 are: 255, 0
 Max and min values of Green channel of image 96 are: 255, 0
 Max and min values of Blue channel of image 96 are: 255, 0
@@ -2972,9 +5348,34 @@ Skewness and Kurtosis are : 1.7413113049569606 1.9182111536634823
 Average value of Blue channel is : 38.95550148367953
 The Variance of Blue channel is :  3699.436180119434
 
+Fitted errors for Red channel:
+
+beta >>> 0.023443206235077712
+gamma >>> 0.025795242967677188
+uniform >>> 0.03754006061235832
+norm >>> 0.03771896767391973
+laplace >>> 0.035781024345492726
+
+Fitted errors for Green channel:
+
+beta >>> 0.017752771263062395
+gamma >>> 0.012835980984800172
+uniform >>> 0.02871828213060765
+norm >>> 0.028736687885462735
+laplace >>> 0.026891557638414436
+
+Fitted errors for Blue channel:
+
+beta >>> 0.023646393307858622
+gamma >>> 0.03622319736061981
+uniform >>> 0.0623998748237407
+norm >>> 0.06014205379972224
+laplace >>> 0.054305679688162425
+
 =================================================
 
 Output for Image number 97
+
 Max and min values of Red channel of image 97 are: 230, 0
 Max and min values of Green channel of image 97 are: 220, 0
 Max and min values of Blue channel of image 97 are: 212, 0
@@ -3003,9 +5404,34 @@ Skewness and Kurtosis are : 0.07323182984839093 -0.07588213679776468
 Average value of Blue channel is : 93.40535951661631
 The Variance of Blue channel is :  1389.7568377408388
 
+Fitted errors for Red channel:
+
+beta >>> 0.0015690441591342016
+gamma >>> 0.0026275542562610773
+uniform >>> 0.007381513349986954
+norm >>> 0.002419489756181985
+laplace >>> 0.0025072571115470794
+
+Fitted errors for Green channel:
+
+beta >>> 0.0023038377327342283
+gamma >>> 0.002728705784431212
+uniform >>> 0.008175203385085828
+norm >>> 0.0025770881341129555
+laplace >>> 0.0023919190485823336
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0023637118727104457
+gamma >>> 0.0023449894408833598
+uniform >>> 0.005913510894933812
+norm >>> 0.0023567566740597566
+laplace >>> 0.00229652076778882
+
 =================================================
 
 Output for Image number 98
+
 Max and min values of Red channel of image 98 are: 255, 0
 Max and min values of Green channel of image 98 are: 255, 0
 Max and min values of Blue channel of image 98 are: 255, 0
@@ -3034,9 +5460,34 @@ Skewness and Kurtosis are : 1.282758527289032 0.9332968677590334
 Average value of Blue channel is : 62.738324324324324
 The Variance of Blue channel is :  3650.448721035955
 
+Fitted errors for Red channel:
+
+beta >>> 0.007054659572464081
+gamma >>> 0.020447349826046932
+uniform >>> 0.018889686887294338
+norm >>> 0.02044846467772688
+laplace >>> 0.021092402061595697
+
+Fitted errors for Green channel:
+
+beta >>> 0.0005414973315935318
+gamma >>> 0.0008586221903816588
+uniform >>> 0.0033161367981326844
+norm >>> 0.0036424225594750216
+laplace >>> 0.002983925471968353
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0012508995404888112
+gamma >>> 0.0012255344204634782
+uniform >>> 0.0054765949246858665
+norm >>> 0.004067307969724989
+laplace >>> 0.0032312990852184707
+
 =================================================
 
 Output for Image number 99
+
 Max and min values of Red channel of image 99 are: 255, 0
 Max and min values of Green channel of image 99 are: 255, 0
 Max and min values of Blue channel of image 99 are: 255, 0
@@ -3065,9 +5516,34 @@ Skewness and Kurtosis are : 0.9999250583111712 0.4360445351705944
 Average value of Blue channel is : 63.9601981981982
 The Variance of Blue channel is :  2600.6287641649214
 
+Fitted errors for Red channel:
+
+beta >>> 0.000957418447633568
+gamma >>> 0.0008908799110339149
+uniform >>> 0.00037397877494772954
+norm >>> 0.0008973734918193061
+laplace >>> 0.0014758592182292118
+
+Fitted errors for Green channel:
+
+beta >>> 0.00013804497906588951
+gamma >>> 0.00028970352405871574
+uniform >>> 0.0009296283918883953
+norm >>> 0.0005319854242086127
+laplace >>> 0.00108584147253255
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0003464099291590008
+gamma >>> 0.00023623381251577582
+uniform >>> 0.003394969077421891
+norm >>> 0.0014974139919578537
+laplace >>> 0.001484473042324928
+
 =================================================
 
 Output for Image number 100
+
 Max and min values of Red channel of image 100 are: 255, 3
 Max and min values of Green channel of image 100 are: 255, 0
 Max and min values of Blue channel of image 100 are: 255, 0
@@ -3095,6 +5571,30 @@ Mean value is : 65.43689489489489
 Skewness and Kurtosis are : 0.957303147688474 0.3074925255129255
 Average value of Blue channel is : 65.43689489489489
 The Variance of Blue channel is :  4297.810930658623
+
+Fitted errors for Red channel:
+
+beta >>> 0.004720851612284739
+gamma >>> 0.004741415497688415
+uniform >>> 0.005551707798110646
+norm >>> 0.005206801283071024
+laplace >>> 0.005954406726346878
+
+Fitted errors for Green channel:
+
+beta >>> 0.006272001450884997
+gamma >>> 0.006276701249497381
+uniform >>> 0.007358852871390948
+norm >>> 0.0070799609511914535
+laplace >>> 0.008169752141486079
+
+Fitted errors for Blue channel:
+
+beta >>> 0.0041130833240714
+gamma >>> 0.004312357601275546
+uniform >>> 0.010538419821269223
+norm >>> 0.009894667940735817
+laplace >>> 0.010219262253919678
 
 =================================================
 
